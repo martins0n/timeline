@@ -218,6 +218,8 @@
       leaders: {
         label: 'Leaders',
         actors: [
+          { key: 'ayaz-mutalibov', name: 'Ayaz Mutalibov', role: 'President of Azerbaijan (1991–1992)', match: ['Mutalibov'] },
+          { key: 'abulfaz-elchibey', name: 'Abulfaz Elchibey', role: 'President of Azerbaijan (1992–1993)', match: ['Elchibey'] },
           { key: 'heydar-aliyev', name: 'Heydar Aliyev', role: 'President of Azerbaijan (1993–2003)', match: ['Heydar Aliyev'] },
           { key: 'ilham-aliyev', name: 'Ilham Aliyev', role: 'President of Azerbaijan (2003–present)', match: ['Ilham Aliyev'] },
           { key: 'levon-ter-petrosyan', name: 'Levon Ter-Petrosyan', role: 'President of Armenia (1991–1998)', match: ['Levon Ter-Petrossian', 'Levon Ter-Petrosyan'] },
@@ -230,14 +232,15 @@
         label: 'Countries & Organizations',
         actors: [
           { key: 'azerbaijan', name: 'Azerbaijan', role: 'Government, MoD, Foreign Ministry', match: ['Azerbaijan', 'Azerbaijani'] },
-          { key: 'armenia', name: 'Armenia', role: 'Government, MoD, Foreign Ministry, NK authorities', match: ['Armenia', 'Armenian', 'Artsakh', 'NK', 'Nagorno-Karabakh'] },
+          { key: 'armenia', name: 'Armenia', role: 'Government, MoD, FM, NK authorities', match: ['Armenia', 'Armenian', 'Artsakh', 'NK', 'Nagorno-Karabakh', 'Mnatsakanyan', 'Harutyunyan', 'Shahramanyan'] },
+          { key: 'soviet-union', name: 'Soviet Union', role: 'Gorbachev, Supreme Soviet, government', match: ['Gorbachev', 'Soviet', 'USSR'] },
           { key: 'russia', name: 'Russia', role: 'Putin, Medvedev, Lavrov, MoD', match: ['Russia', 'Putin', 'Medvedev', 'Lavrov', 'Russian'] },
           { key: 'turkey', name: 'Turkey', role: 'Erdogan', match: ['Turkey', 'Erdogan'] },
           { key: 'usa', name: 'USA', role: 'Pelosi, Pompeo, Biden, State Dept', match: ['United States', 'U.S.', 'USA', 'Biden', 'Pelosi', 'Pompeo', 'State Department'] },
-          { key: 'eu', name: 'EU', role: 'Michel, European Parliament', match: ['European', 'EU', 'Michel'] },
-          { key: 'osce-minsk', name: 'OSCE / Minsk Group', role: 'Mediators', match: ['OSCE', 'Minsk Group', 'Co-Chair', 'co-chair'] },
-          { key: 'un', name: 'UN', role: 'Security Council, ICJ, Secretary-General', match: ['United Nations', 'UN ', 'Security Council', 'ICJ', 'Secretary-General', 'UNSC', 'General Assembly'] },
-          { key: 'human-rights', name: 'Human Rights Orgs', role: 'HRW, Amnesty, ICRC, Memorial', match: ['Human Rights Watch', 'Amnesty', 'ICRC', 'Memorial', 'human rights'] }
+          { key: 'eu', name: 'EU', role: 'Macron, Michel, European Parliament', match: ['European', 'EU', 'Michel', 'Macron'] },
+          { key: 'osce-minsk', name: 'OSCE / Minsk Group', role: 'Mediators', match: ['OSCE', 'Minsk Group', 'Co-Chair', 'co-chair', 'CSCE'] },
+          { key: 'un', name: 'UN', role: 'Security Council, ICJ, Secretary-General', match: ['United Nations', 'UN ', 'Security Council', 'ICJ', 'International Court', 'Secretary-General', 'UNSC', 'General Assembly', 'UNHCR'] },
+          { key: 'human-rights', name: 'Human Rights Orgs', role: 'HRW, Amnesty, ICRC, Memorial', match: ['Human Rights Watch', 'Amnesty', 'ICRC', 'Memorial', 'human rights', 'Moreno Ocampo'] }
         ]
       }
     };
@@ -389,7 +392,7 @@
 
       // Check hash
       const hash = window.location.hash.slice(1);
-      const initial = hash && findActor(hash) ? hash : 'heydar-aliyev';
+      const initial = hash && findActor(hash) ? hash : 'ayaz-mutalibov';
       selectActor(initial);
 
       window.addEventListener('hashchange', () => {

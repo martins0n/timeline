@@ -164,6 +164,12 @@
           "attribution": "Human Rights Watch",
           "context": "Report on Black January",
           "source": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh"
+        },
+        {
+          "text": "I could not give the order to fire on the people. They were my people.",
+          "attribution": "Ayaz Mutalibov",
+          "context": "On his refusal to authorize force against Soviet troops entering Baku, 1990",
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": []
@@ -233,6 +239,12 @@
           "attribution": "Human Rights Watch",
           "context": "1993 report on the conflict",
           "source": "Thomas de Waal, Black Garden"
+        },
+        {
+          "text": "The Azerbaijani opposition itself organized the massacre in order to use it as a means to overthrow me.",
+          "attribution": "Ayaz Mutalibov",
+          "context": "Controversial statement denying responsibility for Khojaly, Czech interview, 1992",
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -293,7 +305,14 @@
       "date": "1992-06-12",
       "dateLabel": "June 1992",
       "summary": "Following the losses at Shusha and Lachin, Azerbaijan launched a major offensive in summer 1992 under new defense leadership. Azerbaijani forces recaptured significant territories in northern Nagorno-Karabakh, including the Shahumyan and Martakert regions. The offensive demonstrated Azerbaijan's military capacity but was ultimately reversed by Armenian counter-offensives.",
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "We will liberate our lands by military means if the Armenians do not withdraw voluntarily.",
+          "attribution": "Abulfaz Elchibey",
+          "context": "Statement during the summer 1992 military offensive",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
       "videos": [
         {
           "youtubeId": "6xYm2FhhmNo",
