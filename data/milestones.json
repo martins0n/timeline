@@ -277,10 +277,6 @@
       ],
       "videos": [
         {
-          "youtubeId": "6xYm2FhhmNo",
-          "title": "Azeri Villages in Agdam Under Attack (AP Archive, Sep 1992)"
-        },
-        {
           "youtubeId": "9rEVZAdUFS4",
           "title": "Nagorno-Karabakh: Attack on Askeran (AP Archive, Apr 1992)"
         },
@@ -298,7 +294,12 @@
       "dateLabel": "June 1992",
       "summary": "Following the losses at Shusha and Lachin, Azerbaijan launched a major offensive in summer 1992 under new defense leadership. Azerbaijani forces recaptured significant territories in northern Nagorno-Karabakh, including the Shahumyan and Martakert regions. The offensive demonstrated Azerbaijan's military capacity but was ultimately reversed by Armenian counter-offensives.",
       "quotes": [],
-      "videos": []
+      "videos": [
+        {
+          "youtubeId": "6xYm2FhhmNo",
+          "title": "Azeri Villages in Agdam Under Attack (AP Archive, Sep 1992)"
+        }
+      ]
     },
     {
       "id": "capture-kelbajar",
@@ -526,7 +527,7 @@
           "text": "Nagorno-Karabakh cannot be dissolved by anyone's statement.",
           "attribution": "Serzh Sargsyan",
           "context": "Armenian position on the peace process",
-          "source": "https://armenpress.am/eng/news/930233.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -576,7 +577,7 @@
           "text": "All similar conflicts in modern history have been resolved in favor of the right of nations to self-determination.",
           "attribution": "Robert Kocharian",
           "context": "On the Nagorno-Karabakh conflict resolution",
-          "source": "https://news.am/eng/news/602907.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -602,7 +603,7 @@
           "text": "A classic example of both the implementation of the right to self-determination and misuse of the 'territorial integrity' concept as a justification for ethnic cleansings.",
           "attribution": "Robert Kocharian",
           "context": "On the conflict's legal dimensions",
-          "source": "https://news.am/eng/news/602907.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": []
@@ -910,7 +911,7 @@
           "text": "We are ready to solve the conflict by peaceful means... if the Azerbaijani leadership refuses from its empty imaginations.",
           "attribution": "Serzh Sargsyan",
           "context": "Response to escalation on the line of contact",
-          "source": "https://armenpress.am/eng/news/930233.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": []
@@ -951,7 +952,7 @@
           "text": "We took our revenge on the enemy; we took it on the occupier.",
           "attribution": "Ilham Aliyev",
           "context": "Address on the April 2016 military operations",
-          "source": "https://president.az/en/articles/view/45924"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -1050,12 +1051,7 @@
           "source": ""
         }
       ],
-      "videos": [
-        {
-          "youtubeId": "NeXmFsALLOo",
-          "title": "Aliyev and Pashinyan Skirmish in Munich (YouArmenia Archive)"
-        }
-      ]
+      "videos": []
     },
     {
       "id": "tovuz-border-clashes",
@@ -1329,7 +1325,7 @@
           "text": "Both leaders agreed to instruct the ministers of foreign affairs of Armenia and Azerbaijan to begin preparations for a peace treaty.",
           "attribution": "Charles Michel",
           "context": "Statement after Brussels meeting, April 6, 2022",
-          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/08/31/remarks-by-president-charles-michel/"
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/04/06/statement-of-european-council-president-charles-michel-following-the-second-trilateral-meeting-with-president-ilham-aliyev-and-prime-minister-nikol-pashinyan/"
         }
       ],
       "videos": []
@@ -1488,6 +1484,10 @@
         {
           "youtubeId": "qs4iEXbM2mY",
           "title": "Azerbaijan's Reaction to ICJ Blockade Order (CIVILNET)"
+        },
+        {
+          "youtubeId": "NeXmFsALLOo",
+          "title": "Aliyev and Pashinyan Skirmish in Munich (YouArmenia Archive)"
         }
       ]
     },
