@@ -277,10 +277,6 @@
       ],
       "videos": [
         {
-          "youtubeId": "6xYm2FhhmNo",
-          "title": "Azeri Villages in Agdam Under Attack (AP Archive, Sep 1992)"
-        },
-        {
           "youtubeId": "9rEVZAdUFS4",
           "title": "Nagorno-Karabakh: Attack on Askeran (AP Archive, Apr 1992)"
         },
@@ -298,7 +294,12 @@
       "dateLabel": "Июнь–август 1992",
       "summary": "После потерь Шуши и Лачина Азербайджан предпринял масштабное наступление, вернув значительную часть северных районов Нагорного Карабаха, включая Мардакерт (Агдере). Наступление сопровождалось тяжёлыми боями и значительными потерями с обеих сторон. Однако удержать все позиции не удалось, и к осени армянские силы перешли в контрнаступление.",
       "quotes": [],
-      "videos": []
+      "videos": [
+        {
+          "youtubeId": "6xYm2FhhmNo",
+          "title": "Azeri Villages in Agdam Under Attack (AP Archive, Sep 1992)"
+        }
+      ]
     },
     {
       "id": "capture-kelbajar",
@@ -520,7 +521,7 @@
           "text": "Нагорный Карабах не может быть упразднён чьим-либо заявлением.",
           "attribution": "Серж Саргсян",
           "context": "Армянская позиция по мирному процессу",
-          "source": "https://armenpress.am/eng/news/930233.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -570,7 +571,7 @@
           "text": "Все подобные конфликты в современной истории были разрешены в пользу права наций на самоопределение.",
           "attribution": "Роберт Кочарян",
           "context": "Об урегулировании нагорно-карабахского конфликта",
-          "source": "https://news.am/eng/news/602907.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -596,7 +597,7 @@
           "text": "Классический пример как реализации права на самоопределение, так и злоупотребления понятием «территориальная целостность» в качестве оправдания этнических чисток.",
           "attribution": "Роберт Кочарян",
           "context": "О правовых аспектах конфликта",
-          "source": "https://news.am/eng/news/602907.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": []
@@ -898,7 +899,7 @@
           "text": "Мы готовы решить конфликт мирными средствами... если азербайджанское руководство откажется от своих пустых фантазий.",
           "attribution": "Серж Саргсян",
           "context": "Реакция на эскалацию на линии соприкосновения",
-          "source": "https://armenpress.am/eng/news/930233.html"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": []
@@ -939,7 +940,7 @@
           "text": "Мы отомстили врагу; мы отомстили оккупанту.",
           "attribution": "Ильхам Алиев",
           "context": "Обращение по итогам военных операций апреля 2016",
-          "source": "https://president.az/en/articles/view/45924"
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -1038,12 +1039,7 @@
           "source": ""
         }
       ],
-      "videos": [
-        {
-          "youtubeId": "NeXmFsALLOo",
-          "title": "Aliyev and Pashinyan Skirmish in Munich (YouArmenia Archive)"
-        }
-      ]
+      "videos": []
     },
     {
       "id": "tovuz-border-clashes",
@@ -1310,14 +1306,14 @@
       "name": "Брюссельская встреча — переговоры о мирном договоре",
       "type": "date",
       "date": "2022-04-06",
-      "dateLabel": "31 августа 2022",
+      "dateLabel": "6 апреля 2022",
       "summary": "Президент Алиев и премьер-министр Пашинян встретились в Брюсселе при посредничестве Шарля Мишеля для обсуждения мирного договора. Стороны договорились о начале работы над текстом мирного соглашения на основе взаимного признания территориальной целостности, суверенитета и нерушимости границ.",
       "quotes": [
         {
           "text": "Лидеры подтвердили приверженность работе над мирным договором, основываясь на принципах суверенитета, территориальной целостности и нерушимости границ.",
           "attribution": "Шарль Мишель",
-          "context": "Заявление по итогам Брюссельской встречи, август 2022",
-          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/08/31/remarks-by-president-charles-michel/"
+          "context": "Заявление по итогам Брюссельской встречи, апрель 2022",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/04/06/statement-of-european-council-president-charles-michel-following-the-second-trilateral-meeting-with-president-ilham-aliyev-and-prime-minister-nikol-pashinyan/"
         }
       ],
       "videos": []
@@ -1470,6 +1466,10 @@
         {
           "youtubeId": "qs4iEXbM2mY",
           "title": "Azerbaijan's Reaction to ICJ Blockade Order (CIVILNET)"
+        },
+        {
+          "youtubeId": "NeXmFsALLOo",
+          "title": "Aliyev and Pashinyan Skirmish in Munich (YouArmenia Archive)"
         }
       ]
     },
