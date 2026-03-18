@@ -528,6 +528,12 @@
           "attribution": "Serzh Sargsyan",
           "context": "Armenian position on the peace process",
           "source": "Thomas de Waal, Black Garden"
+        },
+        {
+          "text": "We have no allies on the issue of Karabakh's independence... The real issue at stake is not keeping or losing Karabakh, but maintaining Karabakh's Armenian character.",
+          "attribution": "Levon Ter-Petrosyan",
+          "context": "\"War or Peace\" article, November 1997",
+          "source": "Thomas de Waal, Black Garden"
         }
       ],
       "videos": [
@@ -549,6 +555,12 @@
           "text": "The leadership of Nagorno-Karabakh, the defense minister, the minister of internal affairs, and the minister of national security do not share the views I have expressed. I do not consider it possible to remain president under these conditions.",
           "attribution": "Levon Ter-Petrossian",
           "context": "Resignation statement, February 1998",
+          "source": "Thomas de Waal, Black Garden"
+        },
+        {
+          "text": "I considered both the 'package' and the 'step-by-step' solutions to be realistic.",
+          "attribution": "Levon Ter-Petrosyan",
+          "context": "\"War or Peace\" article, reflecting on the peace proposals",
           "source": "Thomas de Waal, Black Garden"
         }
       ],
@@ -688,6 +700,12 @@
           "attribution": "Carey Cavanaugh, U.S. co-chair of the Minsk Group",
           "context": "Remarks on the Key West talks, 2001",
           "source": ""
+        },
+        {
+          "text": "I believe that we have opportunities to achieve a fair and just settlement... extending to the Nagorno-Karabakh region the status of the highest degree of self-rule within the framework of Azerbaijan's territorial integrity.",
+          "attribution": "Heydar Aliyev",
+          "context": "Council of Europe speech during Key West negotiations era, 2001",
+          "source": ""
         }
       ],
       "videos": [
@@ -825,6 +843,18 @@
           "attribution": "Meyendorf Declaration text",
           "context": "November 2, 2008",
           "source": "http://en.kremlin.ru/supplement/209"
+        },
+        {
+          "text": "Nagorno-Karabakh will not be independent; the position is backed by international mediators as well; Armenia has to accept the reality.",
+          "attribution": "Ilham Aliyev",
+          "context": "Remarks during the Meyendorf Declaration period, 2008",
+          "source": ""
+        },
+        {
+          "text": "Russia is ready to help find a political solution based on mutually acceptable agreements.",
+          "attribution": "Dmitry Medvedev",
+          "context": "At the Meyendorf Declaration signing, November 2008",
+          "source": "http://en.kremlin.ru/supplement/209"
         }
       ],
       "videos": []
@@ -884,6 +914,12 @@
           "text": "Azerbaijan will never agree to the independence of Nagorno-Karabakh. This is our firm and final position.",
           "attribution": "Ilham Aliyev",
           "context": "Remarks after the Kazan Summit, June 2011",
+          "source": ""
+        },
+        {
+          "text": "Our goal is not to win the war, we have already done it. Our goal is to find a just solution.",
+          "attribution": "Serzh Sargsyan",
+          "context": "During his presidency, on the Karabakh peace process",
           "source": ""
         }
       ],
@@ -953,6 +989,12 @@
           "attribution": "Ilham Aliyev",
           "context": "Address on the April 2016 military operations",
           "source": "Thomas de Waal, Black Garden"
+        },
+        {
+          "text": "If the time comes again, this time our blow will be final and deadly.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Warning after the April 2016 Four-Day War",
+          "source": ""
         }
       ],
       "videos": [
@@ -1096,6 +1138,30 @@
           "attribution": "Zohrab Mnatsakanyan",
           "context": "Armenian FM statement, October 2020",
           "source": ""
+        },
+        {
+          "text": "We support Azerbaijan until victory... it is time to end Armenia's occupation.",
+          "attribution": "Recep Tayyip Erdogan",
+          "context": "Statement of support for Azerbaijan, October 2020",
+          "source": ""
+        },
+        {
+          "text": "The agreements will create the necessary conditions for a lasting and full-scale settlement.",
+          "attribution": "Vladimir Putin",
+          "context": "Statement on the conflict, October 2020",
+          "source": ""
+        },
+        {
+          "text": "Neither President Trump nor Secretary of State Pompeo has placed a single phone call to the leaders.",
+          "attribution": "Biden campaign statement",
+          "context": "Criticism of U.S. inaction during the 44-day war, October 2020",
+          "source": ""
+        },
+        {
+          "text": "The Russian side has made efforts since 2010 to find a solution which has not been agreed by the sides yet.",
+          "attribution": "Sergey Lavrov",
+          "context": "Press conference on the Nagorno-Karabakh conflict, 2020",
+          "source": ""
         }
       ],
       "videos": [
@@ -1227,6 +1293,24 @@
           "text": "I signed this statement as a result of a deep analysis of the military situation... the President of Artsakh warning that if hostilities failed to stop, we could lose Stepanakert in a couple of days.",
           "attribution": "Nikol Pashinyan",
           "context": "Testimony on the ceasefire decision, June 2023",
+          "source": ""
+        },
+        {
+          "text": "This statement constitutes Armenia's capitulation. This statement puts an end to the years-long occupation.",
+          "attribution": "Ilham Aliyev",
+          "context": "Address to the nation on the trilateral ceasefire, November 2020",
+          "source": "https://president.az/en/articles/view/49585"
+        },
+        {
+          "text": "I signed a statement, not an agreement.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Post-ceasefire clarification on the nature of the document, November 2020",
+          "source": ""
+        },
+        {
+          "text": "Turkey stands with friendly and brotherly Azerbaijan with all our means and all our heart.",
+          "attribution": "Recep Tayyip Erdogan",
+          "context": "Statement on the trilateral ceasefire, November 2020",
           "source": ""
         }
       ],
@@ -1648,6 +1732,12 @@
           "attribution": "UN Secretary-General",
           "context": "Statement on the dissolution of Artsakh",
           "source": "https://press.un.org/en/2023/sgsm21979.doc.htm"
+        },
+        {
+          "text": "Peace is unlikely without external guarantees. Armenia is negotiating from a position of weakness.",
+          "attribution": "Robert Kocharian",
+          "context": "Opposition statements on the post-war situation, 2023",
+          "source": ""
         }
       ],
       "videos": [

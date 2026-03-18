@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Actors — Armenia–Azerbaijan Conflict Timeline</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    html, body { overflow: auto; }
+    #app { height: auto; min-height: 100vh; min-height: 100dvh; }
+
+    .actors-header {
+      text-align: center;
+      padding: 12px 24px 0;
+      flex-shrink: 0;
+    }
+    .actors-header h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--accent-gold);
+      letter-spacing: 0.02em;
+    }
+    .actors-header .subtitle {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* Tab bar */
+    .actor-tabs-wrap {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--bg-primary);
+      border-bottom: 1px solid rgba(201,169,110,0.15);
+      padding: 10px 0 0;
+    }
+    .actor-group-label {
+      font-size: 0.55rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      padding: 0 16px;
+      margin-bottom: 4px;
+    }
+    .actor-tabs {
+      display: flex;
+      overflow-x: auto;
+      gap: 2px;
+      padding: 0 12px 8px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--accent-gold-dim) transparent;
+    }
+    .actor-tabs::-webkit-scrollbar { height: 3px; }
+    .actor-tabs::-webkit-scrollbar-thumb { background: var(--accent-gold-dim); border-radius: 2px; }
+    .actor-tab {
+      flex-shrink: 0;
+      padding: 6px 12px;
+      font-size: 0.7rem;
+      font-family: inherit;
+      border: 1px solid rgba(201,169,110,0.2);
+      border-radius: 4px;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+    .actor-tab:hover { border-color: var(--accent-gold-dim); color: var(--text-primary); }
+    .actor-tab.active {
+      background: rgba(201,169,110,0.15);
+      border-color: var(--accent-gold);
+      color: var(--accent-gold);
+      font-weight: 600;
+    }
+
+    /* Actor info */
+    .actor-info {
+      max-width: var(--content-max-width);
+      margin: 24px auto 0;
+      padding: 0 24px;
+    }
+    .actor-name {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+    .actor-role {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      margin-bottom: 2px;
+    }
+    .actor-dates {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+    }
+    .actor-no-quotes {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      padding: 40px 0;
+    }
+
+    /* Timeline cards */
+    .actor-timeline {
+      max-width: var(--content-max-width);
+      margin: 0 auto;
+      padding: 0 24px 40px;
+      position: relative;
+    }
+    .actor-timeline::before {
+      content: '';
+      position: absolute;
+      left: 36px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: rgba(201,169,110,0.15);
+    }
+    .timeline-card {
+      position: relative;
+      margin-bottom: 20px;
+      padding-left: 40px;
+    }
+    .timeline-card::before {
+      content: '';
+      position: absolute;
+      left: 31px;
+      top: 8px;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--accent-gold-dim);
+      border: 2px solid var(--bg-primary);
+      z-index: 1;
+    }
+    .card-date {
+      font-size: 0.7rem;
+      font-weight: 500;
+      color: var(--accent-gold);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 6px;
+    }
+    .card-body {
+      background: var(--bg-card);
+      border-left: 3px solid var(--accent-gold);
+      border-radius: 0 6px 6px 0;
+      padding: 14px 18px;
+    }
+    .card-quote {
+      font-style: italic;
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+    .card-quote::before { content: "\201C"; }
+    .card-quote::after { content: "\201D"; }
+    .card-context {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+    .card-milestone-link {
+      font-size: 0.65rem;
+      color: var(--accent-gold-dim);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .card-milestone-link:hover {
+      color: var(--accent-gold);
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .actor-timeline::before { left: 20px; }
+      .timeline-card { padding-left: 28px; }
+      .timeline-card::before { left: 15px; width: 10px; height: 10px; }
+      .actor-info { padding: 0 16px; }
+      .actor-timeline { padding: 0 16px 40px; }
+    }
+    @media (max-width: 480px) {
+      .actor-name { font-size: 1.15rem; }
+      .card-quote { font-size: 0.82rem; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header class="actors-header">
+      <h1>Actors</h1>
+      <p class="subtitle">Trace each actor's position through their own words</p>
+      <div class="lang-switch">
+        <span class="lang-active">EN</span> | <a href="actors-ru.html">RU</a>
+        <span class="lang-sep">·</span>
+        <a href="index.html">Timeline</a>
+        <span class="lang-sep">·</span>
+        <a href="sources.html">Sources</a>
+      </div>
+    </header>
+
+    <div class="actor-tabs-wrap" id="tabs-wrap"></div>
+    <div class="actor-info" id="actor-info"></div>
+    <div class="actor-timeline" id="actor-timeline"></div>
+  </div>
+
+  <script>
+  (function () {
+    'use strict';
+
+    const ACTORS = {
+      leaders: {
+        label: 'Leaders',
+        actors: [
+          { key: 'heydar-aliyev', name: 'Heydar Aliyev', role: 'President of Azerbaijan (1993–2003)', match: ['Heydar Aliyev'] },
+          { key: 'ilham-aliyev', name: 'Ilham Aliyev', role: 'President of Azerbaijan (2003–present)', match: ['Ilham Aliyev'] },
+          { key: 'levon-ter-petrosyan', name: 'Levon Ter-Petrosyan', role: 'President of Armenia (1991–1998)', match: ['Levon Ter-Petrossian', 'Levon Ter-Petrosyan'] },
+          { key: 'robert-kocharian', name: 'Robert Kocharian', role: 'President of Armenia (1998–2008)', match: ['Robert Kocharian'] },
+          { key: 'serzh-sargsyan', name: 'Serzh Sargsyan', role: 'President / PM of Armenia (2008–2018)', match: ['Serzh Sargsyan'] },
+          { key: 'nikol-pashinyan', name: 'Nikol Pashinyan', role: 'Prime Minister of Armenia (2018–present)', match: ['Nikol Pashinyan'] }
+        ]
+      },
+      countries: {
+        label: 'Countries & Organizations',
+        actors: [
+          { key: 'azerbaijan', name: 'Azerbaijan', role: 'Government, MoD, Foreign Ministry', match: ['Azerbaijan', 'Azerbaijani'] },
+          { key: 'armenia', name: 'Armenia', role: 'Government, MoD, Foreign Ministry, NK authorities', match: ['Armenia', 'Armenian', 'Artsakh', 'NK', 'Nagorno-Karabakh'] },
+          { key: 'russia', name: 'Russia', role: 'Putin, Medvedev, Lavrov, MoD', match: ['Russia', 'Putin', 'Medvedev', 'Lavrov', 'Russian'] },
+          { key: 'turkey', name: 'Turkey', role: 'Erdogan', match: ['Turkey', 'Erdogan'] },
+          { key: 'usa', name: 'USA', role: 'Pelosi, Pompeo, Biden, State Dept', match: ['United States', 'U.S.', 'USA', 'Biden', 'Pelosi', 'Pompeo', 'State Department'] },
+          { key: 'eu', name: 'EU', role: 'Michel, European Parliament', match: ['European', 'EU', 'Michel'] },
+          { key: 'osce-minsk', name: 'OSCE / Minsk Group', role: 'Mediators', match: ['OSCE', 'Minsk Group', 'Co-Chair', 'co-chair'] },
+          { key: 'un', name: 'UN', role: 'Security Council, ICJ, Secretary-General', match: ['United Nations', 'UN ', 'Security Council', 'ICJ', 'Secretary-General', 'UNSC', 'General Assembly'] },
+          { key: 'human-rights', name: 'Human Rights Orgs', role: 'HRW, Amnesty, ICRC, Memorial', match: ['Human Rights Watch', 'Amnesty', 'ICRC', 'Memorial', 'human rights'] }
+        ]
+      }
+    };
+
+    // Leader keys for exclusion from country matches
+    const LEADER_ATTRIBUTIONS = [];
+    ACTORS.leaders.actors.forEach(a => LEADER_ATTRIBUTIONS.push(...a.match));
+
+    let milestones = [];
+    let currentActor = null;
+
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    function matchesActor(attribution, actor) {
+      const attr = attribution || '';
+      // For country/org actors, exclude if it's specifically a leader quote
+      if (ACTORS.countries.actors.some(c => c.key === actor.key)) {
+        // Check if this attribution matches a specific leader
+        for (const leaderMatch of LEADER_ATTRIBUTIONS) {
+          if (attr.includes(leaderMatch)) return false;
+        }
+      }
+      return actor.match.some(m => attr.includes(m));
+    }
+
+    function getActorQuotes(actor) {
+      const results = [];
+      milestones.forEach(m => {
+        if (!m.quotes) return;
+        m.quotes.forEach(q => {
+          if (matchesActor(q.attribution, actor)) {
+            results.push({
+              date: m.date || m.dateStart || '',
+              dateLabel: m.dateLabel,
+              milestoneId: m.id,
+              milestoneName: m.name,
+              text: q.text,
+              attribution: q.attribution,
+              context: q.context,
+              source: q.source
+            });
+          }
+        });
+      });
+      // Sort chronologically
+      results.sort((a, b) => a.date.localeCompare(b.date));
+      return results;
+    }
+
+    function renderTabs() {
+      const wrap = document.getElementById('tabs-wrap');
+      let html = '';
+      for (const [groupKey, group] of Object.entries(ACTORS)) {
+        html += `<div class="actor-group-label">${escapeHtml(group.label)}</div>`;
+        html += '<div class="actor-tabs">';
+        group.actors.forEach(a => {
+          html += `<button class="actor-tab" data-key="${a.key}">${escapeHtml(a.name)}</button>`;
+        });
+        html += '</div>';
+      }
+      wrap.innerHTML = html;
+
+      wrap.querySelectorAll('.actor-tab').forEach(btn => {
+        btn.addEventListener('click', () => selectActor(btn.dataset.key));
+      });
+    }
+
+    function findActor(key) {
+      for (const group of Object.values(ACTORS)) {
+        const found = group.actors.find(a => a.key === key);
+        if (found) return found;
+      }
+      return null;
+    }
+
+    function selectActor(key) {
+      currentActor = key;
+      // Update URL
+      history.replaceState(null, '', '#' + key);
+
+      // Update active tab
+      document.querySelectorAll('.actor-tab').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.key === key);
+      });
+
+      const actor = findActor(key);
+      if (!actor) return;
+
+      const quotes = getActorQuotes(actor);
+
+      // Actor info
+      const infoEl = document.getElementById('actor-info');
+      const dateRange = quotes.length > 0
+        ? `${quotes[0].dateLabel} — ${quotes[quotes.length - 1].dateLabel}`
+        : '';
+      infoEl.innerHTML = `
+        <div class="actor-name">${escapeHtml(actor.name)}</div>
+        <div class="actor-role">${escapeHtml(actor.role)}</div>
+        <div class="actor-dates">${quotes.length} quote${quotes.length !== 1 ? 's' : ''} · ${escapeHtml(dateRange)}</div>
+      `;
+
+      // Timeline cards
+      const timelineEl = document.getElementById('actor-timeline');
+      if (quotes.length === 0) {
+        timelineEl.innerHTML = '<div class="actor-no-quotes">No quotes found for this actor.</div>';
+        timelineEl.style.setProperty('--tl-display', 'none');
+        return;
+      }
+
+      const lang = document.documentElement.lang || 'en';
+      const basePage = lang === 'ru' ? 'ru.html' : 'index.html';
+
+      timelineEl.innerHTML = quotes.map(q => `
+        <div class="timeline-card">
+          <div class="card-date">${escapeHtml(q.dateLabel)}</div>
+          <div class="card-body">
+            <p class="card-quote">${escapeHtml(q.text)}</p>
+            ${q.context ? `<div class="card-context">${escapeHtml(q.context)}</div>` : ''}
+            <a class="card-milestone-link" href="${basePage}#${q.milestoneId}">${escapeHtml(q.milestoneName)} &#8594;</a>
+          </div>
+        </div>
+      `).join('');
+
+      // Scroll to top of content
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      // Scroll active tab into view
+      const activeTab = document.querySelector('.actor-tab.active');
+      if (activeTab) activeTab.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    }
+
+    async function init() {
+      const lang = document.documentElement.lang || 'en';
+      const dataFile = lang === 'ru' ? 'data/milestones-ru.json' : 'data/milestones.json';
+      try {
+        const resp = await fetch(dataFile);
+        const data = await resp.json();
+        milestones = data.milestones;
+      } catch (e) {
+        document.getElementById('actor-info').innerHTML = '<p style="color:#e55">Failed to load data.</p>';
+        return;
+      }
+
+      renderTabs();
+
+      // Check hash
+      const hash = window.location.hash.slice(1);
+      const initial = hash && findActor(hash) ? hash : 'heydar-aliyev';
+      selectActor(initial);
+
+      window.addEventListener('hashchange', () => {
+        const h = window.location.hash.slice(1);
+        if (h && findActor(h) && h !== currentActor) selectActor(h);
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+  </script>
+</body>
+</html>
