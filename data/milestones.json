@@ -1,0 +1,1665 @@
+{
+  "meta": {
+    "title": "Armenia–Azerbaijan Conflict: A Timeline",
+    "subtitle": "Key events from 1988 to 2023",
+    "disclaimer": "This timeline presents documented events and direct quotes from official records, UN sessions, and press conferences. No interpretation is provided."
+  },
+  "milestones": [
+    {
+      "id": "nkao-soviet-appeals",
+      "name": "NKAO Soviet Appeals to Join Armenia",
+      "type": "date",
+      "date": "1988-02-20",
+      "dateLabel": "February 20, 1988",
+      "summary": "The Nagorno-Karabakh Autonomous Oblast (NKAO) Soviet voted to request transfer from the Azerbaijan SSR to the Armenian SSR. The vote of 110 to 17 was an unprecedented act of regional defiance within the Soviet Union. Moscow rejected the request, but the vote triggered mass demonstrations in both Yerevan and Stepanakert.",
+      "quotes": [
+        {
+          "text": "Taking into account the wishes of the working people of the NKAO, we request the Supreme Soviets of the Armenian SSR and the Azerbaijan SSR to show understanding and approve the transfer of the NKAO from the Azerbaijan SSR to the Armenian SSR.",
+          "attribution": "NKAO Soviet resolution",
+          "context": "Official text of the February 20 vote",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "pS3P9kk-vFk",
+          "title": "Origins of the Nagorno-Karabakh Conflict (CaspianReport)"
+        },
+        {
+          "youtubeId": "RLOPx7ZaxxE",
+          "title": "February 1988 — Stepanakert Rallies (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "dPsXA8-EGCs",
+          "title": "Grand Rally in Stepanakert (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "sumgait-pogrom",
+      "name": "Sumgait Pogrom",
+      "type": "interval",
+      "dateStart": "1988-02-27",
+      "dateEnd": "1988-02-29",
+      "dateLabel": "February 27–29, 1988",
+      "summary": "Anti-Armenian pogroms erupted in the industrial city of Sumgait, Azerbaijan. Mobs attacked Armenian residents, looting homes and committing acts of violence over three days. Soviet authorities confirmed 32 deaths (26 Armenians, 6 Azerbaijanis), though Armenian sources cite higher figures. The events marked the first major ethnic violence in the Soviet Union since World War II.",
+      "quotes": [
+        {
+          "text": "The events in Sumgait were a tragedy for both the Armenian and Azerbaijani peoples.",
+          "attribution": "Soviet government statement",
+          "context": "Official response, March 1988",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "gorbachev-rejects-border-changes",
+      "name": "Gorbachev Rejects Border Changes",
+      "type": "date",
+      "date": "1988-03-01",
+      "dateLabel": "March 1988",
+      "summary": "Soviet leader Mikhail Gorbachev publicly rejected any redrawing of internal Soviet borders, stating that changing the status of Nagorno-Karabakh would set a dangerous precedent. He called for calm and proposed economic development packages for the region instead. The decision disappointed Armenian demonstrators who had gathered in massive rallies in Yerevan.",
+      "quotes": [
+        {
+          "text": "We cannot allow a revision of borders. This would be a dangerous path that could lead to interethnic conflicts throughout the country.",
+          "attribution": "Mikhail Gorbachev",
+          "context": "Address on the Nagorno-Karabakh situation, March 1988",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "ussr-supreme-soviet-rejects-transfer",
+      "name": "USSR Supreme Soviet Rejects NKAO Transfer",
+      "type": "date",
+      "date": "1988-07-18",
+      "dateLabel": "July 18, 1988",
+      "summary": "The Presidium of the USSR Supreme Soviet officially rejected the NKAO request to transfer to Armenia, ruling that the existing borders of the Azerbaijan SSR and Armenian SSR would remain unchanged. The decision cited constitutional provisions and the need to maintain territorial integrity. Protests continued in both republics despite the ruling.",
+      "quotes": [
+        {
+          "text": "The Presidium considers it impossible to change the borders of the Azerbaijan SSR and the Armenian SSR as established by the constitution.",
+          "attribution": "USSR Supreme Soviet Presidium",
+          "context": "Official resolution, July 18, 1988",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "moscow-direct-rule-nkao",
+      "name": "Moscow Imposes Direct Rule on NKAO",
+      "type": "interval",
+      "dateStart": "1989-01-12",
+      "dateEnd": "1989-11-28",
+      "dateLabel": "January–November 1989",
+      "summary": "Moscow placed the NKAO under a special administration committee reporting directly to the Kremlin, bypassing Azerbaijani authority. Arkady Volsky was appointed to lead the committee. The arrangement failed to satisfy either side: Armenians saw it as temporary, while Azerbaijan viewed it as an infringement on sovereignty. Direct rule was rescinded in November 1989, returning NKAO to Azerbaijani jurisdiction.",
+      "quotes": [
+        {
+          "text": "The introduction of a special form of administration is a temporary measure aimed at normalizing the situation in the region.",
+          "attribution": "Soviet government decree",
+          "context": "January 1989",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "armenian-national-movement-founded",
+      "name": "Armenian National Movement Founded",
+      "type": "date",
+      "date": "1989-11-01",
+      "dateLabel": "November 1989",
+      "summary": "The Armenian Pan-National Movement (ANM) was formally established, growing out of the Karabakh Committee that had organized mass demonstrations since 1988. Led by Levon Ter-Petrossian and other intellectuals, the movement advocated for Armenian self-determination and democratic reform. The ANM would go on to dominate Armenian politics through the early 1990s.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "armenian-ssr-nkao-unification",
+      "name": "Armenian SSR and NKAO Declare Unification",
+      "type": "date",
+      "date": "1989-12-01",
+      "dateLabel": "December 1, 1989",
+      "summary": "The Armenian SSR Supreme Soviet and the NKAO National Council adopted a joint resolution declaring the unification of Nagorno-Karabakh with Armenia. The resolution asserted the right of the Armenian population of NKAO to self-determination. Moscow declared the resolution unconstitutional, and Azerbaijan condemned it as a violation of sovereignty.",
+      "quotes": [
+        {
+          "text": "The Armenian SSR Supreme Soviet and the NKAO National Council proclaim the reunification of the Armenian SSR and Nagorno-Karabakh.",
+          "attribution": "Joint resolution text",
+          "context": "December 1, 1989",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "baku-pogroms",
+      "name": "Baku Pogroms",
+      "type": "interval",
+      "dateStart": "1990-01-13",
+      "dateEnd": "1990-01-19",
+      "dateLabel": "January 13–19, 1990",
+      "summary": "Anti-Armenian violence erupted in Baku, the capital of Azerbaijan SSR. Over the course of a week, Armenian residents were attacked, killed, and driven from their homes. The pogroms resulted in significant casualties and the mass exodus of the remaining Armenian population from Baku, estimated at over 200,000 people. The Soviet government was criticized for delayed intervention.",
+      "quotes": [
+        {
+          "text": "The pogroms in Baku were organized actions aimed at the Armenian population of the city.",
+          "attribution": "Human Rights Watch report",
+          "context": "1990 investigation",
+          "source": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "black-january",
+      "name": "Black January",
+      "type": "interval",
+      "dateStart": "1990-01-19",
+      "dateEnd": "1990-01-20",
+      "dateLabel": "January 19–20, 1990",
+      "summary": "Soviet troops entered Baku on the night of January 19–20, crushing the Azerbaijani Popular Front movement and imposing a state of emergency. The military operation killed at least 131 civilians according to official figures, with Azerbaijani sources citing higher numbers. The event is commemorated annually in Azerbaijan and is considered a turning point that strengthened the Azerbaijani independence movement.",
+      "quotes": [
+        {
+          "text": "The introduction of troops into Baku was accompanied by excessive and disproportionate use of force against the civilian population.",
+          "attribution": "Human Rights Watch",
+          "context": "Report on Black January",
+          "source": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "operation-ring",
+      "name": "Operation Ring",
+      "type": "interval",
+      "dateStart": "1991-04-30",
+      "dateEnd": "1991-05-15",
+      "dateLabel": "April–May 1991",
+      "summary": "Soviet Interior Ministry troops (OMON) jointly with Azerbaijani forces conducted Operation Ring, a campaign to forcibly deport Armenian populations from villages in the NKAO and surrounding areas. The operation targeted dozens of Armenian-populated villages. International observers and human rights organizations documented forced deportations and violence against civilians.",
+      "quotes": [
+        {
+          "text": "The joint operations involved the forced removal of Armenian inhabitants from their villages, accompanied by beatings, arrests, and destruction of property.",
+          "attribution": "Memorial Human Rights Centre",
+          "context": "1991 field investigation",
+          "source": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "armenian-independence-nk-declaration",
+      "name": "Armenian Independence & NK Declaration",
+      "type": "interval",
+      "dateStart": "1991-09-21",
+      "dateEnd": "1991-12-10",
+      "dateLabel": "September–December 1991",
+      "summary": "Armenia declared independence from the Soviet Union on September 21, 1991, following a referendum with 99.5% support. On December 10, Nagorno-Karabakh held its own referendum (boycotted by the Azerbaijani minority) in which 99.98% voted for independence. The self-declared Republic of Nagorno-Karabakh (later Artsakh) was proclaimed on January 6, 1992, though it was never internationally recognized.",
+      "quotes": [
+        {
+          "text": "The people of Armenia have voted overwhelmingly for independence and a free, democratic future.",
+          "attribution": "Levon Ter-Petrossian",
+          "context": "Independence declaration, September 1991",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "YjsmETxdxLg",
+          "title": "R. Kocharian — Day Before the Formation of NKR (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "b5EOZIcq5WM",
+          "title": "Independence Day 21.09.1991 — Levon Ter-Petrosyan Votes (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "khojaly-massacre",
+      "name": "Khojaly Massacre",
+      "type": "interval",
+      "dateStart": "1992-02-25",
+      "dateEnd": "1992-02-26",
+      "dateLabel": "February 25–26, 1992",
+      "summary": "Armenian forces, supported by the 366th CIS regiment, captured the town of Khojaly. During and after the assault, hundreds of Azerbaijani civilians were killed. Azerbaijan's official toll stands at 613 dead, including women, children, and elderly. International organizations, including Human Rights Watch, documented the killings. The event is the deadliest single incident of the conflict and is commemorated annually in Azerbaijan.",
+      "quotes": [
+        {
+          "text": "Before Khojaly, the Azerbaijanis thought that they were joking with us, they thought that the Armenians were people who could not raise their hand against the civilian population. We were able to break that. And that's what happened.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Interview with Thomas de Waal, journalist, early 2000s",
+          "source": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh"
+        },
+        {
+          "text": "The killing of civilians in Khojaly cannot be justified on any grounds.",
+          "attribution": "Human Rights Watch",
+          "context": "1993 report on the conflict",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "jpC3rJzf3G8",
+          "title": "First Hand: Khojaly Massacre Survivor (TRT World — The Newsmakers)"
+        }
+      ]
+    },
+    {
+      "id": "capture-shusha-lachin",
+      "name": "Capture of Shusha & Lachin Corridor",
+      "type": "interval",
+      "dateStart": "1992-05-08",
+      "dateEnd": "1992-05-18",
+      "dateLabel": "May 8–18, 1992",
+      "summary": "Armenian forces captured the strategically vital town of Shusha on May 8–9, eliminating the last Azerbaijani stronghold within Nagorno-Karabakh. On May 18, they took the Lachin district, establishing a land corridor connecting Nagorno-Karabakh to Armenia. The capture of Shusha and the Lachin Corridor fundamentally altered the military balance. Thousands of Azerbaijani civilians were displaced.",
+      "quotes": [
+        {
+          "text": "The fall of Shusha was a catastrophe for Azerbaijan. It meant the loss of our last foothold in Karabakh.",
+          "attribution": "Azerbaijani military commentary",
+          "context": "May 1992",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "csce-minsk-group",
+      "name": "CSCE Creates Minsk Group",
+      "type": "date",
+      "date": "1992-03-24",
+      "dateLabel": "March 24, 1992",
+      "summary": "The Conference on Security and Cooperation in Europe (CSCE, later OSCE) established the Minsk Group to mediate a peaceful resolution to the conflict. The group was co-chaired by the United States, Russia, and France. It became the primary international framework for negotiations over the next three decades, though it ultimately failed to produce a binding settlement.",
+      "quotes": [
+        {
+          "text": "The Minsk Group is tasked with providing an appropriate framework for the resolution of the conflict through negotiation.",
+          "attribution": "CSCE Council of Ministers",
+          "context": "Helsinki Additional Meeting, March 1992",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "6xYm2FhhmNo",
+          "title": "Azeri Villages in Agdam Under Attack (AP Archive, Sep 1992)"
+        },
+        {
+          "youtubeId": "9rEVZAdUFS4",
+          "title": "Nagorno-Karabakh: Attack on Askeran (AP Archive, Apr 1992)"
+        },
+        {
+          "youtubeId": "PjrU83y8RnM",
+          "title": "Nagorno-Karabakh: OSCE Negotiations (AP Archive, 1995)"
+        }
+      ]
+    },
+    {
+      "id": "azerbaijan-summer-1992-offensive",
+      "name": "Azerbaijan's Summer 1992 Offensive",
+      "type": "date",
+      "date": "1992-06-12",
+      "dateLabel": "June 1992",
+      "summary": "Following the losses at Shusha and Lachin, Azerbaijan launched a major offensive in summer 1992 under new defense leadership. Azerbaijani forces recaptured significant territories in northern Nagorno-Karabakh, including the Shahumyan and Martakert regions. The offensive demonstrated Azerbaijan's military capacity but was ultimately reversed by Armenian counter-offensives.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "capture-kelbajar",
+      "name": "Capture of Kelbajar District",
+      "type": "interval",
+      "dateStart": "1993-04-02",
+      "dateEnd": "1993-04-03",
+      "dateLabel": "April 2–3, 1993",
+      "summary": "Armenian forces captured the Kelbajar district, located between Nagorno-Karabakh and Armenia but outside the NKAO boundaries. The offensive displaced approximately 60,000 Azerbaijani civilians. The capture of Kelbajar — territory outside the disputed autonomous region — drew strong international condemnation and led directly to the first UN Security Council resolution on the conflict.",
+      "quotes": [
+        {
+          "text": "The operation was a defensive measure to create a security buffer.",
+          "attribution": "NK Armenian authorities",
+          "context": "Statement on the Kelbajar operation, 1993",
+          "source": ""
+        },
+        {
+          "text": "Armenian forces have occupied Kelbajar district, which is outside the disputed autonomous region, displacing 60,000 Azerbaijani civilians.",
+          "attribution": "Azerbaijani government",
+          "context": "Official protest to the UN, April 1993",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "SLo_bddL_3w",
+          "title": "Kelbajar 1994 — Seiran Saroyan (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "HicnIUCa1wU",
+          "title": "Gagik Melkonyan: 'There is no food, shoes, clothes' — Kalbajar (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "unsc-resolution-822",
+      "name": "UNSC Resolution 822",
+      "type": "date",
+      "date": "1993-04-30",
+      "dateLabel": "April 30, 1993",
+      "summary": "The United Nations Security Council adopted Resolution 822, demanding the withdrawal of Armenian forces from Kelbajar and other occupied Azerbaijani territories. The resolution called for a cessation of hostilities and resumption of negotiations within the CSCE Minsk Group framework. It was the first of four UNSC resolutions addressing the conflict.",
+      "quotes": [
+        {
+          "text": "The Security Council demands the immediate withdrawal of local Armenian forces from the Kelbajar district and other recently occupied areas of Azerbaijan.",
+          "attribution": "UNSC Resolution 822",
+          "context": "Adopted April 30, 1993",
+          "source": "https://digitallibrary.un.org/record/164030"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "return-heydar-aliyev",
+      "name": "Return of Heydar Aliyev",
+      "type": "date",
+      "date": "1993-06-15",
+      "dateLabel": "June 1993",
+      "summary": "Amid political chaos and military setbacks, Heydar Aliyev — former Soviet Politburo member and leader of the Nakhchivan Autonomous Republic — returned to power in Baku. He was elected chairman of the Supreme Soviet in June and won the presidential election in October 1993. Aliyev stabilized Azerbaijan's political situation and pursued a dual strategy of diplomatic engagement and military modernization.",
+      "quotes": [
+        {
+          "text": "Azerbaijan's territorial integrity must be restored. There can be no compromise on this fundamental principle.",
+          "attribution": "Heydar Aliyev",
+          "context": "Address upon assuming leadership, June 1993",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "capture-agdam-southern-districts",
+      "name": "Capture of Agdam & Southern Districts",
+      "type": "interval",
+      "dateStart": "1993-07-23",
+      "dateEnd": "1993-08-31",
+      "dateLabel": "July–August 1993",
+      "summary": "Armenian forces captured the city of Agdam on July 23 and then swept through the southern districts of Fuzuli, Jabrayil, Gubadly, and Zangilan between August and October 1993. The offensive created a vast buffer zone of occupied Azerbaijani territory surrounding Nagorno-Karabakh. Hundreds of thousands of Azerbaijani civilians were displaced.",
+      "quotes": [
+        {
+          "text": "The advance was necessary to prevent Azerbaijani bombardment of civilian areas.",
+          "attribution": "Armenian military command",
+          "context": "Justification for military operations, 1993",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "kwCNXM3s988",
+          "title": "Fizuli — Armenian Advance South, 1993 (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "-QcG61i22po",
+          "title": "Agdam (Akna) — 1993 (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "unsc-resolution-853",
+      "name": "UNSC Resolution 853",
+      "type": "date",
+      "date": "1993-07-29",
+      "dateLabel": "July 29, 1993",
+      "summary": "The UN Security Council adopted Resolution 853 following the capture of Agdam. The resolution condemned the seizure of the district and demanded the complete withdrawal of occupying forces. It reaffirmed Azerbaijan's sovereignty and territorial integrity while endorsing the CSCE Minsk process as the framework for a peaceful settlement.",
+      "quotes": [
+        {
+          "text": "The Security Council condemns the seizure of the district of Agdam and demands the immediate, complete and unconditional withdrawal of the occupying forces involved.",
+          "attribution": "UNSC Resolution 853",
+          "context": "Adopted July 29, 1993",
+          "source": "https://digitallibrary.un.org/record/168378"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "unsc-resolution-874",
+      "name": "UNSC Resolution 874",
+      "type": "date",
+      "date": "1993-10-14",
+      "dateLabel": "October 14, 1993",
+      "summary": "The UN Security Council adopted Resolution 874, calling for the implementation of a ceasefire timetable proposed by the Minsk Group. The resolution urged all parties to refrain from violations of international humanitarian law and to allow unimpeded access for humanitarian aid. It endorsed the efforts of the CSCE Minsk Group in seeking a permanent resolution.",
+      "quotes": [
+        {
+          "text": "The Security Council calls for the implementation of the ceasefire and the withdrawal of forces as a first step toward a negotiated settlement.",
+          "attribution": "UNSC Resolution 874",
+          "context": "Adopted October 14, 1993",
+          "source": "https://digitallibrary.un.org/record/173541"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "unsc-resolution-884",
+      "name": "UNSC Resolution 884",
+      "type": "date",
+      "date": "1993-11-12",
+      "dateLabel": "November 12, 1993",
+      "summary": "The fourth and final UNSC resolution on the conflict condemned the occupation of the Zangilan district and demanded withdrawal from all occupied territories. The resolution reiterated the sovereignty and territorial integrity of Azerbaijan and called for unimpeded humanitarian access. Like the three preceding resolutions, it was not enforced by any mechanism.",
+      "quotes": [
+        {
+          "text": "The Security Council condemns the recent violations of the ceasefire established between the parties, which resulted in the resumption of hostilities, and the seizure of the Zangilan district.",
+          "attribution": "UNSC Resolution 884",
+          "context": "Adopted November 12, 1993",
+          "source": "https://digitallibrary.un.org/record/176727"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "bishkek-ceasefire",
+      "name": "Bishkek Ceasefire",
+      "type": "interval",
+      "dateStart": "1994-05-05",
+      "dateEnd": "1994-05-12",
+      "dateLabel": "May 5–12, 1994",
+      "summary": "A ceasefire agreement brokered by Russia was signed in Bishkek, Kyrgyzstan. The protocol was signed by the defense ministers of Armenia and Azerbaijan, and by the commander of NK Armenian forces. The ceasefire froze the conflict with Armenian forces controlling Nagorno-Karabakh and seven surrounding Azerbaijani districts — approximately 13.6% of Azerbaijan's territory. The ceasefire held, with intermittent violations, for over 26 years.",
+      "quotes": [
+        {
+          "text": "The sides agree to a ceasefire on all fronts effective from midnight of May 12, 1994.",
+          "attribution": "Bishkek Protocol",
+          "context": "May 5, 1994",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "9pUIBZA9arI",
+          "title": "Raw Footage of First Nagorno-Karabakh War (ITN Archive)"
+        }
+      ]
+    },
+    {
+      "id": "budapest-summit-minsk-restructured",
+      "name": "Budapest Summit — Minsk Group Restructured",
+      "type": "date",
+      "date": "1994-12-06",
+      "dateLabel": "December 1994",
+      "summary": "At the CSCE Budapest Summit, the organization was renamed the OSCE and the Minsk Group was restructured with a co-chairmanship model led by Russia, the United States, and France. The summit also mandated the deployment of a multinational peacekeeping force contingent on a peace agreement. The co-chair structure would define the mediation framework for the next three decades.",
+      "quotes": [
+        {
+          "text": "The territorial integrity of Azerbaijan is not and will never be the topic of negotiations. Azerbaijan will not retreat from this position.",
+          "attribution": "Heydar Aliyev",
+          "context": "Statement at the Budapest Summit, 1994",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "osce-lisbon-summit",
+      "name": "OSCE Lisbon Summit",
+      "type": "date",
+      "date": "1996-12-03",
+      "dateLabel": "December 1996",
+      "summary": "At the OSCE Lisbon Summit, all member states except Armenia endorsed three principles for a settlement: territorial integrity of both states, the highest degree of self-governance for Nagorno-Karabakh within Azerbaijan, and guaranteed security for the entire population. Armenia blocked the statement from becoming part of the summit declaration. The Lisbon principles became a reference point for Azerbaijan's diplomatic position.",
+      "quotes": [
+        {
+          "text": "The co-chairmen recommended three principles which should form part of the settlement: the territorial integrity of the Republic of Armenia and the Azerbaijan Republic; the legal status of Nagorno-Karabakh defined in an agreement providing NK with the highest degree of self-rule within Azerbaijan; guaranteed security for NK and its whole population.",
+          "attribution": "OSCE Lisbon Summit Statement",
+          "context": "December 1996",
+          "source": "https://www.osce.org/mc/39539"
+        },
+        {
+          "text": "The territorial integrity and inviolability of borders of Azerbaijan must be ensured and Armenia's armed forces must pull out of the occupied territories.",
+          "attribution": "Heydar Aliyev",
+          "context": "Speech at the OSCE Lisbon Summit, December 1996",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "48z0o32V4yc",
+          "title": "Ter-Petrosyan with Vazgen Sargsyan and Heydar Aliyev (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "package-step-by-step-proposals",
+      "name": "\"Package\" & \"Step-by-Step\" Proposals",
+      "type": "interval",
+      "dateStart": "1997-05-01",
+      "dateEnd": "1997-09-30",
+      "dateLabel": "May–September 1997",
+      "summary": "The Minsk Group co-chairs presented two proposals in 1997. The 'package' deal addressed status and territory simultaneously, while the 'step-by-step' approach proposed phased withdrawal of occupied territories before determining Nagorno-Karabakh's final status. Armenia's leadership was divided; President Ter-Petrossian favored the step-by-step approach, but faced fierce opposition from hardliners.",
+      "quotes": [
+        {
+          "text": "Nagorno-Karabakh cannot be dissolved by anyone's statement.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Armenian position on the peace process",
+          "source": "https://armenpress.am/eng/news/930233.html"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "d8Mz0MB3-Io",
+          "title": "Ter-Petrosyan: For Self-Determination (~1996) (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "resignation-ter-petrossian",
+      "name": "Resignation of Ter-Petrossian",
+      "type": "date",
+      "date": "1998-02-03",
+      "dateLabel": "February 3, 1998",
+      "summary": "President Levon Ter-Petrossian resigned under pressure from his own government after publicly advocating for the 'step-by-step' peace plan. His defense minister, prime minister, and other senior officials opposed any compromise that did not guarantee Nagorno-Karabakh's independence. The resignation marked a shift toward a harder line in Armenian negotiating policy.",
+      "quotes": [
+        {
+          "text": "The leadership of Nagorno-Karabakh, the defense minister, the minister of internal affairs, and the minister of national security do not share the views I have expressed. I do not consider it possible to remain president under these conditions.",
+          "attribution": "Levon Ter-Petrossian",
+          "context": "Resignation statement, February 1998",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "hRNJLZYb9zI",
+          "title": "Meghri — Kocharyan Denies Exchange of Territories (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "kocharian-elected",
+      "name": "Robert Kocharian Elected",
+      "type": "date",
+      "date": "1998-03-30",
+      "dateLabel": "March 30, 1998",
+      "summary": "Robert Kocharian, former leader of the Nagorno-Karabakh Republic, won the Armenian presidential election. He was the first NK Armenian to lead the Republic of Armenia, and his election signaled a harder negotiating stance. Kocharian rejected the step-by-step approach and insisted on a status determination for Nagorno-Karabakh before any territorial concessions.",
+      "quotes": [
+        {
+          "text": "There can be no solution without defining the status of Nagorno-Karabakh. The people of Karabakh have the right to determine their own future.",
+          "attribution": "Robert Kocharian",
+          "context": "Post-election statement, 1998",
+          "source": "Thomas de Waal, Black Garden"
+        },
+        {
+          "text": "All similar conflicts in modern history have been resolved in favor of the right of nations to self-determination.",
+          "attribution": "Robert Kocharian",
+          "context": "On the Nagorno-Karabakh conflict resolution",
+          "source": "https://news.am/eng/news/602907.html"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "MWBQ3J0pYgQ",
+          "title": "Robert Kocharian Inauguration Ceremony, 1998 (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "N8hkL04gVNA",
+          "title": "Kocharian: 'These territories will be returned' — Interview (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "common-state-proposal",
+      "name": "\"Common State\" Proposal",
+      "type": "date",
+      "date": "1998-11-01",
+      "dateLabel": "November 1998",
+      "summary": "The OSCE Minsk Group co-chairs presented the 'common state' proposal, which envisioned Nagorno-Karabakh as a state entity forming a common state with Azerbaijan — essentially a horizontal relationship rather than a subordinate one. Azerbaijan rejected the proposal, viewing it as de facto independence. The failure of this proposal exhausted the main frameworks developed by the Minsk Group.",
+      "quotes": [
+        {
+          "text": "A classic example of both the implementation of the right to self-determination and misuse of the 'territorial integrity' concept as a justification for ethnic cleansings.",
+          "attribution": "Robert Kocharian",
+          "context": "On the conflict's legal dimensions",
+          "source": "https://news.am/eng/news/602907.html"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "armenian-parliament-shooting",
+      "name": "Armenian Parliament Shooting",
+      "type": "date",
+      "date": "1999-10-27",
+      "dateLabel": "October 27, 1999",
+      "summary": "Five gunmen stormed the Armenian National Assembly during a session, killing Prime Minister Vazgen Sargsyan, Speaker Karen Demirchian, and six other officials. The attack disrupted governance and ended a back-channel diplomatic process that some analysts believe was nearing a breakthrough on the Karabakh issue. President Kocharian consolidated power in the aftermath.",
+      "quotes": [
+        {
+          "text": "I have come to put an end to you, the blood-suckers of the people.",
+          "attribution": "Nairi Hunanyan",
+          "context": "Lead gunman, upon entering the parliament chamber, October 27, 1999",
+          "source": "Thomas de Waal, Black Garden"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "i2Xlyldn38c",
+          "title": "The Armenian Parliament Shooting, 27 October 1999 (JAMnews)"
+        },
+        {
+          "youtubeId": "y_FkZOlUzgU",
+          "title": "Kocharian's Farewell Speech to Vazgen Sargsyan (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "2XcR_9DWCDE",
+          "title": "Appointment of Aram Sargsyan as PM, 03.11.1999 (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "aliyev-kocharian-direct-talks",
+      "name": "Aliyev-Kocharian Direct Talks Begin",
+      "type": "date",
+      "date": "1999-04-01",
+      "dateLabel": "1999",
+      "summary": "Presidents Heydar Aliyev and Robert Kocharian began a series of direct bilateral meetings, bypassing the usual Minsk Group format. The talks explored various formulas including territorial swaps and interim status arrangements. While the meetings were described as productive, no breakthroughs were achieved. The direct channel continued intermittently until Aliyev's health declined in 2003.",
+      "quotes": [
+        {
+          "text": "Guarantee security of the Armenian population of the Nagorno-Karabakh region. Nagorno-Karabakh must stay as an inseparable part of Azerbaijan.",
+          "attribution": "Heydar Aliyev",
+          "context": "Council of Europe speech on direct talks",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "_qHTn65ykiw",
+          "title": "Joint Press Conference: Kocharian and Heydar Aliyev (YouArmenia Archive)"
+        },
+        {
+          "youtubeId": "4qFwy8Kilmk",
+          "title": "Aliyev-Kocharian Meeting, 1999 (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "un-millennium-summit-meeting",
+      "name": "Presidents Meet at UN Millennium Summit",
+      "type": "date",
+      "date": "2000-09-06",
+      "dateLabel": "September 2000",
+      "summary": "Presidents Aliyev and Kocharian met on the sidelines of the UN Millennium Summit in New York. The meeting explored the possibility of a territorial exchange involving Nagorno-Karabakh and the Meghri corridor connecting Azerbaijan to Nakhchivan. No agreement was reached, but the discussions demonstrated the potential scope of a comprehensive settlement.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "key-west-peace-talks",
+      "name": "Key West Peace Talks",
+      "type": "interval",
+      "dateStart": "2001-04-03",
+      "dateEnd": "2001-04-06",
+      "dateLabel": "April 3–6, 2001",
+      "summary": "The Minsk Group co-chairs organized intensive talks in Key West, Florida between Presidents Aliyev and Kocharian. The negotiations reportedly came the closest ever to a comprehensive deal, including elements of territorial return, a referendum on status, and a corridor to Nakhchivan. However, both leaders ultimately pulled back, each facing domestic opposition to the potential concessions.",
+      "quotes": [
+        {
+          "text": "We came very close to a framework agreement. The differences that remained could have been bridged if the political will had existed on both sides.",
+          "attribution": "Carey Cavanaugh, U.S. co-chair of the Minsk Group",
+          "context": "Remarks on the Key West talks, 2001",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "v7nm4ui_srU",
+          "title": "Heydar Aliyev and the Paris Principles — USA 2001 (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "armenia-azerbaijan-join-council-europe",
+      "name": "Armenia & Azerbaijan Join Council of Europe",
+      "type": "date",
+      "date": "2001-01-25",
+      "dateLabel": "January 25, 2001",
+      "summary": "Armenia and Azerbaijan were simultaneously admitted to the Council of Europe, committing both nations to uphold European standards on democracy, human rights, and the rule of law. Membership brought both countries under the jurisdiction of the European Court of Human Rights and the oversight of the Parliamentary Assembly of the Council of Europe (PACE).",
+      "quotes": [],
+      "videos": [
+        {
+          "youtubeId": "Ah06W8aSInw",
+          "title": "Armenia and Azerbaijan Join the Council of Europe — Strasbourg, 2001 (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "us-lifts-section-907",
+      "name": "U.S. Lifts Section 907 Restrictions",
+      "type": "date",
+      "date": "2002-01-25",
+      "dateLabel": "January 2002",
+      "summary": "Following the September 11, 2001 attacks, the U.S. Congress granted the president authority to waive Section 907 of the Freedom Support Act, which had banned most U.S. government aid to Azerbaijan since 1992. The waiver was justified by Azerbaijan's cooperation in the War on Terror. It marked a significant shift in U.S. policy and was criticized by Armenian advocacy groups.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "heydar-aliyev-death-ilham-succession",
+      "name": "Death of Heydar Aliyev & Ilham Aliyev Succession",
+      "type": "interval",
+      "dateStart": "2003-08-01",
+      "dateEnd": "2003-12-12",
+      "dateLabel": "August–December 2003",
+      "summary": "Heydar Aliyev's health deteriorated sharply in 2003, and his son Ilham Aliyev won the presidential election on October 15 amid reports of irregularities. Heydar Aliyev died on December 12, 2003, in Cleveland, Ohio. Ilham Aliyev inherited his father's approach to the Karabakh conflict while benefiting from rapidly growing oil revenues that would fund Azerbaijan's military buildup.",
+      "quotes": [
+        {
+          "text": "I will continue the policies of Heydar Aliyev. The restoration of Azerbaijan's territorial integrity remains the number one priority.",
+          "attribution": "Ilham Aliyev",
+          "context": "Inaugural address, October 2003",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "launch-prague-process",
+      "name": "Launch of the Prague Process",
+      "type": "date",
+      "date": "2004-04-16",
+      "dateLabel": "April 16, 2004",
+      "summary": "The Minsk Group co-chairs launched a new round of talks known as the Prague Process, introducing direct meetings between the Armenian and Azerbaijani foreign ministers alongside presidential summits. The process aimed to intensify negotiations and develop a framework of basic principles for a settlement. It set the stage for what would become the Madrid Principles.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "pace-resolution-armenian-occupation",
+      "name": "PACE Resolution on Armenian Occupation",
+      "type": "date",
+      "date": "2005-01-25",
+      "dateLabel": "January 25, 2005",
+      "summary": "The Parliamentary Assembly of the Council of Europe adopted Resolution 1416, which noted that substantial parts of Azerbaijan's territory were occupied by Armenian forces and that ethnic cleansing had been carried out against Azerbaijanis. The resolution called for the withdrawal of Armenian forces and became a frequently cited document in Azerbaijan's diplomatic efforts.",
+      "quotes": [
+        {
+          "text": "The Assembly reiterates that the occupation of foreign territory by a member state constitutes a grave violation of that state's obligations as a member of the Council of Europe.",
+          "attribution": "PACE Resolution 1416",
+          "context": "Adopted January 25, 2005",
+          "source": "https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=17289"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "aliyev-kocharian-kazan-meeting",
+      "name": "Aliyev-Kocharian Meeting in Kazan",
+      "type": "date",
+      "date": "2005-08-27",
+      "dateLabel": "August 27, 2005",
+      "summary": "Presidents Ilham Aliyev and Robert Kocharian met in Kazan, Russia for intensive negotiations facilitated by the Minsk Group co-chairs. The talks explored a framework involving the phased return of occupied territories, an interim status for Nagorno-Karabakh, and a future referendum on final status. Despite progress on some elements, fundamental disagreements on status and timelines persisted.",
+      "quotes": [
+        {
+          "text": "We are committed to negotiations but there must be a clear timetable for the withdrawal of Armenian forces from occupied territories.",
+          "attribution": "Ilham Aliyev",
+          "context": "Remarks after the Kazan meeting",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "london-rambouillet-talks",
+      "name": "London-Rambouillet Talks",
+      "type": "interval",
+      "dateStart": "2006-01-18",
+      "dateEnd": "2006-01-19",
+      "dateLabel": "January 18–19, 2006",
+      "summary": "Presidents Aliyev and Kocharian met in London and Rambouillet (France) in early 2006 as part of intensified Minsk Group diplomacy. The talks built on the Prague Process and refined the key principles that would form the basis of the Madrid Principles. While progress was made on framework language, disagreements on the specifics of a referendum and interim status remained.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "madrid-principles",
+      "name": "Madrid Principles Presented",
+      "type": "date",
+      "date": "2007-11-29",
+      "dateLabel": "November 29, 2007",
+      "summary": "The OSCE Minsk Group co-chairs formally presented the Madrid Principles at the OSCE Ministerial Council in Madrid. The framework proposed: return of occupied territories surrounding NK, interim status for NK with security guarantees, a corridor linking NK to Armenia, future determination of NK's final legal status through a legally binding expression of will, international peacekeeping, and the right of displaced persons to return.",
+      "quotes": [
+        {
+          "text": "The co-chairs presented to the two presidents the basic principles for a settlement. These principles reflect a reasonable compromise based on the Helsinki Final Act.",
+          "attribution": "Minsk Group Co-Chairs joint statement",
+          "context": "Madrid OSCE Ministerial, November 2007",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "meyendorf-declaration",
+      "name": "Meyendorf Declaration",
+      "type": "date",
+      "date": "2008-11-02",
+      "dateLabel": "November 2, 2008",
+      "summary": "Presidents Aliyev and Sargsyan (Armenia's new president) signed the Moscow Declaration (also known as the Meyendorf Declaration) alongside Russian President Medvedev. It was the first written document signed by both parties since the 1994 ceasefire, committing them to a political settlement based on international law principles. While legally non-binding, it demonstrated continued diplomatic engagement.",
+      "quotes": [
+        {
+          "text": "The presidents agreed to continue working toward a political settlement of the Nagorno-Karabakh conflict through political and diplomatic means.",
+          "attribution": "Meyendorf Declaration text",
+          "context": "November 2, 2008",
+          "source": "http://en.kremlin.ru/supplement/209"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "laquila-g8-statement",
+      "name": "L'Aquila G8 Statement",
+      "type": "date",
+      "date": "2009-07-10",
+      "dateLabel": "July 10, 2009",
+      "summary": "The presidents of the Minsk Group co-chair countries (U.S., Russia, France) issued a joint statement at the G8 summit in L'Aquila, Italy, publicly outlining the basic principles for a settlement for the first time. The statement enumerated key elements aligned with the Madrid Principles and urged Armenia and Azerbaijan to finalize agreement on the framework.",
+      "quotes": [
+        {
+          "text": "We urge the Presidents of Armenia and Azerbaijan to resolve the few remaining differences between them and finalize their agreement on these Basic Principles.",
+          "attribution": "Presidents Obama, Medvedev, and Sarkozy",
+          "context": "L'Aquila G8 joint statement, July 10, 2009",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "muskoka-g8-statement",
+      "name": "Muskoka G8 Statement",
+      "type": "date",
+      "date": "2010-06-26",
+      "dateLabel": "June 26, 2010",
+      "summary": "At the G8 summit in Muskoka, Canada, the co-chair presidents issued another joint statement reaffirming the Madrid Principles framework and pressing for an agreement. The statement reiterated the core elements: return of territories, interim status, corridor, referendum, peacekeepers, and return of displaced persons. Diplomatic urgency was increasing as the military balance shifted with Azerbaijan's growing defense spending.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "astrakhan-declaration",
+      "name": "Astrakhan Declaration",
+      "type": "date",
+      "date": "2010-10-27",
+      "dateLabel": "October 27, 2010",
+      "summary": "Presidents Aliyev and Sargsyan met in Astrakhan, Russia, mediated by President Medvedev. The sides agreed on a humanitarian measure: the exchange of prisoners of war and the return of bodies of fallen soldiers. While modest in scope, the Astrakhan declaration was seen as a confidence-building measure ahead of more substantive negotiations.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "kazan-summit-turning-point",
+      "name": "Kazan Summit (Turning Point)",
+      "type": "date",
+      "date": "2011-06-24",
+      "dateLabel": "June 24, 2011",
+      "summary": "The Kazan meeting between Presidents Aliyev, Sargsyan, and Medvedev was anticipated as a potential breakthrough moment where the parties would accept the updated Madrid Principles. However, the summit ended without agreement as both sides raised new objections. The failure at Kazan is widely considered the last realistic chance for a negotiated settlement within the Madrid framework, after which diplomacy entered a prolonged stalemate.",
+      "quotes": [
+        {
+          "text": "The presidents were not able to reach agreement on the basic principles at Kazan. The co-chairs are disappointed and urge the sides to take the next opportunity.",
+          "attribution": "Minsk Group Co-Chairs statement",
+          "context": "After the Kazan Summit, June 2011",
+          "source": ""
+        },
+        {
+          "text": "Azerbaijan will never agree to the independence of Nagorno-Karabakh. This is our firm and final position.",
+          "attribution": "Ilham Aliyev",
+          "context": "Remarks after the Kazan Summit, June 2011",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "sochi-joint-statement",
+      "name": "Sochi Joint Statement",
+      "type": "date",
+      "date": "2012-01-23",
+      "dateLabel": "January 23, 2012",
+      "summary": "Presidents Aliyev and Sargsyan met in Sochi, Russia in another attempt to revive negotiations after the Kazan failure. The meeting produced a vaguely worded statement committing both sides to accelerate agreement on the basic principles. In practice, the peace process had lost momentum, and subsequent years saw diminishing diplomatic activity and increasing militarization along the line of contact.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "escalation-line-of-contact-2014",
+      "name": "Escalation Along Line of Contact",
+      "type": "date",
+      "date": "2014-07-01",
+      "dateLabel": "Summer 2014",
+      "summary": "The summer of 2014 saw the deadliest escalation along the Line of Contact since the 1994 ceasefire. Sniper fire, mortar exchanges, and sabotage operations intensified, resulting in dozens of casualties on both sides. The escalation signaled a fundamental deterioration of the ceasefire regime and foreshadowed larger confrontations to come.",
+      "quotes": [
+        {
+          "text": "We are ready to solve the conflict by peaceful means... if the Azerbaijani leadership refuses from its empty imaginations.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Response to escalation on the line of contact",
+          "source": "https://armenpress.am/eng/news/930233.html"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "armenian-helicopter-shot-down",
+      "name": "Armenian Helicopter Shot Down",
+      "type": "date",
+      "date": "2014-11-12",
+      "dateLabel": "November 12, 2014",
+      "summary": "Azerbaijan shot down an Armenian Mi-24 helicopter near the Line of Contact, killing all three crew members. Azerbaijan stated the aircraft was conducting a military operation; Armenia said it was a training flight. The incident was the most significant military confrontation since the ceasefire and led to a brief diplomatic crisis. International mediators called for restraint.",
+      "quotes": [
+        {
+          "text": "The Co-Chairs strongly condemn the recent violence and call upon the sides to take immediate steps to reduce tensions.",
+          "attribution": "OSCE Minsk Group Co-Chairs",
+          "context": "Statement on the helicopter incident, November 2014",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "april-2016-four-day-war",
+      "name": "April 2016 Four-Day War",
+      "type": "interval",
+      "dateStart": "2016-04-02",
+      "dateEnd": "2016-04-05",
+      "dateLabel": "April 2–5, 2016",
+      "summary": "Azerbaijan launched a large-scale military operation along the Line of Contact on April 2, 2016. In four days of fighting — the heaviest since 1994 — Azerbaijan recaptured several strategic positions. An estimated 200+ soldiers from both sides were killed. The conflict ended with a Russian-brokered ceasefire on April 5. The April War demonstrated Azerbaijan's military modernization and shattered the perception that the status quo was stable.",
+      "quotes": [
+        {
+          "text": "The April events showed that the status quo is not sustainable and that the conflict cannot remain frozen indefinitely.",
+          "attribution": "Ilham Aliyev",
+          "context": "Post-ceasefire remarks, April 2016",
+          "source": ""
+        },
+        {
+          "text": "We took our revenge on the enemy; we took it on the occupier.",
+          "attribution": "Ilham Aliyev",
+          "context": "Address on the April 2016 military operations",
+          "source": "https://president.az/en/articles/view/45924"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "_lWrGub9-_0",
+          "title": "Armenian-Azerbaijani Skirmish (CaspianReport)"
+        },
+        {
+          "youtubeId": "dhb7E0fqqck",
+          "title": "Uncertainty Remains Over Nagorno-Karabakh Ceasefire (Al Jazeera)"
+        },
+        {
+          "youtubeId": "D_nCRpcx858",
+          "title": "Nagorno-Karabakh Remains Tense After Fighting (AP Archive)"
+        }
+      ]
+    },
+    {
+      "id": "vienna-ceasefire-monitoring",
+      "name": "Vienna Agreement on Ceasefire Monitoring",
+      "type": "date",
+      "date": "2016-05-16",
+      "dateLabel": "May 16, 2016",
+      "summary": "Following the April war, the foreign ministers of Armenia and Azerbaijan met in Vienna and agreed on measures to strengthen the ceasefire, including the expansion of the OSCE monitoring mission and the introduction of investigation mechanisms for incidents along the Line of Contact. The agreement was seen as a modest step toward stabilizing the situation but was never fully implemented.",
+      "quotes": [
+        {
+          "text": "The ministers agreed to finalize in the shortest possible time the investigation mechanism into ceasefire violations.",
+          "attribution": "OSCE Minsk Group",
+          "context": "Vienna statement, May 2016",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "st-petersburg-summit",
+      "name": "St. Petersburg Summit",
+      "type": "date",
+      "date": "2016-06-20",
+      "dateLabel": "June 20, 2016",
+      "summary": "Presidents Aliyev and Sargsyan met in St. Petersburg, Russia, facilitated by President Putin. The meeting aimed to build on the Vienna agreements and revive the negotiating process after the April war. While both leaders reaffirmed commitment to a peaceful resolution, no substantive progress was made, and the diplomatic process remained effectively stalled.",
+      "quotes": [],
+      "videos": []
+    },
+    {
+      "id": "armenia-velvet-revolution",
+      "name": "Armenia's Velvet Revolution",
+      "type": "interval",
+      "dateStart": "2018-04-13",
+      "dateEnd": "2018-05-08",
+      "dateLabel": "April–May 2018",
+      "summary": "Mass protests led by opposition politician Nikol Pashinyan forced the resignation of Prime Minister Serzh Sargsyan, who had attempted to retain power by transitioning from the presidency to the prime ministership. Pashinyan became prime minister after snap elections in December 2018 with an overwhelming mandate. The revolution raised hopes for democratic reform but also introduced uncertainty into the Karabakh negotiating process.",
+      "quotes": [
+        {
+          "text": "The people of Armenia have said their word. This is a victory of the people, a victory of love against hatred.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Address to supporters after becoming PM, May 8, 2018",
+          "source": "Thomas de Waal, Black Garden (updated edition)"
+        },
+        {
+          "text": "Artsakh is Armenia, period!",
+          "attribution": "Nikol Pashinyan",
+          "context": "Speech in Stepanakert, August 5, 2019",
+          "source": ""
+        },
+        {
+          "text": "Karabakh is Azerbaijan — and exclamation mark!",
+          "attribution": "Ilham Aliyev",
+          "context": "Response to Pashinyan's Stepanakert speech, October 2019",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "rXCItpCKiYk",
+          "title": "Armenia: Protests Urge 'Traitor' PM to Quit (BBC News)"
+        },
+        {
+          "youtubeId": "kBWd5B2MDqA",
+          "title": "Protests Continue in Armenia (euronews)"
+        }
+      ]
+    },
+    {
+      "id": "pashinyan-aliyev-tensions-agreement",
+      "name": "Pashinyan-Aliyev Agreement on Tensions",
+      "type": "date",
+      "date": "2018-09-28",
+      "dateLabel": "September 2018",
+      "summary": "In their first meeting on the sidelines of the CIS summit in Dushanbe, Prime Minister Pashinyan and President Aliyev agreed to establish direct communication channels and reduce tensions along the Line of Contact. The initial exchanges were cautiously optimistic, with a notable decrease in ceasefire violations in late 2018 and early 2019.",
+      "quotes": [
+        {
+          "text": "We agreed that incidents along the Line of Contact should be reduced and that direct communication between the two sides could help prevent escalation.",
+          "attribution": "Nikol Pashinyan",
+          "context": "After Dushanbe meeting, September 2018",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "NeXmFsALLOo",
+          "title": "Aliyev and Pashinyan Skirmish in Munich (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "tovuz-border-clashes",
+      "name": "Tovuz Border Clashes",
+      "type": "interval",
+      "dateStart": "2020-07-12",
+      "dateEnd": "2020-07-16",
+      "dateLabel": "July 12–16, 2020",
+      "summary": "Heavy fighting erupted along the Armenia-Azerbaijan international border near Tovuz, far from the Nagorno-Karabakh Line of Contact. The clashes killed at least 16 soldiers and included artillery exchanges. The Tovuz fighting was significant because it occurred on the international border (not the NK contact line) and near critical Azerbaijani energy infrastructure. Large pro-war rallies erupted in Baku.",
+      "quotes": [
+        {
+          "text": "The Armenian side bears full responsibility for the provocation. Azerbaijan will defend its territorial integrity by all means.",
+          "attribution": "Azerbaijani Ministry of Defense statement",
+          "context": "July 2020",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "44-day-war-begins",
+      "name": "44-Day War Begins",
+      "type": "date",
+      "date": "2020-09-27",
+      "dateLabel": "September 27, 2020",
+      "summary": "Azerbaijan launched a large-scale military offensive along the entire Line of Contact on September 27, 2020. The operation employed modern weaponry including Turkish-made Bayraktar TB2 drones, Israeli-made loitering munitions, and precision-guided artillery. Armenia declared martial law and general mobilization. Turkey publicly backed Azerbaijan, while Russia called for a ceasefire. The war would last 44 days and fundamentally alter the conflict.",
+      "quotes": [
+        {
+          "text": "Azerbaijan's armed forces are conducting a counter-offensive operation along the entire front to prevent military provocations by Armenia and ensure the safety of the civilian population.",
+          "attribution": "Ilham Aliyev",
+          "context": "Address to the nation, September 27, 2020",
+          "source": "https://press.un.org/en/2020/sc14325.doc.htm"
+        },
+        {
+          "text": "This is not a local incident but a full-scale war unleashed by Azerbaijan. We will defend our homeland.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Address to the nation, September 27, 2020",
+          "source": "https://president.az/en/articles/view/45081"
+        },
+        {
+          "text": "Azerbaijan has chosen the path of war... We have been totally faithful to the ceasefire. However, the Azerbaijani side has chosen the path of war.",
+          "attribution": "Zohrab Mnatsakanyan",
+          "context": "Armenian FM statement, October 2020",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "YU2v38hRRbg",
+          "title": "The Armenia and Azerbaijan War, Explained (Vox)"
+        },
+        {
+          "youtubeId": "NesivHrMNcc",
+          "title": "Why Armenia and Azerbaijan Are at War (CaspianReport)"
+        }
+      ]
+    },
+    {
+      "id": "failed-ceasefires",
+      "name": "Failed Ceasefires",
+      "type": "interval",
+      "dateStart": "2020-10-10",
+      "dateEnd": "2020-10-26",
+      "dateLabel": "October 10–26, 2020",
+      "summary": "Three humanitarian ceasefires were brokered during the war — by Russia (October 10), France (October 17), and the United States (October 26). Each collapsed within hours or days, with both sides accusing the other of violations. The failure of these ceasefires demonstrated the intensity of the conflict and the limitations of international mediation once full-scale hostilities had begun.",
+      "quotes": [
+        {
+          "text": "We will stop when Armenia withdraws from our territories. The territorial integrity of Azerbaijan is not a subject of negotiation.",
+          "attribution": "Ilham Aliyev",
+          "context": "Remarks during the October ceasefire attempts, 2020",
+          "source": ""
+        },
+        {
+          "text": "The right of the people of Nagorno-Karabakh to self-determination without limitations will be achieved. There is no way for subjugation, there is no way for domination.",
+          "attribution": "Zohrab Mnatsakanyan",
+          "context": "Armenian FM statement during ceasefire negotiations",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "uqK60W1MHIw",
+          "title": "Fresh Push for Peace as Nagorno-Karabakh Truce Fails (Al Jazeera)"
+        },
+        {
+          "youtubeId": "xmila_UGJeo",
+          "title": "Azerbaijan Accuses Armenia of Violating the New Ceasefire (TRT World)"
+        }
+      ]
+    },
+    {
+      "id": "shelling-ganja-stepanakert",
+      "name": "Shelling of Ganja & Stepanakert",
+      "type": "interval",
+      "dateStart": "2020-10-04",
+      "dateEnd": "2020-10-17",
+      "dateLabel": "October 4–17, 2020",
+      "summary": "Both sides targeted urban centers during the war. Azerbaijan's capital of Nagorno-Karabakh, Stepanakert, was subject to sustained bombardment including cluster munitions documented by international observers. Armenia struck Azerbaijan's second-largest city, Ganja, with ballistic missiles on October 4, 11, and 17, killing dozens of civilians. Both sides denied targeting civilians while accusing the other of war crimes.",
+      "quotes": [
+        {
+          "text": "The use of ballistic missiles against the sleeping residents of Ganja is a war crime that cannot go unanswered.",
+          "attribution": "Hikmet Hajiyev, Azerbaijani presidential aide",
+          "context": "After the Ganja missile strikes, October 2020",
+          "source": "https://www.amnesty.org/en/latest/news/2020/10/armenia-azerbaijan-civilians-caught-in-cluster-munitions-attacks/"
+        },
+        {
+          "text": "The ongoing bombardment of Stepanakert with cluster munitions constitutes a clear violation of international humanitarian law.",
+          "attribution": "Human Rights Watch",
+          "context": "October 2020 investigation",
+          "source": "https://www.hrw.org/news/2020/10/23/armenia-cluster-munitions-kill-civilians-azerbaijan"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "2pb65QdAMHo",
+          "title": "Ganja 'Under Fire' from Armenian Forces (TRT World)"
+        },
+        {
+          "youtubeId": "UcnEEphoBRk",
+          "title": "How Are Residents of Ganja Affected? (TRT World)"
+        }
+      ]
+    },
+    {
+      "id": "battle-of-shusha",
+      "name": "Battle of Shusha",
+      "type": "interval",
+      "dateStart": "2020-11-02",
+      "dateEnd": "2020-11-08",
+      "dateLabel": "November 2–8, 2020",
+      "summary": "Azerbaijani special forces launched the battle for Shusha, considered the cultural heart of both communities and a strategic stronghold overlooking the road to Stepanakert. After intense urban combat, Azerbaijan captured the city on November 8. The fall of Shusha was the decisive moment of the war — it cut the main supply route to Stepanakert and made continued Armenian defense untenable.",
+      "quotes": [
+        {
+          "text": "Shusha is ours! Karabakh is Azerbaijan!",
+          "attribution": "Ilham Aliyev",
+          "context": "Address to the nation announcing the capture of Shusha, November 8, 2020",
+          "source": "https://president.az/en/articles/view/49584"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "EfFcYhE975s",
+          "title": "Azerbaijan Claims Control of Shusha (Al Jazeera)"
+        },
+        {
+          "youtubeId": "qRCwkWcoY8M",
+          "title": "Fears Armenian Forces Overrun in Key Town (FRANCE 24)"
+        }
+      ]
+    },
+    {
+      "id": "trilateral-ceasefire-agreement",
+      "name": "Trilateral Ceasefire Agreement",
+      "type": "interval",
+      "dateStart": "2020-11-09",
+      "dateEnd": "2020-11-10",
+      "dateLabel": "November 9–10, 2020",
+      "summary": "A trilateral ceasefire statement was signed by President Aliyev, Prime Minister Pashinyan, and President Putin, ending the 44-day war. Azerbaijan retained all territory recaptured during the war. Armenian forces agreed to withdraw from the remaining occupied districts (Aghdam, Kelbajar, Lachin) by December 1. A Russian peacekeeping force of 1,960 troops was deployed along the Line of Contact and the Lachin Corridor for a five-year mandate.",
+      "quotes": [
+        {
+          "text": "This statement was incredibly painful for me personally and for our people. I made this decision as a result of a deep analysis of the military situation.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Facebook post announcing the ceasefire, November 10, 2020",
+          "source": "http://en.kremlin.ru/events/president/news/64384"
+        },
+        {
+          "text": "This is a glorious victory for Azerbaijan. We have restored our territorial integrity.",
+          "attribution": "Ilham Aliyev",
+          "context": "Address to the nation, November 10, 2020",
+          "source": "https://president.az/en/articles/view/49585"
+        },
+        {
+          "text": "I signed this statement as a result of a deep analysis of the military situation... the President of Artsakh warning that if hostilities failed to stop, we could lose Stepanakert in a couple of days.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Testimony on the ceasefire decision, June 2023",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "t5QlKwnUqvs",
+          "title": "Ceasefire Agreed: New Peace Deal (euronews)"
+        },
+        {
+          "youtubeId": "8E7E2IrrjfA",
+          "title": "Armenia, Azerbaijan and Russia Reach Agreement (FRANCE 24)"
+        }
+      ]
+    },
+    {
+      "id": "anti-government-protests-armenia",
+      "name": "Anti-Government Protests in Armenia",
+      "type": "interval",
+      "dateStart": "2020-11-10",
+      "dateEnd": "2020-11-11",
+      "dateLabel": "November 10–11, 2020",
+      "summary": "Immediately following the ceasefire announcement, thousands of protesters stormed Armenian government buildings, including the parliament and the prime minister's residence. Demonstrators beat the speaker of parliament and demanded Pashinyan's resignation, calling the ceasefire a capitulation. Opposition parties and the military later called for Pashinyan's removal, triggering a political crisis that continued into 2021.",
+      "quotes": [
+        {
+          "text": "Nikol is a traitor! This is capitulation, not peace!",
+          "attribution": "Protesters in Yerevan",
+          "context": "November 10, 2020",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "C7DomRorHTQ",
+          "title": "Thousands Protest Ceasefire, Demand PM Resign (Global News)"
+        },
+        {
+          "youtubeId": "JictVpSpdvs",
+          "title": "Protesters Rally Against PM (Al Jazeera)"
+        }
+      ]
+    },
+    {
+      "id": "russian-peacekeepers-deployed",
+      "name": "Russian Peacekeepers Deployed",
+      "type": "interval",
+      "dateStart": "2020-11-10",
+      "dateEnd": "2020-12-01",
+      "dateLabel": "November 10 – December 1, 2020",
+      "summary": "Under the terms of the trilateral statement, 1,960 Russian peacekeepers were deployed along the contact line in Nagorno-Karabakh and along the Lachin Corridor connecting NK to Armenia. The deployment also included armored personnel carriers and other military equipment. The peacekeeping mandate was set for five years, automatically renewable unless any party objected six months before expiration.",
+      "quotes": [
+        {
+          "text": "Russian peacekeeping forces are being deployed along the line of contact in Nagorno-Karabakh and along the Lachin corridor.",
+          "attribution": "Russian Ministry of Defense",
+          "context": "Official statement, November 10, 2020",
+          "source": "http://en.kremlin.ru/events/president/news/64384"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "Oq0QLGAvh9M",
+          "title": "Russian Peacekeepers Deployed (CGTN)"
+        },
+        {
+          "youtubeId": "ciZS6Ollb44",
+          "title": "Russian Peacekeepers Deployed for 5-Year Mission (euronews)"
+        }
+      ]
+    },
+    {
+      "id": "eu-brokered-hotline-brussels",
+      "name": "EU-Brokered Hotline & Brussels Summit",
+      "type": "interval",
+      "dateStart": "2021-11-01",
+      "dateEnd": "2021-12-15",
+      "dateLabel": "November–December 2021",
+      "summary": "The European Union, led by European Council President Charles Michel, became increasingly active in mediating the post-war process. Direct communication hotlines were established between the Armenian and Azerbaijani defense ministries. A trilateral meeting in Brussels in December 2021 launched a new diplomatic track focused on border delimitation and a comprehensive peace agreement.",
+      "quotes": [
+        {
+          "text": "I welcome the agreement on the establishment of direct communication channels between the defense ministries. This is an important step toward building trust.",
+          "attribution": "Charles Michel",
+          "context": "Brussels meeting, December 2021",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2021/12/14/eastern-partnership-summit-joint-declaration/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "brussels-peace-treaty-talks",
+      "name": "Brussels Meeting — Peace Treaty Talks",
+      "type": "date",
+      "date": "2022-04-06",
+      "dateLabel": "April 6, 2022",
+      "summary": "President Aliyev and Prime Minister Pashinyan met in Brussels under Charles Michel's mediation. The leaders agreed to instruct their foreign ministers to begin work on a bilateral peace treaty. This marked the first formal commitment to a comprehensive peace agreement rather than the limited trilateral framework of the November 2020 ceasefire. The talks represented a shift away from the OSCE Minsk Group format.",
+      "quotes": [
+        {
+          "text": "Both leaders agreed to instruct the ministers of foreign affairs of Armenia and Azerbaijan to begin preparations for a peace treaty.",
+          "attribution": "Charles Michel",
+          "context": "Statement after Brussels meeting, April 6, 2022",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/08/31/remarks-by-president-charles-michel/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "may-2022-border-clashes",
+      "name": "May 2022 Border Clashes",
+      "type": "date",
+      "date": "2022-05-11",
+      "dateLabel": "May 11, 2022",
+      "summary": "Azerbaijani forces advanced into Armenian sovereign territory in the Gegharkunik and Syunik regions, occupying several positions. Armenia reported multiple casualties and accused Azerbaijan of aggression against its internationally recognized territory. The incursion went beyond the disputed NK region and raised international alarm about a wider Azerbaijani ambition.",
+      "quotes": [
+        {
+          "text": "Azerbaijani forces advanced into Armenian sovereign territory in the Gegharkunik and Syunik regions.",
+          "attribution": "Armenian Ministry of Defense",
+          "context": "Official statement on border incursions, May 2022",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "september-2022-attack-armenia",
+      "name": "September 2022 Attack on Armenia",
+      "type": "interval",
+      "dateStart": "2022-09-12",
+      "dateEnd": "2022-09-14",
+      "dateLabel": "September 12–14, 2022",
+      "summary": "Azerbaijan launched large-scale attacks on Armenian sovereign territory, targeting towns including Jermuk, Goris, and Sotk. Armenia reported 207 soldiers killed. The attacks were notable for targeting Armenia proper, not Nagorno-Karabakh. The United States, France, and the EU condemned the aggression. Armenia invoked Article 4 of the CSTO (Collective Security Treaty Organization), but the Russian-led alliance failed to provide a meaningful response.",
+      "quotes": [
+        {
+          "text": "I strongly condemn the military actions against Armenia. I call on Azerbaijan to immediately cease hostilities.",
+          "attribution": "Nancy Pelosi, U.S. Speaker of the House",
+          "context": "Statement during visit to Armenia, September 2022",
+          "source": ""
+        },
+        {
+          "text": "Azerbaijan launched an unprovoked military aggression against the sovereign territory of Armenia.",
+          "attribution": "Armenian Ministry of Foreign Affairs",
+          "context": "Official statement, September 2022",
+          "source": ""
+        },
+        {
+          "text": "France demands that the Azerbaijani forces return to their initial positions. The fact that the border is not demarcated cannot justify any advance into the territory of the other country.",
+          "attribution": "Emmanuel Macron",
+          "context": "Statement on Azerbaijan-Armenia border clashes, September 2022",
+          "source": "https://primeminister.am/en/press-release/item/2022/09/26/"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "I88FCYzbLaQ",
+          "title": "Armenia Accuses Azerbaijan of Renewed Attacks on Border (FRANCE 24)"
+        }
+      ]
+    },
+    {
+      "id": "prague-quadrilateral-meeting",
+      "name": "Prague Quadrilateral Meeting",
+      "type": "date",
+      "date": "2022-10-06",
+      "dateLabel": "October 6, 2022",
+      "summary": "On the sidelines of the European Political Community summit in Prague, Aliyev and Pashinyan met with French President Macron and Charles Michel. Armenia and Azerbaijan reaffirmed mutual recognition of each other's territorial integrity based on the 1991 Alma-Ata Declaration. The Prague statement was significant because it implied Armenia's acceptance of Azerbaijan's sovereignty over Nagorno-Karabakh.",
+      "quotes": [
+        {
+          "text": "Armenia and Azerbaijan confirmed that they would recognize each other's territorial integrity and sovereignty, and that this understanding would underpin the ongoing work on a peace treaty.",
+          "attribution": "European Council statement",
+          "context": "Prague, October 6, 2022",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/10/07/statement-following-quadrilateral-meeting/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "sochi-trilateral-meeting",
+      "name": "Sochi Trilateral Meeting",
+      "type": "date",
+      "date": "2022-10-31",
+      "dateLabel": "October 31, 2022",
+      "summary": "President Putin hosted Aliyev and Pashinyan in Sochi for a trilateral meeting aimed at advancing the peace process in the Russian-mediated format. The meeting produced a joint statement reaffirming commitment to the November 2020 ceasefire and pledging to work on unblocking regional transport links. Russia sought to maintain its central role in the mediation process alongside the EU track.",
+      "quotes": [
+        {
+          "text": "Russia remains committed to facilitating a peaceful resolution and the unblocking of transport communications in the region.",
+          "attribution": "Vladimir Putin",
+          "context": "Kremlin statement after the Sochi trilateral meeting, October 2022",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "noXvvATpzhk",
+          "title": "Trilateral Meeting: Putin-Aliyev-Pashinyan (YouArmenia Archive)"
+        }
+      ]
+    },
+    {
+      "id": "lachin-corridor-blockade",
+      "name": "Lachin Corridor Blockade Begins",
+      "type": "date",
+      "date": "2022-12-12",
+      "dateLabel": "December 12, 2022",
+      "summary": "Individuals identifying themselves as Azerbaijani environmental activists blocked the Lachin Corridor, the only road connecting Nagorno-Karabakh to Armenia. The blockade cut off food, medicine, fuel, and other essential supplies to the approximately 120,000 Armenian residents. International observers and the ICJ later determined that Azerbaijan bore responsibility for the obstruction. The blockade would continue in various forms for nine months.",
+      "quotes": [
+        {
+          "text": "The road blockade of the Lachin corridor has caused a severe humanitarian crisis. It is imperative that the free movement of persons, vehicles and cargo along the corridor is ensured.",
+          "attribution": "Luis Moreno Ocampo, former ICC Prosecutor",
+          "context": "Report on the situation, August 2023",
+          "source": "https://www.icj-cij.org/case/180"
+        },
+        {
+          "text": "Artsakh has not been and will not be a part of Azerbaijan. This is the will of our people.",
+          "attribution": "Arayik Harutyunyan",
+          "context": "President of the Republic of Artsakh, May 2023",
+          "source": ""
+        },
+        {
+          "text": "What Armenia tries to present as a humanitarian matter is indeed a provocative and irresponsible political campaign to undermine the sovereignty and territorial integrity of my country.",
+          "attribution": "Azerbaijan FM",
+          "context": "UN statement on the Lachin corridor situation",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "QqZN2OqPXDo",
+          "title": "Humanitarian Update: Lachin Corridor (United Nations)"
+        },
+        {
+          "youtubeId": "qs4iEXbM2mY",
+          "title": "Azerbaijan's Reaction to ICJ Blockade Order (CIVILNET)"
+        }
+      ]
+    },
+    {
+      "id": "icj-orders-corridor-opening",
+      "name": "ICJ Orders Azerbaijan to Open Corridor",
+      "type": "date",
+      "date": "2023-02-22",
+      "dateLabel": "February 22, 2023",
+      "summary": "The International Court of Justice issued provisional measures ordering Azerbaijan to ensure unimpeded movement of persons, vehicles, and cargo along the Lachin Corridor in both directions. The ICJ found that the blockade risked irreparable harm to the rights of ethnic Armenians in Nagorno-Karabakh. Azerbaijan disputed the characterization but the blockade continued despite the ruling.",
+      "quotes": [
+        {
+          "text": "Azerbaijan shall take all measures at its disposal to ensure unimpeded movement of persons, vehicles and cargo along the Lachin Corridor in both directions.",
+          "attribution": "International Court of Justice",
+          "context": "Order on provisional measures, February 22, 2023",
+          "source": "https://www.icj-cij.org/case/180"
+        },
+        {
+          "text": "The blockade of the Lachin Corridor is putting thousands of lives in peril and must be immediately lifted.",
+          "attribution": "Amnesty International",
+          "context": "Statement on the Lachin corridor blockade, February 2023",
+          "source": "https://www.amnesty.org/en/latest/news/2023/02/azerbaijan-blockade-of-lachin-corridor/"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "qs4iEXbM2mY",
+          "title": "Azerbaijan's Reaction to ICJ Blockade Order (CIVILNET)"
+        }
+      ]
+    },
+    {
+      "id": "azerbaijan-checkpoint-lachin",
+      "name": "Azerbaijan Checkpoint on Lachin Corridor",
+      "type": "date",
+      "date": "2023-04-23",
+      "dateLabel": "April 23, 2023",
+      "summary": "Azerbaijan erected a permanent checkpoint on the Lachin Corridor, asserting sovereignty over the route. The checkpoint effectively formalized Azerbaijan's control over the only connection between Nagorno-Karabakh and Armenia. International organizations reported that the checkpoint severely restricted the movement of goods and people, deepening the humanitarian crisis in the region.",
+      "quotes": [
+        {
+          "text": "The establishment of the checkpoint is Azerbaijan's sovereign right on its own internationally recognized territory.",
+          "attribution": "Azerbaijani Foreign Ministry",
+          "context": "Statement on the checkpoint, April 2023",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "un-experts-urge-blockade-lift",
+      "name": "UN Experts Urge Blockade Lift",
+      "type": "date",
+      "date": "2023-08-07",
+      "dateLabel": "August 7, 2023",
+      "summary": "A group of UN independent human rights experts called on Azerbaijan to immediately lift the blockade of the Lachin Corridor, warning that the population of Nagorno-Karabakh faced starvation and a humanitarian catastrophe. The experts described the situation as a potential genocide through starvation and called for international intervention.",
+      "quotes": [
+        {
+          "text": "We are extremely alarmed about the severe and rapidly deteriorating humanitarian situation facing the ethnic Armenian population in Nagorno-Karabakh. The blockade is creating conditions that amount to a stranglehold on the population.",
+          "attribution": "UN Special Rapporteurs",
+          "context": "Joint statement, August 7, 2023",
+          "source": "https://www.ohchr.org/en/press-releases/2023/08/nagorno-karabakh-un-experts-sound-alarm-about-deteriorating-humanitarian"
+        },
+        {
+          "text": "The civilian population is facing a lack of life-saving medication and essentials like hygiene products and baby formula, with fruits, vegetables, and bread increasingly scarce.",
+          "attribution": "ICRC",
+          "context": "Statement on the humanitarian situation in Nagorno-Karabakh",
+          "source": "https://www.icrc.org/en/document/nagorno-karabakh-humanitarian-situation"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "azerbaijani-offensive-nk",
+      "name": "Azerbaijani Offensive on NK",
+      "type": "interval",
+      "dateStart": "2023-09-19",
+      "dateEnd": "2023-09-20",
+      "dateLabel": "September 19–20, 2023",
+      "summary": "Azerbaijan launched a military offensive against Nagorno-Karabakh, termed 'anti-terrorist activities' by Baku. The operation involved artillery, drone strikes, and ground forces. After 24 hours of fighting, the NK Armenian authorities agreed to a ceasefire and the dissolution of their military forces. At least 200 people were killed, including civilians. Russian peacekeepers, present in the region, did not intervene.",
+      "quotes": [
+        {
+          "text": "The anti-terrorist measures of a local nature are being carried out to restore the constitutional order of Azerbaijan in the region.",
+          "attribution": "Azerbaijani presidential administration",
+          "context": "Statement on the military operation, September 19, 2023",
+          "source": ""
+        },
+        {
+          "text": "This is ethnic cleansing. The international community must act immediately to prevent a genocide.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Address to the nation, September 19, 2023",
+          "source": "https://www.bbc.com/news/world-europe-66862552"
+        },
+        {
+          "text": "We're talking not about a preparation of genocide, but an ongoing process of genocide.",
+          "attribution": "Nikol Pashinyan",
+          "context": "Address on the situation in Nagorno-Karabakh, September 2023",
+          "source": ""
+        },
+        {
+          "text": "The process of withdrawal of Armenia's illegal armed units from their positions has already begun. They have accepted our terms and started laying down their arms.",
+          "attribution": "Azerbaijani Ministry of Defense",
+          "context": "Statement during the September 2023 offensive",
+          "source": ""
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "SvmbVp6Il4A",
+          "title": "Nagorno-Karabakh Offensive (Al Jazeera)"
+        },
+        {
+          "youtubeId": "YOfvB72ndj0",
+          "title": "Refugees Arrive in Armenia After Azerbaijan Offensive (AFP)"
+        },
+        {
+          "youtubeId": "EOFqeuy8Xqg",
+          "title": "Russia, US Urge Halt to Fighting in Karabakh (FRANCE 24)"
+        }
+      ]
+    },
+    {
+      "id": "exodus-armenian-population",
+      "name": "Exodus of Armenian Population",
+      "type": "interval",
+      "dateStart": "2023-09-24",
+      "dateEnd": "2023-10-01",
+      "dateLabel": "September 24 – October 1, 2023",
+      "summary": "Following the Azerbaijani offensive, the entire ethnic Armenian population of Nagorno-Karabakh — over 100,000 people — fled to Armenia within a week. The exodus effectively ended the centuries-long Armenian presence in the region. International observers described scenes of mass displacement with families fleeing with minimal possessions. An explosion at a fuel depot near Stepanakert on September 25 killed at least 68 people and injured hundreds during the evacuation.",
+      "quotes": [
+        {
+          "text": "More than 100,000 ethnic Armenians — virtually the entire population — have fled Nagorno-Karabakh for Armenia in less than a week.",
+          "attribution": "UNHCR",
+          "context": "Situation report, October 2023",
+          "source": "https://www.unhcr.org/news/briefing-notes/unhcr-scales-armenia-response-tens-thousands-refugees-arrive-nagorno"
+        },
+        {
+          "text": "We are witnessing the forced displacement of an entire indigenous population. This is a catastrophe of historic proportions.",
+          "attribution": "European Parliament resolution",
+          "context": "October 2023",
+          "source": "https://www.icrc.org/en/document/nagorno-karabakh-icrc-helps-thousands-people-flee"
+        },
+        {
+          "text": "Strongly condemns Azerbaijan's pre-planned and unjustified military attack against Nagorno-Karabakh on 19 September, which constitutes a gross violation of international law.",
+          "attribution": "European Parliament",
+          "context": "Resolution on the situation in Nagorno-Karabakh, October 2023",
+          "source": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0356_EN.html"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "6AASDxc6cDo",
+          "title": "Almost All Ethnic Armenians Flee Nagorno-Karabakh (BBC News)"
+        },
+        {
+          "youtubeId": "UF1y2XTo5AA",
+          "title": "Refugees Pour into Armenia as Exodus Continues (FRANCE 24)"
+        },
+        {
+          "youtubeId": "IvbKMlCX2nU",
+          "title": "Inside the Mass Exodus from Nagorno-Karabakh (ABC News)"
+        }
+      ]
+    },
+    {
+      "id": "dissolution-republic-artsakh",
+      "name": "Dissolution of Republic of Artsakh",
+      "type": "date",
+      "date": "2023-09-28",
+      "dateLabel": "September 28, 2023",
+      "summary": "Samvel Shahramanyan, the last president of the self-declared Republic of Artsakh (Nagorno-Karabakh Republic), signed a decree dissolving all state institutions effective January 1, 2024. The decree declared that the Republic of Artsakh would cease to exist, ending the 32-year project of Armenian self-governance in the region. Azerbaijan announced plans for the resettlement of Azerbaijani displaced persons to the region.",
+      "quotes": [
+        {
+          "text": "The decree on the dissolution of the Republic of Artsakh is a forced decision made in the conditions of the complete depopulation of Artsakh as a result of Azerbaijan's ethnic cleansing policy.",
+          "attribution": "Samvel Shahramanyan",
+          "context": "Decree statement, September 28, 2023",
+          "source": ""
+        },
+        {
+          "text": "Azerbaijan's sovereignty over Karabakh has been fully restored. The so-called entity that existed on our territory has been dissolved.",
+          "attribution": "Ilham Aliyev",
+          "context": "Remarks to press, September 2023",
+          "source": "https://www.bbc.com/news/world-europe-66940807"
+        },
+        {
+          "text": "The Secretary-General deeply regrets that the sides have continuously ignored the repeated calls of the international community to immediately stop the fighting.",
+          "attribution": "UN Secretary-General",
+          "context": "Statement on the dissolution of Artsakh",
+          "source": "https://press.un.org/en/2023/sgsm21979.doc.htm"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "KfJf0exrSYA",
+          "title": "Nagorno-Karabakh Announces Dissolution (FRANCE 24)"
+        },
+        {
+          "youtubeId": "4mCXZPUPE0M",
+          "title": "Population Flees as Government Dissolves (euronews)"
+        }
+      ]
+    }
+  ]
+}

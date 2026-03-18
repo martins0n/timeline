@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Источники — Армяно-Азербайджанский конфликт: Хронология</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16213e;
+      --bg-card: #1e2a45;
+      --accent-gold: #c9a96e;
+      --accent-gold-dim: #8a7448;
+      --text-primary: #e8e4df;
+      --text-secondary: #a8a4a0;
+      --text-muted: #6b6865;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      padding: 40px 24px 80px;
+    }
+    .container { max-width: 800px; margin: 0 auto; }
+    .back-link {
+      display: inline-block;
+      color: var(--accent-gold-dim);
+      text-decoration: none;
+      font-size: 0.8rem;
+      margin-bottom: 24px;
+      transition: color 0.2s;
+    }
+    .back-link:hover { color: var(--accent-gold); }
+    h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--accent-gold);
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--accent-gold);
+      margin: 32px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid rgba(201, 169, 110, 0.15);
+    }
+    h3 {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin: 20px 0 8px;
+    }
+    .source-group {
+      margin-bottom: 24px;
+    }
+    .source-item {
+      background: var(--bg-card);
+      border-left: 3px solid var(--accent-gold-dim);
+      padding: 10px 14px;
+      border-radius: 0 4px 4px 0;
+      margin-bottom: 6px;
+      font-size: 0.8rem;
+    }
+    .source-item a {
+      color: var(--accent-gold);
+      text-decoration: none;
+      word-break: break-all;
+    }
+    .source-item a:hover { text-decoration: underline; }
+    .source-meta {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+    .source-meta .milestone-link {
+      color: var(--accent-gold-dim);
+      text-decoration: none;
+    }
+    .source-meta .milestone-link:hover {
+      color: var(--accent-gold);
+      text-decoration: underline;
+    }
+    .channel-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 16px 0 8px;
+    }
+    .channel-name {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    .channel-count {
+      font-size: 0.65rem;
+      color: var(--text-muted);
+      background: var(--bg-secondary);
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+    .video-item {
+      background: var(--bg-card);
+      padding: 8px 14px;
+      border-radius: 4px;
+      margin-bottom: 4px;
+      font-size: 0.8rem;
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .video-item a {
+      color: var(--accent-gold);
+      text-decoration: none;
+      flex: 1;
+    }
+    .video-item a:hover { text-decoration: underline; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+    .stat-card {
+      background: var(--bg-card);
+      padding: 14px;
+      border-radius: 6px;
+      text-align: center;
+    }
+    .stat-number {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--accent-gold);
+    }
+    .stat-label {
+      font-size: 0.65rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-top: 4px;
+    }
+    @media (max-width: 480px) {
+      body { padding: 24px 16px 60px; }
+      h1 { font-size: 1.1rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="ru.html" class="back-link">← Назад к хронологии</a>
+    <h1>Источники</h1>
+    <p class="subtitle">Все документы, доклады и видеоисточники, использованные в данной хронологии.</p>
+
+    <div class="stats" id="stats"></div>
+
+    <h2>I. Official Documents & Reports</h2>
+    <div id="documents"></div>
+
+    <h2>II. Books & Publications</h2>
+    <div id="books"></div>
+
+    <h2>III. Видеоисточники</h2>
+    <div id="videos"></div>
+  </div>
+
+  <script>
+    (async function() {
+      const resp = await fetch('data/milestones-ru.json');
+      const data = await resp.json();
+      const milestones = data.milestones;
+      const nameMap = {};
+      milestones.forEach(m => nameMap[m.id] = m.name);
+
+      // Collect sources
+      const urlSources = {};
+      const bookSources = {};
+      const videosByChannel = {};
+      let totalQuotes = 0;
+      let totalVideos = 0;
+      let milestonesWithVideos = 0;
+
+      milestones.forEach(m => {
+        const quotes = m.quotes || [];
+        const videos = m.videos || [];
+        totalQuotes += quotes.length;
+        totalVideos += videos.length;
+        if (videos.length > 0) milestonesWithVideos++;
+
+        quotes.forEach(q => {
+          const src = q.source || '';
+          if (!src) return;
+          if (src.startsWith('http')) {
+            const domain = new URL(src).hostname.replace('www.', '');
+            if (!urlSources[domain]) urlSources[domain] = [];
+            urlSources[domain].push({ url: src, attribution: q.attribution, milestone: m.id });
+          } else {
+            if (!bookSources[src]) bookSources[src] = [];
+            bookSources[src].push({ attribution: q.attribution, milestone: m.id });
+          }
+        });
+
+        videos.forEach(v => {
+          let channel = '';
+          const t = v.title;
+          if (t.includes('(') && t.endsWith(')')) {
+            channel = t.slice(t.lastIndexOf('(') + 1, -1);
+          }
+          if (channel.startsWith('AP Archive')) channel = 'AP Archive';
+          if (channel.startsWith('TRT World')) channel = 'TRT World';
+          if (!channel) channel = 'Other';
+          if (!videosByChannel[channel]) videosByChannel[channel] = [];
+          videosByChannel[channel].push({ id: v.youtubeId, title: t, milestone: m.id });
+        });
+      });
+
+      // Stats
+      const uniqueUrls = new Set();
+      Object.values(urlSources).forEach(arr => arr.forEach(s => uniqueUrls.add(s.url)));
+      const statsEl = document.getElementById('stats');
+      const channelCount = Object.keys(videosByChannel).length;
+      statsEl.innerHTML = `
+        <div class="stat-card"><div class="stat-number">${totalQuotes}</div><div class="stat-label">Цитаты</div></div>
+        <div class="stat-card"><div class="stat-number">${uniqueUrls.size}</div><div class="stat-label">Источники документов</div></div>
+        <div class="stat-card"><div class="stat-number">${totalVideos}</div><div class="stat-label">Видео</div></div>
+        <div class="stat-card"><div class="stat-number">${channelCount}</div><div class="stat-label">Медиа-каналы</div></div>
+      `;
+
+      // Documents
+      const docsEl = document.getElementById('documents');
+      const domainOrder = {
+        'digitallibrary.un.org': 'United Nations Digital Library',
+        'press.un.org': 'United Nations Press',
+        'ohchr.org': 'UN Office of the High Commissioner for Human Rights',
+        'icj-cij.org': 'International Court of Justice',
+        'hrw.org': 'Human Rights Watch',
+        'amnesty.org': 'Amnesty International',
+        'icrc.org': 'International Committee of the Red Cross',
+        'osce.org': 'Organization for Security and Co-operation in Europe',
+        'assembly.coe.int': 'Council of Europe Parliamentary Assembly',
+        'consilium.europa.eu': 'European Council',
+        'europarl.europa.eu': 'European Parliament',
+        'en.kremlin.ru': 'Kremlin (Russia)',
+        'president.az': 'President of Azerbaijan',
+        'primeminister.am': 'Prime Minister of Armenia',
+        'armenpress.am': 'Armenpress (Armenian News Agency)',
+        'news.am': 'NEWS.am',
+        'unhcr.org': 'UNHCR',
+        'bbc.com': 'BBC News',
+      };
+
+      const sortedDomains = Object.keys(urlSources).sort((a, b) => {
+        const ao = Object.keys(domainOrder).indexOf(a);
+        const bo = Object.keys(domainOrder).indexOf(b);
+        if (ao !== -1 && bo !== -1) return ao - bo;
+        if (ao !== -1) return -1;
+        if (bo !== -1) return 1;
+        return a.localeCompare(b);
+      });
+
+      let docsHtml = '';
+      sortedDomains.forEach(domain => {
+        const label = domainOrder[domain] || domain;
+        const items = urlSources[domain];
+        // Dedupe by URL
+        const seen = new Set();
+        const unique = items.filter(s => {
+          if (seen.has(s.url)) return false;
+          seen.add(s.url);
+          return true;
+        });
+        docsHtml += `<h3>${esc(label)}</h3><div class="source-group">`;
+        unique.forEach(s => {
+          docsHtml += `<div class="source-item">
+            <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a>
+            <div class="source-meta">Цитата: ${esc(s.attribution)} — <a class="milestone-link" href="index.html#${s.milestone}">${esc(nameMap[s.milestone])}</a></div>
+          </div>`;
+        });
+        docsHtml += '</div>';
+      });
+      docsEl.innerHTML = docsHtml;
+
+      // Books
+      const booksEl = document.getElementById('books');
+      let booksHtml = '';
+      Object.keys(bookSources).forEach(ref => {
+        const items = bookSources[ref];
+        const milestoneLinks = items.map(b =>
+          `<a class="milestone-link" href="index.html#${b.milestone}">${esc(nameMap[b.milestone])}</a>`
+        ).join(', ');
+        booksHtml += `<div class="source-item">
+          <strong>${esc(ref)}</strong>
+          <div class="source-meta">Используется в: ${milestoneLinks}</div>
+        </div>`;
+      });
+      booksEl.innerHTML = booksHtml;
+
+      // Videos
+      const videosEl = document.getElementById('videos');
+      const channelSorted = Object.keys(videosByChannel).sort((a, b) =>
+        videosByChannel[b].length - videosByChannel[a].length
+      );
+      let videosHtml = '';
+      channelSorted.forEach(ch => {
+        const vids = videosByChannel[ch];
+        videosHtml += `<div class="channel-header">
+          <span class="channel-name">${esc(ch)}</span>
+          <span class="channel-count">${vids.length} video${vids.length > 1 ? 's' : ''}</span>
+        </div>`;
+        vids.forEach(v => {
+          const cleanTitle = v.title.replace(/\s*\([^)]*\)\s*$/, '');
+          videosHtml += `<div class="video-item">
+            <a href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">${esc(cleanTitle)}</a>
+            <span class="source-meta"><a class="milestone-link" href="index.html#${v.milestone}">${esc(nameMap[v.milestone])}</a></span>
+          </div>`;
+        });
+      });
+      videosEl.innerHTML = videosHtml;
+
+      function esc(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+      }
+    })();
+  </script>
+</body>
+</html>
