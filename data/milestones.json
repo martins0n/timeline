@@ -170,6 +170,30 @@
           "attribution": "Ayaz Mutalibov",
           "context": "On his refusal to authorize force against Soviet troops entering Baku, 1990",
           "source": "Thomas de Waal, Black Garden (?)"
+        },
+        {
+          "text": "I want to express my condolences to the Azerbaijan nation for the tragedy that has resulted in great numbers of casualties.",
+          "attribution": "Heydar Aliyev",
+          "context": "Statement at the Azerbaijani Permanent Mission in Moscow, January 21, 1990 — his first public political act in years",
+          "source": "https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html"
+        },
+        {
+          "text": "I consider them illegal, hostile to democracy and totally contradictory to the principles of human rights.",
+          "attribution": "Heydar Aliyev",
+          "context": "Condemning the Soviet military actions in Baku, January 21, 1990",
+          "source": "https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html"
+        },
+        {
+          "text": "We came to destroy the political structure of the Popular Front to prevent their victory in the upcoming elections.",
+          "attribution": "Dmitry Yazov, Soviet Defense Minister",
+          "context": "Revealing the political motivation behind the military intervention in Baku",
+          "source": "https://www.rferl.org/a/azerbaijanis-mark-30th-anniversary-of-bloody-black-january-crackdown/30383248.html"
+        },
+        {
+          "text": "The declaration of a state of emergency in Baku was the biggest mistake of my political career.",
+          "attribution": "Mikhail Gorbachev",
+          "context": "Admission about Black January, 1995",
+          "source": "https://www.rferl.org/a/azerbaijanis-mark-30th-anniversary-of-bloody-black-january-crackdown/30383248.html"
         }
       ],
       "videos": []
@@ -220,6 +244,23 @@
       ]
     },
     {
+      "id": "azerbaijan-independence",
+      "name": "Azerbaijan Declares Independence",
+      "type": "date",
+      "date": "1991-10-18",
+      "dateLabel": "October 18, 1991",
+      "summary": "The Supreme Soviet of Azerbaijan adopted the Constitutional Act on the State Independence of the Republic of Azerbaijan, formally declaring independence from the Soviet Union. The declaration was preceded by a sovereignty declaration on September 23, 1989 and accelerated by the failed August 1991 coup in Moscow. President Ayaz Mutalibov, a former Communist Party leader, presided over the transition. The independence declaration affirmed Azerbaijan's territorial integrity, including Nagorno-Karabakh.",
+      "quotes": [
+        {
+          "text": "Despite the fact that under pressure from the democratic movement Azerbaijani independence was formally declared in October 1991, it was only formal because the Communists closely connected with Russia remained in power.",
+          "attribution": "Abulfaz Elchibey",
+          "context": "On the limitations of the initial independence under Communist leadership",
+          "source": "https://www.zerbaijan.com/azeri/hhz4.htm"
+        }
+      ],
+      "videos": []
+    },
+    {
       "id": "khojaly-massacre",
       "name": "Khojaly Massacre",
       "type": "interval",
@@ -253,6 +294,23 @@
           "title": "First Hand: Khojaly Massacre Survivor (TRT World — The Newsmakers)"
         }
       ]
+    },
+    {
+      "id": "mutalibov-resignation",
+      "name": "Mutalibov Forced to Resign",
+      "type": "date",
+      "date": "1992-03-06",
+      "dateLabel": "March 6, 1992",
+      "summary": "President Ayaz Mutalibov was forced to resign following the Khojaly massacre on February 25–26, 1992. Public outrage over the military's failure to protect Khojaly, combined with accusations that Mutalibov had suppressed information about the attack, led the Azerbaijan Popular Front to demand his removal. Mutalibov briefly attempted to return to power on May 14, 1992, but was ousted again within hours when the Popular Front seized the parliament building. The speaker of parliament, Yakub Mammadov, served as interim head of state.",
+      "quotes": [
+        {
+          "text": "The assault on Khojaly was not a surprise attack. A corridor was kept open by the Armenians for people to leave.",
+          "attribution": "Ayaz Mutalibov",
+          "context": "Interview with Nezavisimaya Gazeta, April 2, 1992, suggesting the opposition exploited the massacre to remove him",
+          "source": "https://en.armradio.am/2024/02/26/the-truth-about-khojalu-marukyan-shares-interview-of-azerbaijans-first-president/"
+        }
+      ],
+      "videos": []
     },
     {
       "id": "capture-shusha-lachin",
@@ -309,6 +367,29 @@
           "title": "Nagorno-Karabakh: OSCE Negotiations (AP Archive, 1995)"
         }
       ]
+    },
+    {
+      "id": "elchibey-elected",
+      "name": "Elchibey Elected President",
+      "type": "date",
+      "date": "1992-06-07",
+      "dateLabel": "June 7, 1992",
+      "summary": "Abulfaz Elchibey, leader of the Azerbaijan Popular Front, won Azerbaijan's first contested presidential election with approximately 60% of the vote. A former dissident and university professor, Elchibey pursued a pro-Turkey, pro-Western foreign policy and refused to join the Russian-led Commonwealth of Independent States. He inherited a deteriorating military situation in Karabakh and launched the summer 1992 offensive to recapture lost territory. His government was marked by political inexperience and growing military setbacks.",
+      "quotes": [
+        {
+          "text": "We are like Turkey. We are between Europe and Asia. We are striving for a secular society, but the Islamic factor is also present here.",
+          "attribution": "Abulfaz Elchibey",
+          "context": "Interview on Azerbaijan's geopolitical identity, November 1992",
+          "source": "https://www.csmonitor.com/1992/1130/30061.html"
+        },
+        {
+          "text": "Both Armenia and Azerbaijan are facing calamities unless they stop this war; they are facing starvation, collapse, and the dispersion of society.",
+          "attribution": "Abulfaz Elchibey",
+          "context": "On the Karabakh conflict, November 1992",
+          "source": "https://www.csmonitor.com/1992/1130/30061.html"
+        }
+      ],
+      "videos": []
     },
     {
       "id": "azerbaijan-summer-1992-offensive",
@@ -396,6 +477,36 @@
           "attribution": "UNSC Resolution 822",
           "context": "Adopted April 30, 1993",
           "source": "https://digitallibrary.un.org/record/165604?ln=en"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "id": "huseynov-rebellion-elchibey-ousted",
+      "name": "Huseynov Rebellion & Elchibey Ousted",
+      "type": "interval",
+      "dateStart": "1993-06-04",
+      "dateEnd": "1993-06-18",
+      "dateLabel": "June 4–18, 1993",
+      "summary": "Colonel Suret Huseynov, a military commander dismissed by Elchibey after a series of defeats in Karabakh, launched a rebellion from Ganja and marched his forces toward Baku. Elchibey invited Heydar Aliyev — then leader of the Nakhchivan Autonomous Republic — to Baku to mediate the crisis. Elchibey fled the capital on June 18, and Aliyev was elected chairman of the Supreme Soviet, becoming de facto head of state. Huseynov was appointed prime minister. The political turmoil coincided with a catastrophic military collapse, as Armenian forces captured five Azerbaijani districts with minimal resistance during the chaos.",
+      "quotes": [
+        {
+          "text": "I am relying on the support of the people, who demand that I march on Baku.",
+          "attribution": "Suret Huseynov",
+          "context": "Statement during the march on Baku, June 1993",
+          "source": "https://www.washingtonpost.com/archive/politics/1993/06/22/militia-leader-seizes-power-in-azerbaijan/1f222091-d79d-48a3-afc5-22a4c879960a/"
+        },
+        {
+          "text": "In June the republic was on the brink of a civil war, and there arose a real danger for the separation of some regions.",
+          "attribution": "Heydar Aliyev",
+          "context": "Inauguration speech as President, October 10, 1993, on the crisis he inherited",
+          "source": "https://lib.aliyev-heritage.org/en/66679364.html"
+        },
+        {
+          "text": "The economic, social, socio-political and moral crisis which the republic faced recently deepened, and in 1993 it reached the crucial point.",
+          "attribution": "Heydar Aliyev",
+          "context": "Inauguration speech, October 10, 1993",
+          "source": "https://lib.aliyev-heritage.org/en/66679364.html"
         }
       ],
       "videos": []
