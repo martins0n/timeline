@@ -503,6 +503,12 @@
           "attribution": "UNSC Resolution 884",
           "context": "Adopted November 12, 1993",
           "source": "https://digitallibrary.un.org/record/176731?ln=en"
+        },
+        {
+          "text": "In connection with occupation of territory of Azerbaijan by armed forces of the Armenian Republic the UN Security Council has accepted 4 resolutions. But these resolutions, which demand immediate, complete and unconditional withdrawal of all occupying forces, until now are completely ignored by the Armenian Republic.",
+          "attribution": "Heydar Aliyev",
+          "context": "Speech at the 49th UN General Assembly, September 29, 1994",
+          "source": "https://lib.aliyev-heritage.org/en/7119983.html"
         }
       ],
       "videos": []
@@ -533,6 +539,18 @@
           "attribution": "Levon Ter-Petrosyan",
           "context": "Statement supporting the ceasefire, 1994",
           "source": "https://radar.am/en/news/retro-2532517667/"
+        },
+        {
+          "text": "The sounds of shots have not been heard, no blood has been shed. But the situation still remains extremely complex, and the cease-fire is rather fragile.",
+          "attribution": "Heydar Aliyev",
+          "context": "Speech at the 49th UN General Assembly on the ceasefire, September 29, 1994",
+          "source": "https://lib.aliyev-heritage.org/en/7119983.html"
+        },
+        {
+          "text": "More than a million Azerbaijanis — about 15 percent of country population — have become refugees and live in tent cities. Every seventh person in a country of seven million is a refugee without dwelling, work, and livelihood.",
+          "attribution": "Heydar Aliyev",
+          "context": "Speech at the 49th UN General Assembly on the IDP crisis, September 29, 1994",
+          "source": "https://lib.aliyev-heritage.org/en/7119983.html"
         }
       ],
       "videos": [
@@ -844,7 +862,13 @@
           "text": "I believe that we have opportunities to achieve a fair and just settlement... extending to the Nagorno-Karabakh region the status of the highest degree of self-rule within the framework of Azerbaijan's territorial integrity.",
           "attribution": "Heydar Aliyev",
           "context": "Council of Europe speech during Key West negotiations era, 2001",
-          "source": ""
+          "source": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=6"
+        },
+        {
+          "text": "Throughout 10 years of my presidency, only once, in Key West, we were really close to sign the document, which didn't occur due to Azerbaijan's refusal, in fact, during the very signing ceremony.",
+          "attribution": "Robert Kocharian",
+          "context": "Reflecting on the Key West talks as the closest to a deal, 2016 interview",
+          "source": "https://en.168.am/2016/09/12/10758.html"
         }
       ],
       "videos": [
@@ -861,7 +885,14 @@
       "date": "2001-01-25",
       "dateLabel": "January 25, 2001",
       "summary": "Armenia and Azerbaijan were simultaneously admitted to the Council of Europe, committing both nations to uphold European standards on democracy, human rights, and the rule of law. Membership brought both countries under the jurisdiction of the European Court of Human Rights and the oversight of the Parliamentary Assembly of the Council of Europe (PACE).",
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "With its full accession to the Council of Europe, Armenia is registering a considerable degree of progress in democracy-building. We realize that we are still in the middle of this road.",
+          "attribution": "Robert Kocharian",
+          "context": "Statement at Council of Europe accession ceremony, Strasbourg, January 25, 2001",
+          "source": "https://www.rferl.org/a/1095594.html"
+        }
+      ],
       "videos": [
         {
           "youtubeId": "Ah06W8aSInw",
@@ -882,6 +913,12 @@
           "attribution": "U.S. Congress",
           "context": "Section 907, Freedom Support Act, 1992",
           "source": "https://www.law.cornell.edu/uscode/text/22/5812"
+        },
+        {
+          "text": "In 1992, pro-Armenian congressmen applied the unfair 907th amendment against Azerbaijan. President Clinton, Mrs. Albright and others repeatedly declared that it was an unfair act and it should be abolished.",
+          "attribution": "Heydar Aliyev",
+          "context": "Meeting with Jewish organization leaders in New York, September 8, 2000",
+          "source": "https://lib.aliyev-heritage.org/en/5517958.html"
         }
       ],
       "videos": []
@@ -950,6 +987,12 @@
           "attribution": "Ilham Aliyev",
           "context": "Remarks after the Kazan meeting",
           "source": ""
+        },
+        {
+          "text": "The process was beneficial for us, and right from the beginning I had no doubt that we will have an opportunity to bring the discussions to an acceptable variant for us.",
+          "attribution": "Robert Kocharian",
+          "context": "On the negotiation process during direct talks with Ilham Aliyev, 2005",
+          "source": "https://www.azatutyun.am/a/33318084.html"
         }
       ],
       "videos": []
@@ -962,7 +1005,20 @@
       "dateEnd": "2006-01-19",
       "dateLabel": "January 18–19, 2006",
       "summary": "Presidents Aliyev and Kocharian met in London and Rambouillet (France) in early 2006 as part of intensified Minsk Group diplomacy. The talks built on the Prague Process and refined the key principles that would form the basis of the Madrid Principles. While progress was made on framework language, disagreements on the specifics of a referendum and interim status remained.",
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "The people of Nagorno Karabakh have not only realized their right to self-determination in accordance with international standards, but have preserved it in the war imposed on them.",
+          "attribution": "Robert Kocharian",
+          "context": "Statement during the Rambouillet negotiation period, 2006",
+          "source": "https://hetq.am/en/article/9850"
+        },
+        {
+          "text": "Over the past 15 years a generation has grown up in Nagorno Karabakh that has never lived in, and has no intention of living in, Azerbaijan; irreversible changes have taken place in the minds of the people.",
+          "attribution": "Robert Kocharian",
+          "context": "Statement during the Rambouillet negotiation period, 2006",
+          "source": "https://hetq.am/en/article/9850"
+        }
+      ],
       "videos": []
     },
     {
@@ -1042,6 +1098,12 @@
           "attribution": "Recep Tayyip Erdogan",
           "context": "On Armenia-Turkey protocols, 2009",
           "source": "Hürriyet Daily News (?)"
+        },
+        {
+          "text": "The key issue in the resolution of the Karabakh conflict is the status of Nagorno-Karabakh. That is the red line, beyond which the Armenian sides cannot go.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Interview with Armenian Reporter editors, October 2009",
+          "source": "https://www.president.am/en/interviews-and-press-conferences/item/2009/10/02/news-38"
         }
       ],
       "videos": []
@@ -1109,6 +1171,18 @@
           "attribution": "Serzh Sargsyan",
           "context": "On the Kazan negotiations outcome",
           "source": "https://news.am/eng/news/628899.html"
+        },
+        {
+          "text": "In Kazan Azerbaijan backtracked and refused to get to a common denominator, thus creating new obstacles for the future agreement.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Address at consultations with senior MFA staff and heads of diplomatic missions, August 30, 2011",
+          "source": "https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97"
+        },
+        {
+          "text": "Baku is not ready for peace because it is impossible to establish peace while preaching war, or to reconcile societies while spreading Armenophobia, or build confidence while instigating arms race.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Address at MFA consultations, August 30, 2011",
+          "source": "https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97"
         }
       ],
       "videos": []
@@ -1213,6 +1287,24 @@
           "attribution": "Sergei Lavrov and John Kerry",
           "context": "Joint statement on April 2016 ceasefire, April 2016",
           "source": "Russian MFA (?)"
+        },
+        {
+          "text": "I would not qualify the developments as a victory or defeat. Azerbaijani troops have taken several Armenian positions, but failed to settle a single strategic military task. Baku's euphoria of military victory is absolutely groundless.",
+          "attribution": "Robert Kocharian",
+          "context": "Assessment of the April 2016 Four-Day War, June 2016 interview",
+          "source": "https://en.168.am/2016/06/01/7584.html"
+        },
+        {
+          "text": "If the military actions continue and expand, the Republic of Armenia will recognize the independence of Nagorno-Karabakh.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Statement during the April 2016 Four-Day War, April 4, 2016",
+          "source": "https://armenpress.am/en/article/842755"
+        },
+        {
+          "text": "The President is deeply concerned about the reports on resumed military actions along the line of engagement in Nagorno-Karabakh and calls on parties to the conflict to immediate ceasefire and restraint.",
+          "attribution": "Vladimir Putin (via press secretary Dmitry Peskov)",
+          "context": "Kremlin statement upon outbreak of the April 2016 Four-Day War, April 2, 2016",
+          "source": "https://tass.com/politics/866775"
         }
       ],
       "videos": [
@@ -1254,7 +1346,14 @@
       "date": "2016-06-20",
       "dateLabel": "June 20, 2016",
       "summary": "Presidents Aliyev and Sargsyan met in St. Petersburg, Russia, facilitated by President Putin. The meeting aimed to build on the Vienna agreements and revive the negotiating process after the April war. While both leaders reaffirmed commitment to a peaceful resolution, no substantive progress was made, and the diplomatic process remained effectively stalled.",
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Last April, for the first time after the establishment of the ceasefire in 1994, the territory of Nagorno Karabakh became a war place.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Speech at the CIS Heads of State meeting, September 16, 2016",
+          "source": "https://www.president.am/en/statements-and-messages/item/2016/09/16/President-Serzh-Sargsyan-speech-Kyrgyzstan/"
+        }
+      ],
       "videos": []
     },
     {
@@ -1289,6 +1388,18 @@
           "attribution": "Nikol Pashinyan",
           "context": "Negotiation position on Nagorno-Karabakh, 2019",
           "source": "https://armenpress.am/eng/news/932932.html"
+        },
+        {
+          "text": "In 2018, when the Velvet Revolution took place, the authorities received a very high credit of trust and could lead the country in the right direction. But they took the path of vendettas, settling personal scores.",
+          "attribution": "Robert Kocharian",
+          "context": "Retrospective assessment of the 2018 revolution and its consequences",
+          "source": "https://jam-news.net/ex-president-robert-kocharian-struggle-for-power-will-continue/"
+        },
+        {
+          "text": "Nikol Pashinian was right. I was wrong.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Resignation statement, April 23, 2018",
+          "source": "https://www.cbsnews.com/news/armenian-leader-serzh-sargsyan-resigns-unexpectedly-2018-04-23/"
         }
       ],
       "videos": [
@@ -1321,6 +1432,12 @@
           "attribution": "Nikol Pashinyan",
           "context": "Statement on peace negotiations, 2019–2020",
           "source": "https://armenpress.am/eng/news/1032461.html"
+        },
+        {
+          "text": "Those who occupy 20 percent of Azerbaijani lands and prevent over 1 million Azerbaijanis to return to their land should not expect Turkey to open its borders.",
+          "attribution": "Recep Tayyip Erdogan",
+          "context": "Speech at 100th anniversary of Baku's liberation, September 15, 2018",
+          "source": "https://www.hurriyetdailynews.com/turkey-will-not-open-armenia-border-amid-karabakh-occupation-erdogan-136892"
         }
       ],
       "videos": []
@@ -1404,6 +1521,24 @@
           "attribution": "Mike Pompeo",
           "context": "On Turkey's involvement in the 2020 war, October 2020",
           "source": "https://massispost.com/2020/10/secretary-pompeo-addresses-artsakh-war-criticizes-azerbaijan-and-turkey/"
+        },
+        {
+          "text": "Of course, this is a huge tragedy. People are dying, there are heavy losses on both sides.",
+          "attribution": "Vladimir Putin",
+          "context": "First public comments on the 44-day war, Rossiya 1 TV, October 7, 2020",
+          "source": "https://jam-news.net/putin-nagorno-karabakh-azerbaijan-armenia-conflict-interview-news/"
+        },
+        {
+          "text": "It is deeply regrettable that the hostilities continue, but they are not taking place on Armenian territory.",
+          "attribution": "Vladimir Putin",
+          "context": "Clarifying that Russia's CSTO obligations do not extend to Karabakh, October 7, 2020",
+          "source": "https://www.themoscowtimes.com/2020/10/07/russias-security-guarantees-for-armenia-dont-extend-to-karabakh-putin-says-a71687"
+        },
+        {
+          "text": "Armenia is the biggest threat to peace in the region.",
+          "attribution": "Recep Tayyip Erdogan",
+          "context": "Statement on the day the 44-day war began, September 27, 2020",
+          "source": "https://www.dailysabah.com/politics/diplomacy/erdogan-armenia-biggest-threat-to-peace-in-region"
         }
       ],
       "videos": [
@@ -1572,6 +1707,24 @@
           "attribution": "Ilham Aliyev",
           "context": "Victory address to the nation, November 2020",
           "source": "https://president.az/en/articles/view/49585"
+        },
+        {
+          "text": "We simply lost, and, in my assessment, for very, very subjective reasons.",
+          "attribution": "Robert Kocharian",
+          "context": "Assessment of the 2020 44-day war defeat",
+          "source": "https://arminfo.info/full_news.php?id=91112&lang=3"
+        },
+        {
+          "text": "We will remove and hold accountable the capitulators who have discredited and humiliated our state and knelt before the enemy.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Statement on forming the 'I Have Honor' electoral alliance, May 2021",
+          "source": "https://massispost.com/2021/05/serzh-sarkisian-and-artur-vanetsyan-join-forces-to-participate-in-armenias-parliamentary-elections/"
+        },
+        {
+          "text": "Today is a day of victory and pride for the entire Turkic world. Those who brought nothing but destruction, massacre, and tears to Nagorno-Karabakh now need to come to their senses.",
+          "attribution": "Recep Tayyip Erdogan",
+          "context": "Speech at Azerbaijan's Victory Parade in Baku, December 10, 2020",
+          "source": "https://www.aa.com.tr/en/turkey/turkish-azerbaijani-presidents-attend-victory-parade/2072367"
         }
       ],
       "videos": [
@@ -1599,6 +1752,12 @@
           "attribution": "Protesters in Yerevan",
           "context": "November 10, 2020",
           "source": ""
+        },
+        {
+          "text": "Consolidation is provided to push the people to victory. There is no need for consolidation to capitulate.",
+          "attribution": "Robert Kocharian",
+          "context": "Rejecting Pashinyan's calls for national unity after the 2020 defeat",
+          "source": "https://caucasuswatch.de/en/news/robert-kocharyan-on-nagorno-karabakh-conflict-recent-escalation-along-border-relations-with-russia-iran-and-turkeys-role-in-region.html"
         }
       ],
       "videos": [
@@ -1676,6 +1835,12 @@
           "attribution": "Sergei Lavrov",
           "context": "On the collapse of the OSCE Minsk Group, April 2022",
           "source": "Russian MFA (?)"
+        },
+        {
+          "text": "If such a treaty is signed, then it would be correct to call such treaty a forced peace treaty; and a forced peace treaty is the same capitulation.",
+          "attribution": "Serzh Sargsyan",
+          "context": "Statement to reporters outside a Yerevan court, 2022",
+          "source": "https://news.am/eng/news/794297.html"
         }
       ],
       "videos": []
@@ -1955,6 +2120,12 @@
           "attribution": "Antony Blinken",
           "context": "U.S. Secretary of State, September 2023",
           "source": "https://en.armradio.am/2023/09/19/azerbaijans-unacceptable-military-actions-risk-worsening-the-humanitarian-situation-in-nagorno-karabakh-blinken/"
+        },
+        {
+          "text": "Armenia itself recognized Karabakh as part of Azerbaijan. I learned about Armenia's recognition of Karabakh as part of Azerbaijan from the press.",
+          "attribution": "Vladimir Putin",
+          "context": "Valdai Discussion Club, Sochi, October 5, 2023, on Russia's non-intervention",
+          "source": "https://www.azatutyun.am/a/32624909.html"
         }
       ],
       "videos": [
