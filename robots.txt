@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://armenia-azerbaijan-conflict-timeline.martins0n.com/sitemap.xml
