@@ -1,0 +1,1192 @@
+{
+  "generated": "2026-03-20T07:51:19.603957+00:00",
+  "stats": {
+    "total_urls": 140,
+    "archived": 93,
+    "failed": 47
+  },
+  "sources": [
+    {
+      "url": "http://en.kremlin.ru/events/president/news/64381",
+      "wayback_url": "https://web.archive.org/web/20260320071116/http://en.kremlin.ru/events/president/news/64381",
+      "archived_at": "2026-03-20T07:11:34.635758+00:00",
+      "unverified": true,
+      "milestones": [
+        "44-day-war-begins",
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "http://www.eurodialogue.org/Aliyev-Azerbaijan-defense-spending-tops-Armenia-budget",
+      "wayback_url": "https://web.archive.org/web/20260320063531/https://eurodialogue.org/Aliyev-Azerbaijan-defense-spending-tops-Armenia-budget",
+      "archived_at": "2026-03-20T06:35:47.391027+00:00",
+      "unverified": false,
+      "milestones": [
+        "escalation-line-of-contact-2014"
+      ]
+    },
+    {
+      "url": "http://www.g7.utoronto.ca/summit/1997denver/nagorno97.html",
+      "wayback_url": "https://web.archive.org/web/20260320062013/https://g7.utoronto.ca/summit/1997denver/nagorno97.html",
+      "archived_at": "2026-03-20T06:20:29.032869+00:00",
+      "unverified": false,
+      "milestones": [
+        "package-step-by-step-proposals"
+      ]
+    },
+    {
+      "url": "https://americanmilitarynews.com/2020/10/biden-says-trump-must-step-into-armenia-azerbaijan-war/",
+      "wayback_url": "https://web.archive.org/web/20260320071209/https://americanmilitarynews.com/2020/10/biden-says-trump-must-step-into-armenia-azerbaijan-war/",
+      "archived_at": "2026-03-20T07:12:30.546376+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://anca.org/pashinyan-aliyev-agree-to-de-escalate-border-incidents/",
+      "wayback_url": "https://web.archive.org/web/20260320064909/https://anca.org/pashinyan-aliyev-agree-to-de-escalate-border-incidents/",
+      "archived_at": "2026-03-20T06:49:32.364450+00:00",
+      "unverified": true,
+      "milestones": [
+        "pashinyan-aliyev-tensions-agreement"
+      ]
+    },
+    {
+      "url": "https://anca.org/russian-foreign-minister-clarifies-lavrov-proposals-regarding-nagorno-karabakh-settlement/",
+      "wayback_url": "https://web.archive.org/web/20260320071252/https://anca.org/russian-foreign-minister-clarifies-lavrov-proposals-regarding-nagorno-karabakh-settlement/",
+      "archived_at": "2026-03-20T07:13:08.402313+00:00",
+      "unverified": true,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://arminfo.info/full_news.php?id=91112&lang=3",
+      "wayback_url": "https://web.archive.org/web/20260320072537/https://arminfo.info/full_news.php?id=91112&lang=3",
+      "archived_at": "2026-03-20T07:26:05.888880+00:00",
+      "unverified": false,
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=6",
+      "wayback_url": "https://web.archive.org/web/20260320062254/https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=6",
+      "archived_at": "2026-03-20T06:23:11.228027+00:00",
+      "unverified": false,
+      "milestones": [
+        "key-west-peace-talks"
+      ]
+    },
+    {
+      "url": "https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=17289",
+      "wayback_url": "https://web.archive.org/web/20260320062703/https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=17289",
+      "archived_at": "2026-03-20T06:27:19.553966+00:00",
+      "unverified": false,
+      "milestones": [
+        "pace-resolution-armenian-occupation"
+      ]
+    },
+    {
+      "url": "https://bakudialogues.idd.az/articles/armenia-turkiye-relations-18-04-2023",
+      "wayback_url": "https://web.archive.org/web/20260320061425/https://bakudialogues.idd.az/articles/armenia-turkiye-relations-18-04-2023",
+      "archived_at": "2026-03-20T06:14:44.507877+00:00",
+      "unverified": false,
+      "milestones": [
+        "budapest-summit-minsk-restructured"
+      ]
+    },
+    {
+      "url": "https://carnegieendowment.org/research/2012/02/a-president-an-interview-and-a-tragic-anniversary?lang=en&center=europe",
+      "wayback_url": "https://web.archive.org/web/20260320060029/https://carnegieendowment.org/research/2012/02/a-president-an-interview-and-a-tragic-anniversary?lang=en&center=europe",
+      "archived_at": "2026-03-20T06:00:43.507548+00:00",
+      "unverified": false,
+      "milestones": [
+        "khojaly-massacre"
+      ]
+    },
+    {
+      "url": "https://caucasuswatch.de/en/news/robert-kocharyan-on-nagorno-karabakh-conflict-recent-escalation-along-border-relations-with-russia-iran-and-turkeys-role-in-region.html",
+      "wayback_url": "https://web.archive.org/web/20260320072929/https://caucasuswatch.de/en/news/robert-kocharyan-on-nagorno-karabakh-conflict-recent-escalation-along-border-relations-with-russia-iran-and-turkeys-role-in-region.html",
+      "archived_at": "2026-03-20T07:29:45.697653+00:00",
+      "unverified": false,
+      "milestones": [
+        "anti-government-protests-armenia"
+      ]
+    },
+    {
+      "url": "https://digitallibrary.un.org/record/170257?ln=en",
+      "wayback_url": "https://web.archive.org/web/20260320060857/https://digitallibrary.un.org/record/170257?ln=en",
+      "archived_at": "2026-03-20T06:09:24.889316+00:00",
+      "unverified": false,
+      "milestones": [
+        "unsc-resolution-853"
+      ]
+    },
+    {
+      "url": "https://digitallibrary.un.org/record/174420?ln=en",
+      "wayback_url": "https://web.archive.org/web/20260320060944/https://digitallibrary.un.org/record/174420?ln=en",
+      "archived_at": "2026-03-20T06:10:12.435186+00:00",
+      "unverified": false,
+      "milestones": [
+        "unsc-resolution-874"
+      ]
+    },
+    {
+      "url": "https://digitallibrary.un.org/record/176731?ln=en",
+      "wayback_url": "https://web.archive.org/web/20260320061034/https://digitallibrary.un.org/record/176731?ln=en",
+      "archived_at": "2026-03-20T06:11:01.901915+00:00",
+      "unverified": false,
+      "milestones": [
+        "unsc-resolution-884"
+      ]
+    },
+    {
+      "url": "https://dornsife.usc.edu/armenian/2021/04/05/robert-kocharyan-unjust-peace-in-karabakh-will-not-last/",
+      "wayback_url": "https://web.archive.org/web/20260320062224/https://dornsife.usc.edu/armenian/2021/04/05/robert-kocharyan-unjust-peace-in-karabakh-will-not-last/",
+      "archived_at": "2026-03-20T06:22:38.032586+00:00",
+      "unverified": true,
+      "milestones": [
+        "aliyev-kocharian-direct-talks"
+      ]
+    },
+    {
+      "url": "https://en.168.am/2016/06/01/7584.html",
+      "wayback_url": "https://web.archive.org/web/20260320064148/https://en.168.am/2016/06/01/7584.html",
+      "archived_at": "2026-03-20T06:42:10.220273+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://en.168.am/2016/09/12/10758.html",
+      "wayback_url": "https://web.archive.org/web/20260320062334/https://en.168.am/2016/09/12/10758.html",
+      "archived_at": "2026-03-20T06:24:20.046812+00:00",
+      "unverified": false,
+      "milestones": [
+        "key-west-peace-talks"
+      ]
+    },
+    {
+      "url": "https://en.armradio.am/2020/10/23/azerbaijan-has-chosen-the-path-of-war-armenias-foreign-minister-zohrab-mnatsakanyan/",
+      "wayback_url": "https://web.archive.org/web/20260320065320/https://en.armradio.am/2020/10/23/azerbaijan-has-chosen-the-path-of-war-armenias-foreign-minister-zohrab-mnatsakanyan/",
+      "archived_at": "2026-03-20T06:53:47.509589+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://en.armradio.am/2024/02/26/the-truth-about-khojalu-marukyan-shares-interview-of-azerbaijans-first-president/",
+      "wayback_url": "https://web.archive.org/web/20260320060104/https://en.armradio.am/2024/02/26/the-truth-about-khojalu-marukyan-shares-interview-of-azerbaijans-first-president/",
+      "archived_at": "2026-03-20T06:01:27.601544+00:00",
+      "unverified": false,
+      "milestones": [
+        "khojaly-massacre",
+        "mutalibov-resignation"
+      ]
+    },
+    {
+      "url": "https://en.wikiquote.org/wiki/Serzh_Sargsyan",
+      "wayback_url": "https://web.archive.org/web/20260320063008/https://en.wikiquote.org/wiki/Serzh_Sargsyan",
+      "archived_at": "2026-03-20T06:30:25.179144+00:00",
+      "unverified": true,
+      "milestones": [
+        "meyendorf-declaration"
+      ]
+    },
+    {
+      "url": "https://enlightngo.org/language/en/post/1125",
+      "wayback_url": "http://web.archive.org/web/20260320061743/https://enlightngo.org/language/en/post/1125",
+      "archived_at": "2026-03-20T06:59:39.175841+00:00",
+      "unverified": false,
+      "milestones": [
+        "osce-lisbon-summit",
+        "resignation-ter-petrossian"
+      ]
+    },
+    {
+      "url": "https://evnreport.com/spotlight-karabakh/karabakh-movement-88-a-chronology-of-events-on-the-road-to-independence/",
+      "wayback_url": "https://web.archive.org/web/20260320055424/https://evnreport.com/spotlight-karabakh/karabakh-movement-88-a-chronology-of-events-on-the-road-to-independence/",
+      "archived_at": "2026-03-20T05:54:44.048636+00:00",
+      "unverified": false,
+      "milestones": [
+        "nkao-soviet-appeals"
+      ]
+    },
+    {
+      "url": "https://factor.am/en/3029.html",
+      "wayback_url": "https://web.archive.org/web/20260320055501/https://factor.am/en/3029.html",
+      "archived_at": "2026-03-20T05:55:18.245061+00:00",
+      "unverified": false,
+      "milestones": [
+        "gorbachev-rejects-border-changes"
+      ]
+    },
+    {
+      "url": "https://hetq.am/en/article/9850",
+      "wayback_url": "https://web.archive.org/web/20260320062813/https://hetq.am/en/article/9850",
+      "archived_at": "2026-03-20T06:28:36.377039+00:00",
+      "unverified": false,
+      "milestones": [
+        "london-rambouillet-talks"
+      ]
+    },
+    {
+      "url": "https://iravaban.net/en/332074.html",
+      "wayback_url": "https://web.archive.org/web/20260320073402/https://iravaban.net/en/332074.html",
+      "archived_at": "2026-03-20T07:34:26.236151+00:00",
+      "unverified": true,
+      "milestones": [
+        "may-2022-border-clashes"
+      ]
+    },
+    {
+      "url": "https://jam-news.net/ex-president-of-armenia-sargsyan-thrashes-pm-in-interview/",
+      "wayback_url": "http://web.archive.org/web/20260117011144/https://jam-news.net/ex-president-of-armenia-sargsyan-thrashes-pm-in-interview/",
+      "archived_at": "2026-03-20T07:48:07.930830+00:00",
+      "unverified": false,
+      "milestones": [
+        "exodus-armenian-population"
+      ]
+    },
+    {
+      "url": "https://jam-news.net/ex-president-robert-kocharian-struggle-for-power-will-continue/",
+      "wayback_url": "http://web.archive.org/web/20260320064830/https://jam-news.net/ex-president-robert-kocharian-struggle-for-power-will-continue/",
+      "archived_at": "2026-03-20T07:09:47.130862+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-velvet-revolution"
+      ]
+    },
+    {
+      "url": "https://jam-news.net/putin-nagorno-karabakh-azerbaijan-armenia-conflict-interview-news/",
+      "wayback_url": "http://web.archive.org/web/20260114112131/https://jam-news.net/putin-nagorno-karabakh-azerbaijan-armenia-conflict-interview-news/",
+      "archived_at": "2026-03-20T07:14:36.196054+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://jam-news.net/terrorist-leader-who-shot-up-armenian-parliament-20-years-ago-asks-for-early-release/",
+      "wayback_url": "https://web.archive.org/web/20260320062131/https://jam-news.net/terrorist-leader-who-shot-up-armenian-parliament-20-years-ago-asks-for-early-release/",
+      "archived_at": "2026-03-20T06:21:54.308599+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenian-parliament-shooting"
+      ]
+    },
+    {
+      "url": "https://jamestown.org/elchibey-returns-to-baku-unreconstructed/",
+      "wayback_url": "https://web.archive.org/web/20260320060409/https://jamestown.org/elchibey-returns-to-baku-unreconstructed/",
+      "archived_at": "2026-03-20T06:04:24.359958+00:00",
+      "unverified": false,
+      "milestones": [
+        "capture-kelbajar"
+      ]
+    },
+    {
+      "url": "https://jamestown.org/erdogan-reassures-azerbaijan-on-turkeys-border-policy-with-armenia/",
+      "wayback_url": "https://web.archive.org/web/20260320063119/https://jamestown.org/erdogan-reassures-azerbaijan-on-turkeys-border-policy-with-armenia/",
+      "archived_at": "2026-03-20T06:31:35.723878+00:00",
+      "unverified": true,
+      "milestones": [
+        "laquila-g8-statement"
+      ]
+    },
+    {
+      "url": "https://jamestown.org/ter-petrosian-issues-anguished-appeal-for-compromise-peace-on-karabakh/",
+      "wayback_url": "https://web.archive.org/web/20260320061932/https://jamestown.org/ter-petrosian-issues-anguished-appeal-for-compromise-peace-on-karabakh/",
+      "archived_at": "2026-03-20T06:19:49.669920+00:00",
+      "unverified": false,
+      "milestones": [
+        "package-step-by-step-proposals",
+        "resignation-ter-petrossian"
+      ]
+    },
+    {
+      "url": "https://lib.aliyev-heritage.org/en/5517958.html",
+      "wayback_url": "https://web.archive.org/web/20250807162827/https://lib.aliyev-heritage.org/en/5517958.html",
+      "archived_at": "2026-03-20T06:25:49.564525+00:00",
+      "unverified": false,
+      "milestones": [
+        "us-lifts-section-907"
+      ]
+    },
+    {
+      "url": "https://lib.aliyev-heritage.org/en/66679364.html",
+      "wayback_url": "https://web.archive.org/web/20260320060626/https://lib.aliyev-heritage.org/en/66679364.html",
+      "archived_at": "2026-03-20T06:06:47.104260+00:00",
+      "unverified": false,
+      "milestones": [
+        "huseynov-rebellion-elchibey-ousted"
+      ]
+    },
+    {
+      "url": "https://lib.aliyev-heritage.org/en/682837.html",
+      "wayback_url": "https://web.archive.org/web/20260320061652/https://lib.aliyev-heritage.org/en/682837.html",
+      "archived_at": "2026-03-20T06:17:09.012837+00:00",
+      "unverified": false,
+      "milestones": [
+        "osce-lisbon-summit"
+      ]
+    },
+    {
+      "url": "https://lib.aliyev-heritage.org/en/7119983.html",
+      "wayback_url": "https://web.archive.org/web/20260320061208/https://lib.aliyev-heritage.org/en/7119983.html",
+      "archived_at": "2026-03-20T06:58:59.917051+00:00",
+      "unverified": false,
+      "milestones": [
+        "unsc-resolution-884",
+        "bishkek-ceasefire"
+      ]
+    },
+    {
+      "url": "https://lib.aliyevheritage.org/en/3857190.html",
+      "wayback_url": "https://web.archive.org/web/20260320060710/https://lib.aliyevheritage.org/en/3857190.html",
+      "archived_at": "2026-03-20T06:07:27.296063+00:00",
+      "unverified": false,
+      "milestones": [
+        "huseynov-rebellion-elchibey-ousted"
+      ]
+    },
+    {
+      "url": "https://massispost.com/2020/10/secretary-pompeo-addresses-artsakh-war-criticizes-azerbaijan-and-turkey/",
+      "wayback_url": "https://web.archive.org/web/20260320071405/https://massispost.com/2020/10/secretary-pompeo-addresses-artsakh-war-criticizes-azerbaijan-and-turkey/",
+      "archived_at": "2026-03-20T07:14:22.527239+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins",
+        "failed-ceasefires"
+      ]
+    },
+    {
+      "url": "https://massispost.com/2021/05/serzh-sarkisian-and-artur-vanetsyan-join-forces-to-participate-in-armenias-parliamentary-elections/",
+      "wayback_url": "https://web.archive.org/web/20260320072733/https://massispost.com/2021/05/serzh-sarkisian-and-artur-vanetsyan-join-forces-to-participate-in-armenias-parliamentary-elections/",
+      "archived_at": "2026-03-20T07:27:49.802933+00:00",
+      "unverified": false,
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/2011/06/23/readout-president-obamas-call-armenian-president-serzh-sargsian-and-azer",
+      "wayback_url": "https://web.archive.org/web/20260320063237/https://obamawhitehouse.archives.gov/the-press-office/2011/06/23/readout-president-obamas-call-armenian-president-serzh-sargsian-and-azer",
+      "archived_at": "2026-03-20T06:32:54.376566+00:00",
+      "unverified": false,
+      "milestones": [
+        "kazan-summit-turning-point"
+      ]
+    },
+    {
+      "url": "https://oc-media.org/nagorno-karabakh-republic-to-dissolve-by-january-2024/",
+      "wayback_url": "http://web.archive.org/web/20260114171930/https://oc-media.org/nagorno-karabakh-republic-to-dissolve-by-january-2024/",
+      "archived_at": "2026-03-20T07:48:52.125389+00:00",
+      "unverified": true,
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://president.az/en/articles/view/45924",
+      "wayback_url": "http://web.archive.org/web/20260225150800/https://president.az/en/articles/view/45924",
+      "archived_at": "2026-03-20T06:38:01.509170+00:00",
+      "unverified": true,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://president.az/en/articles/view/49584",
+      "wayback_url": "https://web.archive.org/web/20260320071912/https://president.az/en",
+      "archived_at": "2026-03-20T07:19:59.124112+00:00",
+      "unverified": false,
+      "milestones": [
+        "battle-of-shusha"
+      ]
+    },
+    {
+      "url": "https://president.az/en/articles/view/49937",
+      "wayback_url": "https://web.archive.org/web/20260320062631/https://president.az/en/articles/view/49937",
+      "archived_at": "2026-03-20T07:00:57.056891+00:00",
+      "unverified": false,
+      "milestones": [
+        "heydar-aliyev-death-ilham-succession"
+      ]
+    },
+    {
+      "url": "https://press.un.org/en/2023/sc15384.doc.htm",
+      "wayback_url": "http://web.archive.org/web/20260313225454/https://press.un.org/en/2023/sc15384.doc.htm",
+      "archived_at": "2026-03-20T07:41:22.894469+00:00",
+      "unverified": false,
+      "milestones": [
+        "lachin-corridor-blockade"
+      ]
+    },
+    {
+      "url": "https://radar.am/en/news/retro-2532517667/",
+      "wayback_url": "https://web.archive.org/web/20260320061347/https://radar.am/en/news/retro-2532517667/",
+      "archived_at": "2026-03-20T06:14:03.449862+00:00",
+      "unverified": false,
+      "milestones": [
+        "bishkek-ceasefire",
+        "package-step-by-step-proposals"
+      ]
+    },
+    {
+      "url": "https://sputnikglobe.com/europe/201604101037789826-ministry-truce-karabakh/",
+      "wayback_url": "https://web.archive.org/web/20260320070407/https://sputnikglobe.com/20160410/ministry-truce-karabakh-1037789826.html",
+      "archived_at": "2026-03-20T07:04:36.359397+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://www.aa.com.tr/en/azerbaijan-front-line/erdogan-vows-struggle-until-end-of-karabakh-occupation/1993513",
+      "wayback_url": "http://web.archive.org/web/20260102223352/https://www.aa.com.tr/en/azerbaijan-front-line/erdogan-vows-struggle-until-end-of-karabakh-occupation/1993513",
+      "archived_at": "2026-03-20T07:10:50.944801+00:00",
+      "unverified": true,
+      "milestones": [
+        "44-day-war-begins",
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://www.aa.com.tr/en/turkey/turkish-azerbaijani-presidents-attend-victory-parade/2072367",
+      "wayback_url": "https://web.archive.org/web/20260320072817/https://www.aa.com.tr/en/turkey/turkish-azerbaijani-presidents-attend-victory-parade/2072367",
+      "archived_at": "2026-03-20T07:28:34.333393+00:00",
+      "unverified": false,
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2020/11/12/armenia-protests",
+      "wayback_url": "https://web.archive.org/web/20260320072856/https://www.aljazeera.com/news/2020/11/12/armenia-protests",
+      "archived_at": "2026-03-20T07:29:12.171914+00:00",
+      "unverified": true,
+      "milestones": [
+        "anti-government-protests-armenia"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2022/9/18/pelosi-condemns-azerbaijans-illegal-attacks-on-armenia-visit",
+      "wayback_url": "https://web.archive.org/web/20260320073447/https://www.aljazeera.com/news/2022/9/18/pelosi-condemns-azerbaijans-illegal-attacks-on-armenia-visit",
+      "archived_at": "2026-03-20T07:35:07.886069+00:00",
+      "unverified": true,
+      "milestones": [
+        "september-2022-attack-armenia"
+      ]
+    },
+    {
+      "url": "https://www.azatutyun.am/a/33318084.html",
+      "wayback_url": "https://web.archive.org/web/20260320062735/https://www.azatutyun.am/a/33318084.html",
+      "archived_at": "2026-03-20T06:27:52.579302+00:00",
+      "unverified": false,
+      "milestones": [
+        "aliyev-kocharian-kazan-meeting"
+      ]
+    },
+    {
+      "url": "https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html",
+      "wayback_url": "https://web.archive.org/web/20260320055726/https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html",
+      "archived_at": "2026-03-20T05:57:42.847075+00:00",
+      "unverified": false,
+      "milestones": [
+        "black-january"
+      ]
+    },
+    {
+      "url": "https://www.cbsnews.com/news/armenian-leader-serzh-sargsyan-resigns-unexpectedly-2018-04-23/",
+      "wayback_url": "http://web.archive.org/web/20260301125026/https://www.cbsnews.com/news/armenian-leader-serzh-sargsyan-resigns-unexpectedly-2018-04-23/",
+      "archived_at": "2026-03-20T06:48:48.361755+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-velvet-revolution"
+      ]
+    },
+    {
+      "url": "https://www.commonspace.eu/robert-kocharyan-0",
+      "wayback_url": "https://web.archive.org/web/20260320062050/https://www.commonspace.eu/robert-kocharyan-0",
+      "archived_at": "2026-03-20T06:21:12.001863+00:00",
+      "unverified": false,
+      "milestones": [
+        "kocharian-elected"
+      ]
+    },
+    {
+      "url": "https://www.csmonitor.com/1992/1130/30061.html",
+      "wayback_url": "https://web.archive.org/web/20260320060233/https://www.csmonitor.com/1992/1130/30061.html",
+      "archived_at": "2026-03-20T06:02:50.817135+00:00",
+      "unverified": false,
+      "milestones": [
+        "elchibey-elected"
+      ]
+    },
+    {
+      "url": "https://www.dailysabah.com/diplomacy/2016/04/05/turkey-stands-by-azerbaijan-in-nagorno-karabakh-conflict-pm-davutoglu-says",
+      "wayback_url": "http://web.archive.org/web/20260115014516/https://www.dailysabah.com/diplomacy/2016/04/05/turkey-stands-by-azerbaijan-in-nagorno-karabakh-conflict-pm-davutoglu-says",
+      "archived_at": "2026-03-20T06:40:31.660400+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://www.dailysabah.com/europe/2016/04/05/erdogan-karabakh-will-be-returned-to-azerbaijan-one-day",
+      "wayback_url": "https://web.archive.org/web/20260320063906/https://www.dailysabah.com/europe/2016/04/05/erdogan-karabakh-will-be-returned-to-azerbaijan-one-day",
+      "archived_at": "2026-03-20T06:40:15.675263+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://www.dailysabah.com/politics/diplomacy/erdogan-armenia-biggest-threat-to-peace-in-region",
+      "wayback_url": "http://web.archive.org/web/20260315212839/https://www.dailysabah.com/politics/diplomacy/erdogan-armenia-biggest-threat-to-peace-in-region",
+      "archived_at": "2026-03-20T07:15:03.195878+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://www.deseret.com/1993/9/5/19064494/turk-leader-threatens-war-if-armenia-attacks-border/",
+      "wayback_url": "https://web.archive.org/web/20260320060757/https://www.deseret.com/1993/9/5/19064494/turk-leader-threatens-war-if-armenia-attacks-border/",
+      "archived_at": "2026-03-20T06:08:35.103919+00:00",
+      "unverified": false,
+      "milestones": [
+        "capture-agdam-southern-districts"
+      ]
+    },
+    {
+      "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0356_EN.html",
+      "wayback_url": "http://web.archive.org/web/20260131214758/https://www.europarl.europa.eu/doceo/document/TA-9-2023-0356_EN.html",
+      "archived_at": "2026-03-20T07:47:50.882529+00:00",
+      "unverified": true,
+      "milestones": [
+        "exodus-armenian-population"
+      ]
+    },
+    {
+      "url": "https://www.gov.am/en/independence/",
+      "wayback_url": "https://web.archive.org/web/20260301110639/https://www.gov.am/en/independence",
+      "archived_at": "2026-03-20T05:56:52.817032+00:00",
+      "unverified": true,
+      "milestones": [
+        "armenian-ssr-nkao-unification"
+      ]
+    },
+    {
+      "url": "https://www.hrw.org/news/2020/10/23/azerbaijan-cluster-munitions-used-nagorno-karabakh",
+      "wayback_url": "https://web.archive.org/web/20260320071838/https://www.hrw.org/news/2020/10/23/azerbaijan-cluster-munitions-used-nagorno-karabakh",
+      "archived_at": "2026-03-20T07:18:54.864838+00:00",
+      "unverified": false,
+      "milestones": [
+        "shelling-ganja-stepanakert"
+      ]
+    },
+    {
+      "url": "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh",
+      "wayback_url": "http://web.archive.org/web/20260301125457/https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh",
+      "archived_at": "2026-03-20T05:57:09.702079+00:00",
+      "unverified": false,
+      "milestones": [
+        "baku-pogroms",
+        "black-january",
+        "operation-ring"
+      ]
+    },
+    {
+      "url": "https://www.hurriyetdailynews.com/turkey-will-not-open-armenia-border-amid-karabakh-occupation-erdogan-136892",
+      "wayback_url": "http://web.archive.org/web/20260116212712/https://www.hurriyetdailynews.com/turkey-will-not-open-armenia-border-amid-karabakh-occupation-erdogan-136892",
+      "archived_at": "2026-03-20T06:50:35.317026+00:00",
+      "unverified": false,
+      "milestones": [
+        "pashinyan-aliyev-tensions-agreement"
+      ]
+    },
+    {
+      "url": "https://www.icj-cij.org/case/180",
+      "wayback_url": "http://web.archive.org/web/20260215125854/https://www.icj-cij.org/case/180",
+      "archived_at": "2026-03-20T07:40:38.824557+00:00",
+      "unverified": false,
+      "milestones": [
+        "lachin-corridor-blockade",
+        "icj-orders-corridor-opening"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/uscode/text/22/5812",
+      "wayback_url": "http://web.archive.org/web/20260310180510/https://www.law.cornell.edu/uscode/text/22/5812",
+      "archived_at": "2026-03-20T06:25:10.572022+00:00",
+      "unverified": false,
+      "milestones": [
+        "us-lifts-section-907"
+      ]
+    },
+    {
+      "url": "https://www.mfa.am/en/interviews-articles-and-comments/2022/09/27/mfa.stmnt/11654",
+      "wayback_url": "https://web.archive.org/web/20260320073530/https://www.mfa.am/en/interviews-articles-and-comments/2022/09/27/mfa.stmnt/11654",
+      "archived_at": "2026-03-20T07:35:56.147226+00:00",
+      "unverified": false,
+      "milestones": [
+        "september-2022-attack-armenia"
+      ]
+    },
+    {
+      "url": "https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
+      "wayback_url": "http://web.archive.org/web/20260119210158/https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
+      "archived_at": "2026-03-20T06:04:37.721782+00:00",
+      "unverified": false,
+      "milestones": [
+        "capture-kelbajar"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/mc/39539",
+      "wayback_url": "https://web.archive.org/web/20260320061618/https://www.osce.org/mc/39539",
+      "archived_at": "2026-03-20T06:16:35.472261+00:00",
+      "unverified": false,
+      "milestones": [
+        "osce-lisbon-summit"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/mg/126923",
+      "wayback_url": "https://web.archive.org/web/20260320063730/https://www.osce.org/mg/126923",
+      "archived_at": "2026-03-20T06:37:47.313057+00:00",
+      "unverified": true,
+      "milestones": [
+        "armenian-helicopter-shot-down"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/mg/240316",
+      "wayback_url": "https://web.archive.org/web/20260320064411/https://www.osce.org/mg/240316",
+      "archived_at": "2026-03-20T06:44:27.570552+00:00",
+      "unverified": false,
+      "milestones": [
+        "vienna-ceasefire-monitoring"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/mg/51152",
+      "wayback_url": "http://web.archive.org/web/20260315142553/https://www.osce.org/mg/51152",
+      "archived_at": "2026-03-20T06:28:49.930827+00:00",
+      "unverified": false,
+      "milestones": [
+        "madrid-principles",
+        "laquila-g8-statement"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/mg/78195",
+      "wayback_url": "https://web.archive.org/web/20260320063046/https://www.osce.org/mg/78195",
+      "archived_at": "2026-03-20T06:31:02.928716+00:00",
+      "unverified": false,
+      "milestones": [
+        "laquila-g8-statement",
+        "kazan-summit-turning-point"
+      ]
+    },
+    {
+      "url": "https://www.osce.org/minsk-group/108306",
+      "wayback_url": "https://web.archive.org/web/20260320060155/https://www.osce.org/minsk-group/108306",
+      "archived_at": "2026-03-20T06:02:11.275311+00:00",
+      "unverified": true,
+      "milestones": [
+        "csce-minsk-group"
+      ]
+    },
+    {
+      "url": "https://www.peaceagreements.org/agreements/990/",
+      "wayback_url": "https://web.archive.org/web/20260320061308/https://www.peaceagreements.org/agreements/990/",
+      "archived_at": "2026-03-20T06:13:25.566079+00:00",
+      "unverified": false,
+      "milestones": [
+        "bishkek-ceasefire"
+      ]
+    },
+    {
+      "url": "https://www.president.am/en/interviews-and-press-conferences/item/2009/10/02/news-38",
+      "wayback_url": "https://web.archive.org/web/20260320063156/https://www.president.am/en/interviews-and-press-conferences/item/2009/10/02/news-38",
+      "archived_at": "2026-03-20T06:32:16.053968+00:00",
+      "unverified": false,
+      "milestones": [
+        "laquila-g8-statement"
+      ]
+    },
+    {
+      "url": "https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
+      "wayback_url": "https://web.archive.org/web/20260320063824/https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
+      "archived_at": "2026-03-20T06:38:44.485421+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://www.president.am/en/press-release/item/2015/09/29/President-Serzh-Sargsyan-speech-UN-General-Assembly",
+      "wayback_url": "http://web.archive.org/web/20260320063623/https://www.president.am/en/press-release/item/2015/09/29/President-Serzh-Sargsyan-speech-UN-General-Assembly",
+      "archived_at": "2026-03-20T07:03:50.482216+00:00",
+      "unverified": false,
+      "milestones": [
+        "escalation-line-of-contact-2014"
+      ]
+    },
+    {
+      "url": "https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97",
+      "wayback_url": "http://web.archive.org/web/20260210061306/https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97/",
+      "archived_at": "2026-03-20T06:33:53.771730+00:00",
+      "unverified": false,
+      "milestones": [
+        "kazan-summit-turning-point"
+      ]
+    },
+    {
+      "url": "https://www.president.am/en/statements-and-messages/item/2016/09/16/President-Serzh-Sargsyan-speech-Kyrgyzstan/",
+      "wayback_url": "http://web.archive.org/web/20260211102814/https://president.am/en/statements-and-messages/item/2016/09/16/President-Serzh-Sargsyan-speech-Kyrgyzstan/",
+      "archived_at": "2026-03-20T06:44:40.823585+00:00",
+      "unverified": false,
+      "milestones": [
+        "st-petersburg-summit"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/press-release/item/2022/09/26/Nikol-Pashinyan-met-with-Emmanuel-Macron/",
+      "wayback_url": "https://web.archive.org/web/20260320073712/https://www.primeminister.am/en/press-release/item/2022/09/26/Nikol-Pashinyan-met-with-Emmanuel-Macron/",
+      "archived_at": "2026-03-20T07:37:34.686943+00:00",
+      "unverified": false,
+      "milestones": [
+        "september-2022-attack-armenia"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/statements-and-messages/item/2020/09/27/Nikol-Pashinyan-Speech/",
+      "wayback_url": "https://web.archive.org/web/20260320065140/https://www.primeminister.am/en/statements-and-messages/item/2020/09/27/Nikol-Pashinyan-Speech/",
+      "archived_at": "2026-03-20T06:52:01.661696+00:00",
+      "unverified": true,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/statements-and-messages/item/2022/11/23/Nikol-Pashinyan-CSTO-meeting/",
+      "wayback_url": "https://web.archive.org/web/20260320073752/https://www.primeminister.am/en/statements-and-messages/item/2022/11/23/Nikol-Pashinyan-CSTO-meeting/",
+      "archived_at": "2026-03-20T07:38:13.549699+00:00",
+      "unverified": false,
+      "milestones": [
+        "september-2022-attack-armenia"
+      ]
+    },
+    {
+      "url": "https://www.rferl.org/a/1095594.html",
+      "wayback_url": "https://web.archive.org/web/20260320062441/https://www.rferl.org/a/1095594.html",
+      "archived_at": "2026-03-20T06:24:57.649087+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-azerbaijan-join-council-europe"
+      ]
+    },
+    {
+      "url": "https://www.rferl.org/a/azerbaijanis-mark-30th-anniversary-of-bloody-black-january-crackdown/30383248.html",
+      "wayback_url": "https://web.archive.org/web/20260320055910/https://www.rferl.org/a/azerbaijanis-mark-30th-anniversary-of-bloody-black-january-crackdown/30383248.html",
+      "archived_at": "2026-03-20T05:59:32.843295+00:00",
+      "unverified": false,
+      "milestones": [
+        "black-january"
+      ]
+    },
+    {
+      "url": "https://www.t-vine.com/oil-is-the-greatest-national-wealth-of-the-republic-of-azerbaijan-heydar-aliyev-and-the-contract-of-the-century/",
+      "wayback_url": "https://web.archive.org/web/20260320061541/https://www.t-vine.com/oil-is-the-greatest-national-wealth-of-the-republic-of-azerbaijan-heydar-aliyev-and-the-contract-of-the-century/",
+      "archived_at": "2026-03-20T06:59:26.248517+00:00",
+      "unverified": false,
+      "milestones": [
+        "budapest-summit-minsk-restructured"
+      ]
+    },
+    {
+      "url": "https://www.themoscowtimes.com/2020/10/07/russias-security-guarantees-for-armenia-dont-extend-to-karabakh-putin-says-a71687",
+      "wayback_url": "http://web.archive.org/web/20260315142539/https://www.themoscowtimes.com/2020/10/07/russias-security-guarantees-for-armenia-dont-extend-to-karabakh-putin-says-a71687",
+      "archived_at": "2026-03-20T07:14:49.421023+00:00",
+      "unverified": false,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://www.trend.az/azerbaijan/politics/3950095.html",
+      "wayback_url": "https://web.archive.org/web/20260320065052/https://www.trend.az/azerbaijan/politics/3950095.html",
+      "archived_at": "2026-03-20T06:51:15.372027+00:00",
+      "unverified": true,
+      "milestones": [
+        "44-day-war-begins"
+      ]
+    },
+    {
+      "url": "https://www.trend.az/azerbaijan/politics/3952687.html",
+      "wayback_url": "https://web.archive.org/web/20260320071524/https://www.trend.az/azerbaijan/politics/3952687.html",
+      "archived_at": "2026-03-20T07:15:47.219314+00:00",
+      "unverified": true,
+      "milestones": [
+        "failed-ceasefires"
+      ]
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/politics/1993/06/22/militia-leader-seizes-power-in-azerbaijan/1f222091-d79d-48a3-afc5-22a4c879960a/",
+      "wayback_url": "https://web.archive.org/web/20260320060537/https://www.washingtonpost.com/archive/politics/1993/06/22/militia-leader-seizes-power-in-azerbaijan/1f222091-d79d-48a3-afc5-22a4c879960a/",
+      "archived_at": "2026-03-20T06:05:59.856043+00:00",
+      "unverified": false,
+      "milestones": [
+        "huseynov-rebellion-elchibey-ousted"
+      ]
+    },
+    {
+      "url": "https://www.zerbaijan.com/azeri/hhz4.htm",
+      "wayback_url": "https://web.archive.org/web/20260320055949/https://www.zerbaijan.com/azeri/hhz4.htm",
+      "archived_at": "2026-03-20T06:00:05.792223+00:00",
+      "unverified": false,
+      "milestones": [
+        "azerbaijan-independence"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "url": "http://en.kremlin.ru/events/president/news/64384",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "trilateral-ceasefire-agreement",
+        "russian-peacekeepers-deployed"
+      ]
+    },
+    {
+      "url": "http://en.kremlin.ru/supplement/209",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "meyendorf-declaration"
+      ]
+    },
+    {
+      "url": "https://armenianweekly.com/2023/05/30/pashinyans-surrender-of-artsakh-to-azerbaijan-is-null-and-void/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "armenia-velvet-revolution"
+      ]
+    },
+    {
+      "url": "https://armenianweekly.com/2025/02/19/kocharyan-breaks-silence-warns-that-armenia-risks-losing-everything-under-pashinyan/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://armenpress.am/en/article/1222762",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://armenpress.am/en/article/842755",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://armenpress.am/eng/news/1032461.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "pashinyan-aliyev-tensions-agreement"
+      ]
+    },
+    {
+      "url": "https://armenpress.am/eng/news/930233.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "escalation-line-of-contact-2014"
+      ]
+    },
+    {
+      "url": "https://armenpress.am/eng/news/932932.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "armenia-velvet-revolution"
+      ]
+    },
+    {
+      "url": "https://aze.media/peace-as-a-resource-simple-and-complex-theses-of-pashinyan/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "prague-quadrilateral-meeting"
+      ]
+    },
+    {
+      "url": "https://azertag.az/en/xeber/President_Armenians_living_in_Karabakh_should_either_accept_Azerbaijani_citizenship_or_find_another_place_to_live-2578826",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "lachin-corridor-blockade"
+      ]
+    },
+    {
+      "url": "https://caspiannews.com/news-detail/aliyev-says-karabakh-is-azerbaijan-and-exclamation-mark-responding-to-armenian-pms-claims-2019-10-5-0/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "armenia-velvet-revolution"
+      ]
+    },
+    {
+      "url": "https://caucasuswatch.de/news/5184.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "brussels-peace-treaty-talks"
+      ]
+    },
+    {
+      "url": "https://digitallibrary.un.org/record/165604?ln=en",
+      "error": "HTTP Error 523: UNKNOWN",
+      "milestones": [
+        "unsc-resolution-822"
+      ]
+    },
+    {
+      "url": "https://en.armradio.am/2020/10/23/no-way-for-subjugation-people-of-nagorno-karabakh-will-decide-their-fate-armenian-fm-tells-the-cnn/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "failed-ceasefires"
+      ]
+    },
+    {
+      "url": "https://en.armradio.am/2023/05/23/artsakh-has-not-been-and-will-not-be-a-part-of-azerbaijan-because-that-is-the-will-of-our-people-arayik-harutyunyan/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "lachin-corridor-blockade"
+      ]
+    },
+    {
+      "url": "https://en.armradio.am/2023/09/19/azerbaijans-unacceptable-military-actions-risk-worsening-the-humanitarian-situation-in-nagorno-karabakh-blinken/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://en.defence-ua.com/news/azerbaijan_has_initiated_anti_terrorist_measures_in_karabakh_to_restore_constitutional_order-7992.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://en.trend.az/azerbaijan/politics/3774212.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijan-checkpoint-lachin"
+      ]
+    },
+    {
+      "url": "https://news.am/eng/news/628899.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "kazan-summit-turning-point"
+      ]
+    },
+    {
+      "url": "https://news.am/eng/news/794297.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "brussels-peace-treaty-talks"
+      ]
+    },
+    {
+      "url": "https://news.am/eng/news/797710.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "package-step-by-step-proposals"
+      ]
+    },
+    {
+      "url": "https://president.az/en/articles/view/49585",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://press.un.org/en/2020/sgsm20347.doc.htm",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://tass.com/politics/866775",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://tass.com/world/1221707",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://tass.com/world/1367039",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "sochi-trilateral-meeting"
+      ]
+    },
+    {
+      "url": "https://www.aa.com.tr/en/europe/putin-says-karabakh-irrevocably-became-part-of-azerbaijan-in-2022/3018909",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "prague-quadrilateral-meeting"
+      ]
+    },
+    {
+      "url": "https://www.aa.com.tr/en/world/no-status-other-than-azerbaijani-territory-acceptable-for-karabakh-turkish-president-tells-un/2996199",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2023/9/20/turkey-supports-steps-taken-by-azerbaijan-in-nagorno-karabakh-erdogan",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://www.amnesty.org/en/latest/news/2023/02/azerbaijan-blockade-of-lachin-corridor/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "icj-orders-corridor-opening"
+      ]
+    },
+    {
+      "url": "https://www.armenian-genocide.org/Karabakh.104/current_category.417/nagorno-karabakh_detail.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "un-experts-urge-blockade-lift"
+      ]
+    },
+    {
+      "url": "https://www.azatutyun.am/a/32624909.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://www.bbc.com/news/world-europe-66862552",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://www.bbc.com/news/world-europe-66940807",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "dissolution-republic-artsakh"
+      ]
+    },
+    {
+      "url": "https://www.civilnet.am/news/2020/11/13/%E2%80%9CI-signed-a-statement-not-an-agreement%E2%80%9D-Pashinyan-says/408056",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2021/12/14/eastern-partnership-summit-joint-declaration/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "eu-brokered-hotline-brussels"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/04/06/statement-of-european-council-president-charles-michel-following-the-second-trilateral-meeting-with-president-ilham-aliyev-and-prime-minister-nikol-pashinyan/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "brussels-peace-treaty-talks"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/10/07/statement-following-quadrilateral-meeting/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "prague-quadrilateral-meeting"
+      ]
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20230920-armenia-s-pashinyan-from-revolutionary-to-embattled-war-time-leader",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://www.globalsecurity.org/military/library/news/2023/09/mil-230920-sputnik04.htm",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "azerbaijani-offensive-nk"
+      ]
+    },
+    {
+      "url": "https://www.ohchr.org/en/press-releases/2023/08/nagorno-karabakh-un-experts-sound-alarm-about-deteriorating-humanitarian",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "un-experts-urge-blockade-lift"
+      ]
+    },
+    {
+      "url": "https://www.rferl.org/a/azerbaijan-seeks-reintegration-karabakh-armenians/32605005.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "exodus-armenian-population"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/news/briefing-notes/unhcr-scales-armenia-response-tens-thousands-refugees-arrive-nagorno",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "exodus-armenian-population"
+      ]
+    },
+    {
+      "url": "https://www.upi.com/Archives/1988/07/18/The-Supreme-Soviet-meeting-in-emergency-session-to-try/1985585201600/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "ussr-supreme-soviet-rejects-transfer"
+      ]
+    },
+    {
+      "url": "https://www.upi.com/Archives/1993/09/09/Turkey-Russia-agree-that-Armenian-offensive-must-be-stopped/8893747547200/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "capture-kelbajar"
+      ]
+    },
+    {
+      "url": "https://x.com/hikmethajiyev/status/1317236171764862976",
+      "error": "HTTP Error 523: UNKNOWN",
+      "milestones": [
+        "shelling-ganja-stepanakert"
+      ]
+    }
+  ]
+}
