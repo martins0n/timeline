@@ -11,6 +11,7 @@ The Armenia–Azerbaijan conflict is the first timeline, but the platform is des
 - Every quote must have `attribution`, `context`, and a verifiable `source` (URL preferred).
 - Unverified sources are marked with `(?)` — these are known gaps, not acceptable final state.
 - **Source verification is mandatory.** When adding or modifying quotes, fetch the source URL and confirm the quote text actually appears on the linked page. Never trust a URL without checking. This is a hard rule.
+- **Archive new sources.** After adding or verifying a source URL, run `python3 archive_sources.py` to submit it to the Wayback Machine. This updates `data/sources-archive.json` — commit the updated index alongside your data changes.
 - All data changes go to BOTH `data/milestones.json` and `data/milestones-ru.json` — quote counts must match per milestone.
 
 ## Content Rules — Actors
