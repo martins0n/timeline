@@ -1,30 +1,10 @@
 {
   "checked_at": "2026-03-28T06:42:30+00:00",
   "total_urls": 140,
-  "ok": 115,
-  "broken": 24,
+  "ok": 125,
+  "broken": 14,
   "unreachable": 1,
   "problems": [
-    {
-      "url": "https://www.upi.com/Archives/1988/07/18/The-Supreme-Soviet-meeting-in-emergency-session-to-try/1985585201600/",
-      "status": 403,
-      "error": "HTTP Error 403: Forbidden",
-      "wayback": null,
-      "milestones": [
-        "ussr-supreme-soviet-rejects-transfer"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.upi.com/Archives/1993/09/09/Turkey-Russia-agree-that-Armenian-offensive-must-be-stopped/8893747547200/",
-      "status": 403,
-      "error": "HTTP Error 403: Forbidden",
-      "wayback": null,
-      "milestones": [
-        "capture-kelbajar"
-      ],
-      "already_marked": false
-    },
     {
       "url": "https://www.washingtonpost.com/archive/politics/1993/06/22/militia-leader-seizes-power-in-azerbaijan/1f222091-d79d-48a3-afc5-22a4c879960a/",
       "status": 503,
@@ -32,26 +12,6 @@
       "wayback": "https://web.archive.org/web/20260320060537/https://www.washingtonpost.com/archive/politics/1993/06/22/militia-leader-seizes-power-in-azerbaijan/1f222091-d79d-48a3-afc5-22a4c879960a/",
       "milestones": [
         "huseynov-rebellion-elchibey-ousted"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
-      "status": 404,
-      "error": "HTTP Error 404: Not Found",
-      "wayback": "http://web.archive.org/web/20260119210158/https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
-      "milestones": [
-        "capture-kelbajar"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "http://www.g7.utoronto.ca/summit/1997denver/nagorno97.html",
-      "status": 503,
-      "error": "HTTP Error 503: Service Unavailable",
-      "wayback": "https://web.archive.org/web/20260320062013/https://g7.utoronto.ca/summit/1997denver/nagorno97.html",
-      "milestones": [
-        "package-step-by-step-proposals"
       ],
       "already_marked": false
     },
@@ -82,56 +42,6 @@
       "wayback": "https://web.archive.org/web/20260320063531/https://eurodialogue.org/Aliyev-Azerbaijan-defense-spending-tops-Armenia-budget",
       "milestones": [
         "escalation-line-of-contact-2014"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.president.am/en/interviews-and-press-conferences/item/2009/10/02/news-38",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "https://web.archive.org/web/20260320063156/https://www.president.am/en/interviews-and-press-conferences/item/2009/10/02/news-38",
-      "milestones": [
-        "laquila-g8-statement"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "http://web.archive.org/web/20260210061306/https://www.president.am/en/statements-and-messages/item/2011/08/30/news-97/",
-      "milestones": [
-        "kazan-summit-turning-point"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.president.am/en/press-release/item/2015/09/29/President-Serzh-Sargsyan-speech-UN-General-Assembly",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "http://web.archive.org/web/20260320063623/https://www.president.am/en/press-release/item/2015/09/29/President-Serzh-Sargsyan-speech-UN-General-Assembly",
-      "milestones": [
-        "escalation-line-of-contact-2014"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "https://web.archive.org/web/20260320063824/https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
-      "milestones": [
-        "april-2016-four-day-war"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.president.am/en/statements-and-messages/item/2016/09/16/President-Serzh-Sargsyan-speech-Kyrgyzstan/",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "http://web.archive.org/web/20260211102814/https://president.am/en/statements-and-messages/item/2016/09/16/President-Serzh-Sargsyan-speech-Kyrgyzstan/",
-      "milestones": [
-        "st-petersburg-summit"
       ],
       "already_marked": false
     },
@@ -174,16 +84,6 @@
       "wayback": null,
       "milestones": [
         "eu-brokered-hotline-brussels"
-      ],
-      "already_marked": false
-    },
-    {
-      "url": "https://www.mfa.am/en/interviews-articles-and-comments/2022/09/27/mfa.stmnt/11654",
-      "status": 400,
-      "error": "HTTP Error 400: Bad Request",
-      "wayback": "https://web.archive.org/web/20260320073530/https://www.mfa.am/en/interviews-articles-and-comments/2022/09/27/mfa.stmnt/11654",
-      "milestones": [
-        "september-2022-attack-armenia"
       ],
       "already_marked": false
     },
