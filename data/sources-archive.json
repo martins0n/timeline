@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-21T21:18:03.774987+00:00",
+  "generated": "2026-04-22T05:56:12.151597+00:00",
   "stats": {
-    "total_urls": 141,
-    "archived": 115,
-    "failed": 26
+    "total_urls": 173,
+    "archived": 146,
+    "failed": 27
   },
   "sources": [
     {
@@ -162,6 +162,15 @@
       ]
     },
     {
+      "url": "https://digitallibrary.un.org/record/164887",
+      "wayback_url": "https://web.archive.org/web/20260422050841/https://digitallibrary.un.org/record/164887",
+      "archived_at": "2026-04-22T05:09:00.004970+00:00",
+      "unverified": false,
+      "milestones": [
+        "capture-kelbajar"
+      ]
+    },
+    {
       "url": "https://digitallibrary.un.org/record/165604?ln=en",
       "wayback_url": "http://web.archive.org/web/20260320065834/https://digitallibrary.un.org/record/165604?ln=en",
       "archived_at": "2026-04-21T19:54:16.226461+00:00",
@@ -222,6 +231,15 @@
       "unverified": false,
       "milestones": [
         "key-west-peace-talks"
+      ]
+    },
+    {
+      "url": "https://en.aravot.am/2024/05/10/347105/",
+      "wayback_url": "https://web.archive.org/web/20260422054653/https://en.aravot.am/2024/05/10/347105/",
+      "archived_at": "2026-04-22T05:47:14.354189+00:00",
+      "unverified": false,
+      "milestones": [
+        "tavush-for-motherland-protests-2024"
       ]
     },
     {
@@ -399,12 +417,30 @@
       ]
     },
     {
+      "url": "https://lib.aliyev-heritage.org/en/2773818.html",
+      "wayback_url": "http://web.archive.org/web/20260309191556/https://lib.aliyev-heritage.org/en/2773818.html",
+      "archived_at": "2026-04-22T05:15:00.880203+00:00",
+      "unverified": false,
+      "milestones": [
+        "heydar-aliyev-death-ilham-succession"
+      ]
+    },
+    {
       "url": "https://lib.aliyev-heritage.org/en/5517958.html",
       "wayback_url": "https://web.archive.org/web/20250807162827/https://lib.aliyev-heritage.org/en/5517958.html",
       "archived_at": "2026-03-20T06:25:49.564525+00:00",
       "unverified": false,
       "milestones": [
         "us-lifts-section-907"
+      ]
+    },
+    {
+      "url": "https://lib.aliyev-heritage.org/en/5705438.html",
+      "wayback_url": "https://web.archive.org/web/20260422051115/https://lib.aliyev-heritage.org/en/5705438.html",
+      "archived_at": "2026-04-22T05:11:37.444652+00:00",
+      "unverified": false,
+      "milestones": [
+        "osce-lisbon-summit"
       ]
     },
     {
@@ -465,12 +501,57 @@
       ]
     },
     {
+      "url": "https://massispost.com/2024/11/armenia-declines-cop29-summit-in-baku-over-azerbaijans-failure-to-release-armenian-prisoners/",
+      "wayback_url": "https://web.archive.org/web/20260422055002/https://massispost.com/2024/11/armenia-declines-cop29-summit-in-baku-over-azerbaijans-failure-to-release-armenian-prisoners/",
+      "archived_at": "2026-04-22T05:50:57.369055+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop29-baku-2024"
+      ]
+    },
+    {
+      "url": "https://mfa.gov.az/en/news/no10525",
+      "wayback_url": "https://web.archive.org/web/20260422055230/https://mfa.gov.az/en/news/no10525",
+      "archived_at": "2026-04-22T05:53:01.861394+00:00",
+      "unverified": false,
+      "milestones": [
+        "peace-treaty-text-finalized-2025"
+      ]
+    },
+    {
+      "url": "https://mirrorspectator.com/2024/05/09/armenian-protest-leader-demands-pashinyans-resignation/",
+      "wayback_url": "https://web.archive.org/web/20260422054608/https://mirrorspectator.com/2024/05/09/armenian-protest-leader-demands-pashinyans-resignation/",
+      "archived_at": "2026-04-22T05:46:25.310293+00:00",
+      "unverified": false,
+      "milestones": [
+        "tavush-for-motherland-protests-2024"
+      ]
+    },
+    {
+      "url": "https://news.az/news/us-welcomes-joint-statement-of-azerbaijan-and-armenia-state-department-1",
+      "wayback_url": "https://web.archive.org/web/20260422053936/https://news.az/news/us-welcomes-joint-statement-of-azerbaijan-and-armenia-state-department-1",
+      "archived_at": "2026-04-22T05:39:54.008713+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop28-joint-statement-2023"
+      ]
+    },
+    {
       "url": "https://obamawhitehouse.archives.gov/the-press-office/2011/06/23/readout-president-obamas-call-armenian-president-serzh-sargsian-and-azer",
       "wayback_url": "https://web.archive.org/web/20260320063237/https://obamawhitehouse.archives.gov/the-press-office/2011/06/23/readout-president-obamas-call-armenian-president-serzh-sargsian-and-azer",
       "archived_at": "2026-03-20T06:32:54.376566+00:00",
       "unverified": false,
       "milestones": [
         "kazan-summit-turning-point"
+      ]
+    },
+    {
+      "url": "https://oc-media.org/armenia-passed-point-of-no-return-with-csto/",
+      "wayback_url": "https://web.archive.org/web/20260422054145/https://oc-media.org/armenia-passed-point-of-no-return-with-csto/",
+      "archived_at": "2026-04-22T05:42:07.603979+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-csto-withdrawal"
       ]
     },
     {
@@ -547,12 +628,39 @@
       ]
     },
     {
+      "url": "https://ria.ru/20241205/lavrov-1987544959.html",
+      "wayback_url": "https://web.archive.org/web/20260422054239/https://ria.ru/20241205/lavrov-1987544959.html",
+      "archived_at": "2026-04-22T05:43:08.684543+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-csto-withdrawal"
+      ]
+    },
+    {
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/",
+      "wayback_url": "http://web.archive.org/web/20260122131132/https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/",
+      "archived_at": "2026-04-22T05:55:11.464593+00:00",
+      "unverified": false,
+      "milestones": [
+        "washington-trilateral-summit-2025"
+      ]
+    },
+    {
       "url": "https://sputnikglobe.com/europe/201604101037789826-ministry-truce-karabakh/",
       "wayback_url": "https://web.archive.org/web/20260320070407/https://sputnikglobe.com/20160410/ministry-truce-karabakh-1037789826.html",
       "archived_at": "2026-03-20T07:04:36.359397+00:00",
       "unverified": false,
       "milestones": [
         "april-2016-four-day-war"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20201202185056/https://mod.gov.az/en/news/the-units-of-the-armed-forces-of-armenia-committed-a-provocation-in-the-tovuz-direction-of-the-front-31441.html",
+      "wayback_url": "https://web.archive.org/web/20260422052413/https://mod.gov.az/en/news/the-units-of-the-armed-forces-of-armenia-committed-a-provocation-in-the-tovuz-direction-of-the-front-31441.html",
+      "archived_at": "2026-04-22T05:24:49.391618+00:00",
+      "unverified": false,
+      "milestones": [
+        "tovuz-border-clashes"
       ]
     },
     {
@@ -563,6 +671,15 @@
       "milestones": [
         "44-day-war-begins",
         "trilateral-ceasefire-agreement"
+      ]
+    },
+    {
+      "url": "https://www.aa.com.tr/en/europe/european-council-welcomes-major-break-through-in-azerbaijan-armenia-relations/3076609",
+      "wayback_url": "https://web.archive.org/web/20260422053844/https://www.aa.com.tr/en/europe/european-council-welcomes-major-break-through-in-azerbaijan-armenia-relations/3076609",
+      "archived_at": "2026-04-22T05:39:09.170075+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop28-joint-statement-2023"
       ]
     },
     {
@@ -620,6 +737,24 @@
       ]
     },
     {
+      "url": "https://www.aljazeera.com/news/2024/11/12/cop29-host-azerbaijan-brands-oil-and-gas-gift-from",
+      "wayback_url": "https://web.archive.org/web/20260422054826/https://www.aljazeera.com/news/2024/11/12/cop29-host-azerbaijan-brands-oil-and-gas-gift-from",
+      "archived_at": "2026-04-22T05:48:39.864962+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop29-baku-2024"
+      ]
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2025/6/25/armenia-arrests-prominent-archbishop-over-alleged-coup-plot",
+      "wayback_url": "https://web.archive.org/web/20260422055324/https://www.aljazeera.com/news/2025/6/25/armenia-arrests-prominent-archbishop-over-alleged-coup-plot",
+      "archived_at": "2026-04-22T05:53:39.413050+00:00",
+      "unverified": false,
+      "milestones": [
+        "galstanyan-arrest-2025"
+      ]
+    },
+    {
       "url": "https://www.amnesty.org/en/latest/news/2023/02/azerbaijan-blockade-of-lachin-corridor/",
       "wayback_url": "https://web.archive.org/web/20260421204351/https://www.amnesty.org/en/latest/news/2023/02/azerbaijan-blockade-of-lachin-corridor-putting-thousands-of-lives-in-peril-must-be-immediately-lifted/",
       "archived_at": "2026-04-21T20:44:05.160903+00:00",
@@ -635,6 +770,15 @@
       "unverified": false,
       "milestones": [
         "un-experts-urge-blockade-lift"
+      ]
+    },
+    {
+      "url": "https://www.armenianchurch.org/en/news/en-announcement-2-06-2025/11843",
+      "wayback_url": "https://web.archive.org/web/20260422055412/https://www.armenianchurch.org/en/news/en-announcement-2-06-2025/11843",
+      "archived_at": "2026-04-22T05:54:29.041671+00:00",
+      "unverified": false,
+      "milestones": [
+        "galstanyan-arrest-2025"
       ]
     },
     {
@@ -656,12 +800,39 @@
       ]
     },
     {
+      "url": "https://www.azer.com/aiweb/categories/karabakh/karabakh_current/keywest_cavanaugh1.htm",
+      "wayback_url": "https://web.archive.org/web/20250516175804/https://www.azer.com/aiweb/categories/karabakh/karabakh_current/keywest_cavanaugh1.htm",
+      "archived_at": "2026-04-22T05:14:41.465186+00:00",
+      "unverified": false,
+      "milestones": [
+        "key-west-peace-talks"
+      ]
+    },
+    {
       "url": "https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html",
       "wayback_url": "https://web.archive.org/web/20260320055726/https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_blackjan.html",
       "archived_at": "2026-03-20T05:57:42.847075+00:00",
       "unverified": false,
       "milestones": [
         "black-january"
+      ]
+    },
+    {
+      "url": "https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_nk_short.html",
+      "wayback_url": "https://web.archive.org/web/20260422051340/https://www.azer.com/aiweb/categories/magazine/74_folder/74.articles/74_aliyev_nk_short.html",
+      "archived_at": "2026-04-22T05:13:55.922090+00:00",
+      "unverified": false,
+      "milestones": [
+        "aliyev-kocharian-direct-talks"
+      ]
+    },
+    {
+      "url": "https://www.azernews.az/nation/94820.html",
+      "wayback_url": "https://web.archive.org/web/20260422051837/https://www.azernews.az/nation/94820.html",
+      "archived_at": "2026-04-22T05:18:55.024928+00:00",
+      "unverified": false,
+      "milestones": [
+        "april-2016-four-day-war"
       ]
     },
     {
@@ -821,12 +992,39 @@
       ]
     },
     {
+      "url": "https://www.mfa.am/en/interviews-articles-and-comments/2025/03/13/mfa_statement/13114",
+      "wayback_url": "https://web.archive.org/web/20260422055127/https://www.mfa.am/en/interviews-articles-and-comments/2025/03/13/mfa_statement/13114",
+      "archived_at": "2026-04-22T05:51:58.746533+00:00",
+      "unverified": false,
+      "milestones": [
+        "peace-treaty-text-finalized-2025"
+      ]
+    },
+    {
+      "url": "https://www.mfa.am/en/press-releases/2024/04/19/8th_meeting/12606",
+      "wayback_url": "https://web.archive.org/web/20260422054339/https://www.mfa.am/en/press-releases/2024/04/19/8th_meeting/12606",
+      "archived_at": "2026-04-22T05:44:04.434395+00:00",
+      "unverified": false,
+      "milestones": [
+        "tavush-delimitation-2024"
+      ]
+    },
+    {
       "url": "https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
       "wayback_url": "http://web.archive.org/web/20260119210158/https://www.mfa.gov.tr/relations-between-turkiye-and-armenia.en.mfa",
       "archived_at": "2026-03-20T06:04:37.721782+00:00",
       "unverified": false,
       "milestones": [
         "capture-kelbajar"
+      ]
+    },
+    {
+      "url": "https://www.ohchr.org/en/press-releases/2023/08/un-experts-urge-azerbaijan-lift-lachin-corridor-blockade-and-end",
+      "wayback_url": "http://web.archive.org/web/20260320082715/https://www.ohchr.org/en/press-releases/2023/08/un-experts-urge-azerbaijan-lift-lachin-corridor-blockade-and-end",
+      "archived_at": "2026-04-22T05:33:56.474178+00:00",
+      "unverified": false,
+      "milestones": [
+        "un-experts-urge-blockade-lift"
       ]
     },
     {
@@ -904,6 +1102,15 @@
       ]
     },
     {
+      "url": "https://www.president.am/en/interviews-and-press-conferences/item/2011/05/16/news-69",
+      "wayback_url": "https://web.archive.org/web/20260422051530/https://www.president.am/en/interviews-and-press-conferences/item/2011/05/16/news-69",
+      "archived_at": "2026-04-22T05:15:50.347850+00:00",
+      "unverified": false,
+      "milestones": [
+        "kazan-summit-turning-point"
+      ]
+    },
+    {
       "url": "https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
       "wayback_url": "https://web.archive.org/web/20260320063824/https://www.president.am/en/press-release/item/2010/11/13/news-1304/",
       "archived_at": "2026-03-20T06:38:44.485421+00:00",
@@ -940,6 +1147,15 @@
       ]
     },
     {
+      "url": "https://www.primeminister.am/en/interviews-and-press-conferences/item/2024/02/23/Nikol-Pashinyan-Interview-France-24/",
+      "wayback_url": "https://web.archive.org/web/20260422054019/https://www.primeminister.am/en/interviews-and-press-conferences/item/2024/02/23/Nikol-Pashinyan-Interview-France-24/",
+      "archived_at": "2026-04-22T05:40:35.174192+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-csto-withdrawal"
+      ]
+    },
+    {
       "url": "https://www.primeminister.am/en/press-release/item/2018/09/26/Nikol-Pashinyan-speech/",
       "wayback_url": "https://web.archive.org/web/20260421200756/https://www.primeminister.am/en/press-release/item/2018/09/26/Nikol-Pashinyan-speech/",
       "archived_at": "2026-04-21T20:08:20.014578+00:00",
@@ -958,6 +1174,42 @@
       ]
     },
     {
+      "url": "https://www.primeminister.am/en/press-release/item/2023/12/07/Announcement/",
+      "wayback_url": "https://web.archive.org/web/20260314005255/https://www.primeminister.am/en/press-release/item/2023/12/07/Announcement/",
+      "archived_at": "2026-04-22T05:38:13.451064+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop28-joint-statement-2023"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/press-release/item/2024/05/16/Cabinet-meeting-Speech/",
+      "wayback_url": "https://web.archive.org/web/20260422054426/https://www.primeminister.am/en/press-release/item/2024/05/16/Cabinet-meeting-Speech/",
+      "archived_at": "2026-04-22T05:44:48.138289+00:00",
+      "unverified": false,
+      "milestones": [
+        "tavush-delimitation-2024"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-US-trilateral-meeting/",
+      "wayback_url": "https://web.archive.org/web/20260422055538/https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-US-trilateral-meeting/",
+      "archived_at": "2026-04-22T05:56:12.151269+00:00",
+      "unverified": false,
+      "milestones": [
+        "washington-trilateral-summit-2025"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/",
+      "wayback_url": "http://web.archive.org/web/20260302145249/https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/",
+      "archived_at": "2026-04-22T05:54:49.385294+00:00",
+      "unverified": false,
+      "milestones": [
+        "washington-trilateral-summit-2025"
+      ]
+    },
+    {
       "url": "https://www.primeminister.am/en/statements-and-messages/item/2020/09/27/Nikol-Pashinyan-Speech/",
       "wayback_url": "https://web.archive.org/web/20260320065140/https://www.primeminister.am/en/statements-and-messages/item/2020/09/27/Nikol-Pashinyan-Speech/",
       "archived_at": "2026-03-20T06:52:01.661696+00:00",
@@ -973,6 +1225,15 @@
       "unverified": false,
       "milestones": [
         "september-2022-attack-armenia"
+      ]
+    },
+    {
+      "url": "https://www.primeminister.am/en/statements-and-messages/item/2024/06/13/Nikol-Pashinyan-Speech/",
+      "wayback_url": "https://web.archive.org/web/20260422054102/https://www.primeminister.am/en/statements-and-messages/item/2024/06/13/Nikol-Pashinyan-Speech/",
+      "archived_at": "2026-04-22T05:41:23.698035+00:00",
+      "unverified": false,
+      "milestones": [
+        "armenia-csto-withdrawal"
       ]
     },
     {
@@ -1012,6 +1273,15 @@
       ]
     },
     {
+      "url": "https://www.thearmenianreport.com/post/pashinyan-leader-of-tavush-for-the-homeland-is-catholicos-of-all-armenians-and-beneficiary-is-rob",
+      "wayback_url": "https://web.archive.org/web/20260422054740/https://www.thearmenianreport.com/post/pashinyan-leader-of-tavush-for-the-homeland-is-catholicos-of-all-armenians-and-beneficiary-is-rob",
+      "archived_at": "2026-04-22T05:47:57.298291+00:00",
+      "unverified": false,
+      "milestones": [
+        "tavush-for-motherland-protests-2024"
+      ]
+    },
+    {
       "url": "https://www.themoscowtimes.com/2020/10/07/russias-security-guarantees-for-armenia-dont-extend-to-karabakh-putin-says-a71687",
       "wayback_url": "http://web.archive.org/web/20260315142539/https://www.themoscowtimes.com/2020/10/07/russias-security-guarantees-for-armenia-dont-extend-to-karabakh-putin-says-a71687",
       "archived_at": "2026-03-20T07:14:49.421023+00:00",
@@ -1036,6 +1306,15 @@
       "unverified": false,
       "milestones": [
         "failed-ceasefires"
+      ]
+    },
+    {
+      "url": "https://www.un.org/sg/en/content/sg/statement/2024-11-12/secretary-generals-remarks-world-leaders-climate-action-summit-cop29-delivered",
+      "wayback_url": "https://web.archive.org/web/20260422054906/https://www.un.org/sg/en/content/sg/statements/2024-11-12/secretary-generals-remarks-world-leaders-climate-action-summit-cop29-delivered",
+      "archived_at": "2026-04-22T05:49:22.929955+00:00",
+      "unverified": false,
+      "milestones": [
+        "cop29-baku-2024"
       ]
     },
     {
@@ -1164,6 +1443,20 @@
       ]
     },
     {
+      "url": "https://tass.com/world/1779393",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "tavush-delimitation-2024"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20200815015945/https://1905.az/en/speech-of-the-president-of-the-republic-of-azerbaijan-heydar-aliyev-at-the-meeting-of-the-heads-of-states-and-governments-of-the-osce-member-countries-in-budapest-december-6-1994/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "budapest-summit-minsk-restructured"
+      ]
+    },
+    {
       "url": "https://www.bbc.com/news/world-europe-66862552",
       "error": "HTTP Error 523: UNKNOWN",
       "milestones": [
@@ -1203,13 +1496,6 @@
       "error": "HTTP Error 520: UNKNOWN",
       "milestones": [
         "prague-quadrilateral-meeting"
-      ]
-    },
-    {
-      "url": "https://www.ohchr.org/en/press-releases/2023/08/un-experts-urge-azerbaijan-lift-lachin-corridor-blockade-and-end",
-      "error": "HTTP Error 520: UNKNOWN",
-      "milestones": [
-        "un-experts-urge-blockade-lift"
       ]
     },
     {
