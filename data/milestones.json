@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Armenia–Azerbaijan Conflict: A Timeline",
-    "subtitle": "Key events from 1988 to 2023",
+    "subtitle": "Key events from 1988 to 2025",
     "disclaimer": "This timeline presents documented events and direct quotes from official records, UN sessions, and press conferences. No interpretation is provided."
   },
   "milestones": [
@@ -2380,6 +2380,257 @@
         {
           "youtubeId": "4mCXZPUPE0M",
           "title": "Population Flees as Government Dissolves (euronews)"
+        }
+      ]
+    },
+    {
+      "id": "cop28-joint-statement-2023",
+      "name": "Armenia–Azerbaijan Joint Statement on Normalization (COP28)",
+      "type": "date",
+      "date": "2023-12-07",
+      "dateLabel": "December 7, 2023",
+      "summary": "On the sidelines of the COP28 climate summit in Dubai, the Office of the Prime Minister of Armenia and the Presidential Administration of Azerbaijan issued their first direct bilateral joint statement without a mediator's signature. Azerbaijan released 32 Armenian servicemen and Armenia released 2 Azerbaijani servicemen as goodwill gestures. Armenia withdrew its candidacy and publicly supported Azerbaijan's bid to host COP29 in Baku; Azerbaijan supported Armenia's bid for Eastern European Group COP Bureau membership. The step was welcomed by the United States, the European Union, Türkiye, and Russia.",
+      "quotes": [
+        {
+          "text": "The Republic of Armenia and the Republic of Azerbaijan share the view that there is a historical chance to achieve a long-awaited peace in the region. Two countries reconfirm their intention to normalize relations and to reach the peace treaty on the basis of respect for the principles of sovereignty and territorial integrity.",
+          "attribution": "Joint statement of the Office of the Prime Minister of Armenia and the Presidential Administration of Azerbaijan",
+          "context": "Opening of the joint statement issued simultaneously in Yerevan and Baku on December 7, 2023.",
+          "source": "https://www.primeminister.am/en/press-release/item/2023/12/07/Announcement/"
+        },
+        {
+          "text": "Driven by the values of humanism and as a gesture of goodwill, the Republic of Azerbaijan releases 32 Armenian military servicemen. In its turn, driven by the values of humanism and as a gesture of goodwill, the Republic of Armenia releases 2 Azerbaijani military servicemen. As a sign of good gesture, the Republic of Armenia supports the bid of the Republic of Azerbaijan to host the 29th Session of the Conference of Parties (COP29) to the UN Framework Convention on Climate Change, by withdrawing its own candidacy.",
+          "attribution": "Joint statement of the Office of the Prime Minister of Armenia and the Presidential Administration of Azerbaijan",
+          "context": "Body of the joint statement describing the specific confidence-building measures, December 7, 2023.",
+          "source": "https://www.primeminister.am/en/press-release/item/2023/12/07/Announcement/"
+        },
+        {
+          "text": "Delighted to welcome a major break-through in Armenia-Azerbaijan relations as they issue a joint statement. Welcome in particular release of detainees and unprecedented opening in political dialogue.",
+          "attribution": "Charles Michel, President of the European Council",
+          "context": "Post on X reacting to the joint statement, December 7, 2023.",
+          "source": "https://www.aa.com.tr/en/europe/european-council-welcomes-major-break-through-in-azerbaijan-armenia-relations/3076609"
+        },
+        {
+          "text": "This commitment represents an important confidence building measure as the sides work to finalize a peace agreement and normalize relations. We commend Azerbaijani President Ilham Aliyev and Armenian Prime Minister Pashinyan for their joint efforts to lay the groundwork for a more peaceful and prosperous future for the people of the South Caucasus. The United States will continue to strongly support efforts to reach a durable and dignified peace.",
+          "attribution": "Matthew Miller, Spokesperson, U.S. Department of State",
+          "context": "Official U.S. State Department press statement welcoming the joint statement, December 7, 2023.",
+          "source": "https://news.az/news/us-welcomes-joint-statement-of-azerbaijan-and-armenia-state-department-1"
+        }
+      ]
+    },
+    {
+      "id": "armenia-csto-withdrawal",
+      "name": "Armenia's withdrawal trajectory from the CSTO",
+      "type": "interval",
+      "dateStart": "2024-02-23",
+      "dateEnd": "2024-12-05",
+      "dateLabel": "23 February – 5 December 2024",
+      "summary": "Through 2024, Armenian Prime Minister Nikol Pashinyan moved Armenia from full participation in the Russia-led Collective Security Treaty Organization (CSTO) toward a declared break. On 23 February he told France 24 that Armenia had 'essentially frozen' its participation, citing the bloc's failure to respond to attacks on Armenia in 2021 and 2022. In a 13 June parliamentary speech he said the next logical step would be leaving the organization. On 4 December, after Vladimir Putin reiterated that the CSTO had no basis to intervene over Nagorno-Karabakh, Pashinyan told the National Assembly that Armenia already considered itself outside the CSTO and had 'crossed the point of no return'. The following day in Valletta, Russian Foreign Minister Sergey Lavrov said no withdrawal document had been received and that no CSTO member was closing the door on Yerevan.",
+      "quotes": [
+        {
+          "text": "The Collective Security Treaty Organization, in our estimation, has failed to fulfill its obligations in the field of security towards the Republic of Armenia, in particular, in 2021 and 2022, and this could not go unnoticed by us and without consequences. And the consequence in practice is that we have essentially frozen our participation in the Collective Security Treaty Organization.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Interview with France 24 (Marc Perelman), broadcast 23 February 2024; transcript published on primeminister.am.",
+          "source": "https://www.primeminister.am/en/interviews-and-press-conferences/item/2024/02/23/Nikol-Pashinyan-Interview-France-24/"
+        },
+        {
+          "text": "And the next logical step, I say again, will be leaving the organization. I want to remind you that in 2021-2026 Action Plan we did not to say that we will remain a CSTO member, we have not said such a thing. We have said that we have questions, and will pursue their answers. We will decide when it will take place, maybe in a month, maybe in a year, maybe three years.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Concluding speech in the National Assembly during debate on the 2023 state budget execution report, 12–13 June 2024, responding to opposition questions about CSTO membership.",
+          "source": "https://www.primeminister.am/en/statements-and-messages/item/2024/06/13/Nikol-Pashinyan-Speech/"
+        },
+        {
+          "text": "The discrepancy between these events and their now public mutual expression makes the return of the Republic of Armenia to the CSTO increasingly difficult, if not impossible. I believe we have crossed the point of no return.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Answer in the National Assembly on 4 December 2024 to a question about Vladimir Putin's remarks on CSTO non-intervention in Nagorno-Karabakh.",
+          "source": "https://oc-media.org/armenia-passed-point-of-no-return-with-csto/"
+        },
+        {
+          "text": "No such document has been received. We have heard these discussions, and the prime minister of Armenia has spoken and debated this topic extensively in parliament. We are not imposing anything on anyone. We are convinced that it is in Armenia's security interests to fully utilize its membership. If the decision he speaks of as a foregone conclusion is made, it will be the sovereign right of the current Armenian leadership. Russia and other CSTO members have not taken, and are not going to take, any actions that would be perceived as closing the door to Yerevan.",
+          "attribution": "Sergey Lavrov, Russian Minister of Foreign Affairs",
+          "context": "Remarks to journalists in Valletta, Malta, on 5 December 2024 after the OSCE Ministerial Council, responding to Pashinyan's 'point of no return' statement.",
+          "source": "https://ria.ru/20241205/lavrov-1987544959.html"
+        }
+      ]
+    },
+    {
+      "id": "tavush-delimitation-2024",
+      "name": "Armenia–Azerbaijan Tavush Border Delimitation",
+      "type": "date",
+      "date": "2024-04-19",
+      "dateLabel": "April 19, 2024",
+      "summary": "At the 8th meeting of the State Commissions on the delimitation of the Armenia–Azerbaijan state border, chaired by Deputy Prime Ministers Mher Grigoryan and Shahin Mustafayev, the sides preliminarily agreed on sections of the borderline between four pairs of settlements in the Tavush/Qazakh area, bringing the line into compliance with the late-Soviet interrepublican border. As a result, Armenia ceded control of four non-enclave villages — Baghanis Ayrum, Ashaghi Askipara, Kheyrimli, and Gizilhajili — to Azerbaijan. The commissions agreed that the delimitation process would be based on the 1991 Alma-Ata Declaration.",
+      "quotes": [
+        {
+          "text": "The Parties preliminary agreed upon separate sections of the borderline between Baghanis (Republic of Armenia) and Baghanis Ayrum (Republic of Azerbaijan), Voskepar (Republic of Armenia) and Ashaghi Askipara (Republic of Azerbaijan), Kirants (Republic of Armenia) and Kheyrimli (Republic of Azerbaijan), Berkaber (Republic of Armenia) and Gizilhajili (Republic of Azerbaijan) in order to bring them into compliance with the legally justified interrepublican border that existed within the Soviet Union at the moment of its dissolution.",
+          "attribution": "Joint press release of the State Commissions of Armenia and Azerbaijan",
+          "context": "Outcome of the 8th meeting of the border delimitation commissions, chaired by Deputy PMs Mher Grigoryan and Shahin Mustafayev, held at the border on April 19, 2024",
+          "source": "https://www.mfa.am/en/press-releases/2024/04/19/8th_meeting/12606"
+        },
+        {
+          "text": "An important cornerstone has been laid for the further development and strengthening of our sovereignty and independence.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Cabinet meeting remarks on the border demarcation process, May 16, 2024",
+          "source": "https://www.primeminister.am/en/press-release/item/2024/05/16/Cabinet-meeting-Speech/"
+        },
+        {
+          "text": "Now we have a common understanding of what a peace agreement should look like. We only need to work out the details. Of course, both sides need time.",
+          "attribution": "Ilham Aliyev, President of Azerbaijan",
+          "context": "Speech and Q&A at the international forum \"COP29 and Green Vision for Azerbaijan\" at ADA University, Baku, April 23, 2024, four days after the delimitation agreement",
+          "source": "https://tass.com/world/1779393"
+        }
+      ]
+    },
+    {
+      "id": "tavush-for-motherland-protests-2024",
+      "name": "\"Tavush for the Motherland\" Protest Movement",
+      "type": "interval",
+      "dateStart": "2024-05-04",
+      "dateEnd": "2024-06-12",
+      "dateLabel": "May–June 2024",
+      "summary": "Beginning May 4, 2024, a protest march led by Archbishop Bagrat Galstanyan, Primate of the Tavush Diocese of the Armenian Apostolic Church, moved from Tavush to Yerevan, converging on Republic Square to demand the resignation of Prime Minister Nikol Pashinyan over the April 19 border delimitation agreement. The movement, called \"Tavush for the Motherland,\" held mass rallies through May and June 2024 and called for a parliamentary vote of no confidence and civil disobedience. Pashinyan rejected the demands and publicly criticised what he called the political role of the Catholicos of All Armenians; parliament did not remove him from office.",
+      "quotes": [
+        {
+          "text": "We have come here to demand answers from the head of Armenia's government who repeatedly visited our communities and lied, misled, and then bullied and threatened people.",
+          "attribution": "Archbishop Bagrat Galstanyan, Primate of the Diocese of Tavush, Armenian Apostolic Church",
+          "context": "Address to protesters at Republic Square, Yerevan, May 9, 2024, at the rally that closed the march from Tavush to Yerevan",
+          "source": "https://mirrorspectator.com/2024/05/09/armenian-protest-leader-demands-pashinyans-resignation/"
+        },
+        {
+          "text": "This government has completely failed in the country's governance and broken up its entire security system.",
+          "attribution": "Archbishop Bagrat Galstanyan, Primate of the Diocese of Tavush, Armenian Apostolic Church",
+          "context": "Speech to protesters at Republic Square, Yerevan, May 9, 2024, announcing a parliamentary no-confidence initiative and civil disobedience",
+          "source": "https://en.aravot.am/2024/05/10/347105/"
+        },
+        {
+          "text": "The government should not interfere in the affairs of the church. The Armenian Apostolic Church has its own rules of activity, its own regulations. But in general it is obvious that today the Catholicos of All Armenians is leading a political movement in Armenia. It is very obvious. And why should the Catholicos lead a political movement?",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Remarks on May 29, 2024, responding to questions about the Tavush for the Motherland movement and the Armenian Apostolic Church",
+          "source": "https://www.thearmenianreport.com/post/pashinyan-leader-of-tavush-for-the-homeland-is-catholicos-of-all-armenians-and-beneficiary-is-rob"
+        }
+      ]
+    },
+    {
+      "id": "cop29-baku-2024",
+      "name": "COP29 Climate Conference in Baku",
+      "type": "interval",
+      "dateStart": "2024-11-11",
+      "dateEnd": "2024-11-22",
+      "dateLabel": "11–22 November 2024",
+      "summary": "Azerbaijan hosted the 29th UN Climate Change Conference (COP29) in Baku — a role made possible by Armenia's withdrawal of its candidacy under the December 7, 2023 joint statement. At the World Leaders Climate Action Summit on November 12, President Ilham Aliyev used the opening ceremony to defend fossil fuels as a \"gift from God\" and to voice grievances about Armenia. Armenia did not send an official government delegation, citing Azerbaijan's continued detention of Armenian prisoners. UN Secretary-General António Guterres opened the session with a warning that \"the clock is ticking\" on the 1.5 °C goal.",
+      "quotes": [
+        {
+          "text": "Quote me that I said that this is a gift of God, and I want to repeat it today here at this audience.",
+          "attribution": "Ilham Aliyev, President of Azerbaijan",
+          "context": "Opening speech at the World Leaders Climate Action Summit of COP29, Baku, November 12, 2024, defending Azerbaijan's oil and gas sector.",
+          "source": "https://www.aljazeera.com/news/2024/11/12/cop29-host-azerbaijan-brands-oil-and-gas-gift-from"
+        },
+        {
+          "text": "Fake news media of the country which is (the) number one oil and gas producer in the world and produces 30 times more oil than Azerbaijan, call us 'petrostate'. They better look at themselves.",
+          "attribution": "Ilham Aliyev, President of Azerbaijan",
+          "context": "Opening speech at the World Leaders Climate Action Summit of COP29, Baku, November 12, 2024, responding to Western criticism of Azerbaijan's COP29 presidency.",
+          "source": "https://www.aljazeera.com/news/2024/11/12/cop29-host-azerbaijan-brands-oil-and-gas-gift-from"
+        },
+        {
+          "text": "The sound you hear is the ticking clock. We are in the final countdown to limit global temperature rise to 1.5 degrees Celsius. And time is not on our side.",
+          "attribution": "António Guterres, UN Secretary-General",
+          "context": "Opening remarks at the World Leaders Climate Action Summit of COP29, Baku, November 12, 2024.",
+          "source": "https://www.un.org/sg/en/content/sg/statement/2024-11-12/secretary-generals-remarks-world-leaders-climate-action-summit-cop29-delivered"
+        },
+        {
+          "text": "Regarding the event held in Baku, something significant needed to happen for Armenia to participate. Given that Armenian prisoners are still being held in Baku, it is logical that Armenia and Azerbaijan should have reached a resolution on this issue. In my personal view, without that, it was very difficult to imagine Armenia's participation in the event.",
+          "attribution": "Sargis Khandanyan, Chair of the Armenian Parliament's Standing Committee on Foreign Relations",
+          "context": "Explanation of Armenia's decision not to send a delegation to COP29, November 2024.",
+          "source": "https://massispost.com/2024/11/armenia-declines-cop29-summit-in-baku-over-azerbaijans-failure-to-release-armenian-prisoners/"
+        }
+      ]
+    },
+    {
+      "id": "peace-treaty-text-finalized-2025",
+      "name": "Armenia and Azerbaijan announce agreed text of peace treaty",
+      "type": "date",
+      "date": "2025-03-13",
+      "dateLabel": "March 13, 2025",
+      "summary": "On March 13, 2025 the foreign ministries of Armenia and Azerbaijan each issued statements announcing that negotiations on the text of the 17-article 'Agreement on Peace and Establishment of Interstate Relations' had been concluded. Armenia said the agreement was ready for signing. Azerbaijan reiterated preconditions for signature, including amendment of Armenia's constitution and formal abolition of the OSCE Minsk Group. The treaty text remained initialed but not signed, pending those conditions.",
+      "quotes": [
+        {
+          "text": "The Ministry of Foreign Affairs of the Republic of Armenia confirms the fact that the draft \"Agreement on Peace and Establishment of Interstate Relations between the Republic of Armenia and the Republic of Azerbaijan\" has been agreed upon and the negotiations have been concluded accordingly. Thus, the Peace Agreement is ready for signing.",
+          "attribution": "Ministry of Foreign Affairs of the Republic of Armenia",
+          "context": "Official MFA statement, March 13, 2025, announcing that Armenia had accepted Azerbaijan's proposals on the two remaining unresolved articles and that the text was finalized.",
+          "source": "https://www.mfa.am/en/interviews-articles-and-comments/2025/03/13/mfa_statement/13114"
+        },
+        {
+          "text": "We note with satisfaction that the negotiations on the text of the draft Agreement on Peace and the Establishment of Interstate Relations between Azerbaijan and Armenia have been concluded.",
+          "attribution": "Ministry of Foreign Affairs of the Republic of Azerbaijan",
+          "context": "Azerbaijan's MFA statement issued the same day, March 13, 2025, confirming conclusion of negotiations while reiterating that signature required amendment of Armenia's constitution and formal abolition of the OSCE Minsk Group.",
+          "source": "https://mfa.gov.az/en/news/no10525"
+        },
+        {
+          "text": "Official Baku preferred to make a unilateral statement.",
+          "attribution": "Ministry of Foreign Affairs of the Republic of Armenia",
+          "context": "From the same March 13, 2025 MFA statement, noting that Armenia had proposed a joint announcement but Azerbaijan opted for a unilateral one.",
+          "source": "https://www.mfa.am/en/interviews-articles-and-comments/2025/03/13/mfa_statement/13114"
+        }
+      ]
+    },
+    {
+      "id": "galstanyan-arrest-2025",
+      "name": "Arrest of Archbishop Bagrat Galstanyan",
+      "type": "date",
+      "date": "2025-06-25",
+      "dateLabel": "June 25, 2025",
+      "summary": "On June 25, 2025, Armenia's Investigative Committee and National Security Service detained Archbishop Bagrat Galstanyan, leader of the \"Sacred Struggle\" opposition movement, together with about 15 associates. The charges included conspiracy to seize power and preparation of acts of terrorism; prosecutors alleged the group had acquired weapons and explosives to stage road blockades and sabotage. Galstanyan and his lawyers rejected the allegations. The Armenian Apostolic Church's Supreme Spiritual Council, chaired by Catholicos Karekin II, had issued a statement earlier in June condemning what it called an \"anti-Church campaign\" by the government, and the arrests further deepened the church–state confrontation.",
+      "quotes": [
+        {
+          "text": "Law enforcement officers prevented a large and sinister plan by the \"criminal-oligarchic clergy\" to destabilize the Republic of Armenia and seize power.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Facebook post by the Prime Minister on June 25, 2025, the day of the arrests",
+          "source": "https://www.aljazeera.com/news/2025/6/25/armenia-arrests-prominent-archbishop-over-alleged-coup-plot"
+        },
+        {
+          "text": "Evil, listen carefully — whatever you do, you have very little time left. Hold on, we are coming.",
+          "attribution": "Archbishop Bagrat Galstanyan, leader of the \"Sacred Struggle\" movement, Primate of the Diocese of Tavush",
+          "context": "Spoken as he was led from his residence by masked security officers during his arrest on June 25, 2025",
+          "source": "https://www.aljazeera.com/news/2025/6/25/armenia-arrests-prominent-archbishop-over-alleged-coup-plot"
+        },
+        {
+          "text": "Matters of the Church are governed by ecclesiastical canons and regulations and lie beyond the jurisdiction of state and political authorities.",
+          "attribution": "Supreme Spiritual Council of the Armenian Apostolic Holy Church, chaired by Catholicos of All Armenians Karekin II",
+          "context": "Statement issued after the Supreme Spiritual Council meeting at the Mother See of Holy Etchmiadzin, early June 2025, as the confrontation between the Prime Minister and the Church escalated ahead of the June 25 arrests",
+          "source": "https://www.armenianchurch.org/en/news/en-announcement-2-06-2025/11843"
+        }
+      ]
+    },
+    {
+      "id": "washington-trilateral-summit-2025",
+      "name": "Washington trilateral summit: Joint Declaration and TRIPP corridor announced",
+      "type": "date",
+      "date": "2025-08-08",
+      "dateLabel": "August 8, 2025",
+      "summary": "At the White House on August 8, 2025, US President Donald Trump hosted Azerbaijani President Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan for a trilateral meeting. The foreign ministers initialed the agreed text of the 'Agreement on Establishment of Peace and Inter-State Relations' and signed a joint appeal to the OSCE to close the Minsk Process. The three leaders signed a Joint Declaration that set out a framework for the 'Trump Route for International Peace and Prosperity' (TRIPP) — a transit and connectivity project through Armenian territory linking mainland Azerbaijan with its Nakhchivan exclave. The peace treaty itself was initialed but not signed or ratified.",
+      "quotes": [
+        {
+          "text": "The Republic of Armenia will work with the United States of America and mutually determined third parties, to set forth a framework for the \"Trump Route for International Peace and Prosperity\" (TRIPP) connectivity project in the territory of the Republic of Armenia. We confirm our determination to pursue efforts in good faith to achieve this goal in the most expeditious manner.",
+          "attribution": "Joint Declaration by the Presidents of Azerbaijan and the United States and the Prime Minister of Armenia",
+          "context": "Text of the trilateral Joint Declaration signed in Washington, D.C. on August 8, 2025, as published by the Prime Minister of Armenia.",
+          "source": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/"
+        },
+        {
+          "text": "This declaration establishes what they are calling, a great honor for me, the Trump Route for International Peace and Prosperity, which is a special transit area that will allow Azerbaijan to get full access to its territory of Nakhichevan, while fully respecting Armenia's sovereignty.",
+          "attribution": "Donald Trump, President of the United States",
+          "context": "Remarks during the trilateral signing ceremony at the White House, August 8, 2025.",
+          "source": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/"
+        },
+        {
+          "text": "Today, we have reached a significant milestone in Armenia-Azerbaijan relations. The initiating of the peace treaty will pave the way to end the decades of conflict between our countries and open a new era based on the full respect for the sovereignty and territorial integrity of each other.",
+          "attribution": "Nikol Pashinyan, Prime Minister of Armenia",
+          "context": "Statement at the trilateral meeting with Trump and Aliyev in Washington, August 8, 2025, as published by the Prime Minister of Armenia.",
+          "source": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-US-trilateral-meeting/"
+        },
+        {
+          "text": "We are today establishing peace in the Caucasus, which will open great opportunities not only for our region.",
+          "attribution": "Ilham Aliyev, President of Azerbaijan",
+          "context": "Remarks during the trilateral signing ceremony at the White House, August 8, 2025, following the initialing of the peace agreement and signing of the Joint Declaration.",
+          "source": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/"
         }
       ]
     }
