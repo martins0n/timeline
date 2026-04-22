@@ -1,3 +1,5 @@
 task.md
 *.py
 .DS_Store
+.wrangler
+__pycache__/
