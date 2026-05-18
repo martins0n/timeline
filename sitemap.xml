@@ -43,4 +43,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html"/>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <priority>0.8</priority>
+  </url>
 </urlset>
