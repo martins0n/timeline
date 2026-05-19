@@ -2,7 +2,33 @@
   "meta": {
     "title": "Armenia–Azerbaijan Conflict: A Timeline",
     "subtitle": "Key events from 1988 to 2025",
-    "disclaimer": "This timeline presents documented events and direct quotes from official records, UN sessions, and press conferences. No interpretation is provided."
+    "disclaimer": "This timeline presents documented events and direct quotes from official records, UN sessions, and press conferences. No interpretation is provided.",
+    "eras": [
+      {
+        "after": 0,
+        "label": "Pre-War"
+      },
+      {
+        "after": 11,
+        "label": "First War"
+      },
+      {
+        "after": 23,
+        "label": "Frozen Conflict"
+      },
+      {
+        "after": 50,
+        "label": "Post-April War"
+      },
+      {
+        "after": 55,
+        "label": "44-Day War"
+      },
+      {
+        "after": 62,
+        "label": "Post-War"
+      }
+    ]
   },
   "milestones": [
     {
