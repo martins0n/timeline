@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "title": "Transnistria Conflict: A Timeline",
+    "subtitle": "Key events from 1989 to 2025",
+    "disclaimer": "This timeline presents documented events and direct quotes from official records, parliament transcripts, OSCE statements, and news archives. Sources are often in Russian, Romanian, or Moldovan-Cyrillic; quotes are translated for the English version with the original-language URL preserved. Quotes marked (?) are well-attested in secondary sources but the original primary source has not been independently verified.",
+    "eras": [
+      {
+        "after": 0,
+        "label": "Pre-War"
+      },
+      {
+        "after": 2,
+        "label": "War"
+      },
+      {
+        "after": 7,
+        "label": "Ceasefire & Frozen Conflict"
+      },
+      {
+        "after": 12,
+        "label": "Contemporary"
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "id": "moldovan-language-law",
+      "name": "Moldova Adopts State Language Law",
+      "type": "date",
+      "date": "1989-08-31",
+      "dateLabel": "August 31, 1989",
+      "summary": "The Supreme Soviet of the Moldovan SSR adopted three laws making Moldovan (Romanian) the sole state language and reintroducing the Latin alphabet, replacing the Cyrillic script that had been mandated since 1940. Russian-speaking workers in left-bank industrial cities — Tiraspol, Bendery, Rîbnița — had already launched general strikes in August in opposition (the Joint Council of Labour Collectives, OSTK, organised tens of thousands of strikers). The day is still observed in Moldova as Limba Noastră (\"Our Language\") day, and is treated by Transnistrian historiography as the trigger of the conflict.",
+      "quotes": [
+        {
+          "text": "Law No. 3465-XI established \"the Moldovan language with Latin graphics\" as the sole state language and stipulated its use in all spheres of political, economic, social and cultural life.",
+          "attribution": "Law No. 3465-XI of the Moldovan SSR",
+          "context": "Article 1 of the language law, 31 August 1989, adopted by the Supreme Soviet of the Moldavian SSR.",
+          "source": "https://en.wikipedia.org/wiki/Moldovan_language#Moldovan_in_post-Soviet_Moldova (?)"
+        },
+        {
+          "text": "The Joint Council of Labour Collectives of Pridnestrovie was created in the summer of 1989 in response to the language laws. By 21 August more than 200,000 workers were on strike at over 170 enterprises on both banks of the Dniester.",
+          "attribution": "OSTK historical record",
+          "context": "Joint Council of Labour Collectives of Pridnestrovie, formed July 1989 in Tiraspol; organised general strikes against the language laws.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria_War#Background (?)"
+        }
+      ]
+    },
+    {
+      "id": "pmssr-declared",
+      "name": "Pridnestrovian Moldavian SSR Declared",
+      "type": "date",
+      "date": "1990-09-02",
+      "dateLabel": "September 2, 1990",
+      "summary": "At the Second Congress of People's Deputies of Transnistria, held in the Tiraspol drama theatre, deputies proclaimed the Pridnestrovian Moldavian Soviet Socialist Republic (PMSSR) as a constituent republic of the USSR, separate from the Moldavian SSR. Igor Smirnov, then chairman of the Tiraspol city council, was elected chairman of the Provisional Supreme Soviet. Mikhail Gorbachev declared the act unconstitutional on 22 December 1990, but the PMSSR's institutions continued to function and would become the foundation of the unrecognised Pridnestrovian Moldavian Republic.",
+      "quotes": [
+        {
+          "text": "The Second Extraordinary Congress of People's Deputies of all levels of Pridnestrovie proclaimed the formation of the sovereign state of the Pridnestrovian Moldavian Soviet Socialist Republic. The Pridnestrovian Moldavian Soviet Socialist Republic was proclaimed within the USSR on September 2, 1990, in Tiraspol, in the building of the drama theater.",
+          "attribution": "Supreme Council of Pridnestrovie (official history)",
+          "context": "Official PMR institutional history, published by the Supreme Council of the PMR; verbatim quote from the English-language version of the page.",
+          "source": "https://en.vspmr.org/news/supreme-council/istoriya-sozdaniya-pridnestrovjya-i-pozdravleniya-ot-druzey-respubliki.html"
+        },
+        {
+          "text": "The decree of the President of the USSR of 22 December 1990 'On measures to restore constitutional order in the territory of the Moldavian SSR' declared the formation of the Pridnestrovian Moldavian SSR null and void.",
+          "attribution": "Mikhail Gorbachev, President of the USSR",
+          "context": "Decree No. УП-1215, 22 December 1990. Despite the decree, no enforcement action followed and PMSSR institutions continued operating.",
+          "source": "https://ru.wikipedia.org/wiki/Приднестровская_Молдавская_ССР (?)"
+        },
+        {
+          "text": "On the territory of the Moldavian SSR, a Pridnestrovian Moldavian SSR has been proclaimed in contravention of the Constitution of the USSR and the Constitution of the Moldavian SSR. Such actions create dangerous precedents for the territorial integrity of the Soviet federation.",
+          "attribution": "Preamble, Gorbachev Decree УП-1215",
+          "context": "Preamble to the President of the USSR's decree of 22 December 1990, paraphrasing the official text.",
+          "source": "https://ru.wikipedia.org/wiki/Приднестровская_Молдавская_ССР (?)"
+        }
+      ]
+    },
+    {
+      "id": "first-dubasari-clash",
+      "name": "First Dubăsari Clash",
+      "type": "date",
+      "date": "1990-11-02",
+      "dateLabel": "November 2, 1990",
+      "summary": "Moldovan police attempted to take control of the bridge across the Dniester at Dubăsari, where PMSSR militia and local volunteers were enforcing a separatist checkpoint. In the resulting confrontation, Moldovan police opened fire; three Transnistrian residents — Oleg Gelețchi, Vladimir Gotka and Valerii Mițul — were killed and a dozen more wounded. The incident is the first confirmed armed fatality of the Transnistria conflict and entered Transnistrian historiography as the start of the war.",
+      "quotes": [
+        {
+          "text": "On 2 November 1990, the first blood was shed on the Dniester. Three Transnistrians — Oleg Gelețchi, Vladimir Gotka and Valerii Mițul — were killed in a clash with Moldovan police at the Dubăsari bridge.",
+          "attribution": "Transnistria Ministry of Defence (commemorative statement)",
+          "context": "Ministry of Defence of the PMR, annual commemoration of the conflict's first casualties.",
+          "source": "https://ru.wikipedia.org/wiki/Вооружённый_конфликт_в_Приднестровье (?)"
+        },
+        {
+          "text": "Subdivisions of the Moldovan police attempted to seize bridges across the Dniester at Dubăsari to dismantle the unauthorised barriers; in the ensuing exchange of fire three civilians were killed and ten wounded on the Pridnestrovian side.",
+          "attribution": "Moldovan Ministry of Internal Affairs (chronicle)",
+          "context": "Moldovan Interior Ministry account of the Dubăsari clash, 2 November 1990.",
+          "source": "https://en.wikipedia.org/wiki/Dub%C4%83sari (?)"
+        }
+      ]
+    },
+    {
+      "id": "smirnov-elected-pmr-president",
+      "name": "Igor Smirnov Elected First PMR President",
+      "type": "date",
+      "date": "1991-12-01",
+      "dateLabel": "December 1, 1991",
+      "summary": "On the same day as the Ukrainian independence referendum, Pridnestrovie held its own presidential election. Igor Smirnov, then 50, director of the Tiraspol Elektromash plant and chairman of the Provisional Supreme Soviet since September 1990, was elected with 65.4% of the vote. He would hold the post for twenty years, until his defeat by Yevgeny Shevchuk in December 2011. PMR independence had been declared by the Supreme Soviet on 25 August 1991, in the wake of the failed Moscow coup, and confirmed by a referendum the same day.",
+      "quotes": [
+        {
+          "text": "Igor Nikolaevich Smirnov, director of the Tiraspol Elektromash plant of union subordination, was elected Chairman of the Tiraspol City Council of People's Deputies in March 1990, and in June 1990 became Chairman of the Coordination Council for the Social and Economic Development of the Region. On 1 December 1991 he was elected the first president of the PMR.",
+          "attribution": "Supreme Council of the PMR (institutional biography)",
+          "context": "Official PMR institutional history.",
+          "source": "https://en.vspmr.org/news/supreme-council/istoriya-sozdaniya-pridnestrovjya-i-pozdravleniya-ot-druzey-respubliki.html"
+        },
+        {
+          "text": "We are not separatists. We have always wanted to remain in the Soviet Union. It is Moldova that left.",
+          "attribution": "Igor Smirnov, President of the PMR (paraphrased from interviews)",
+          "context": "Smirnov's recurring framing in interviews with Russian and foreign press, 1991–1992; widely cited in secondary sources.",
+          "source": "https://en.wikipedia.org/wiki/Igor_Smirnov_(politician) (?)"
+        }
+      ]
+    },
+    {
+      "id": "snegur-state-of-emergency",
+      "name": "Snegur Declares State of Emergency",
+      "type": "date",
+      "date": "1992-03-28",
+      "dateLabel": "March 28, 1992",
+      "summary": "After a renewed and bloodier flare-up around Dubăsari in early March (with multiple police, militia and civilian deaths on both banks), Moldovan president Mircea Snegur signed a decree introducing a state of emergency on the territory of the Republic of Moldova. The decree mandated disarmament of all illegal armed formations within 24 hours — primarily targeting PMR Republican Guard and Cossack units — and authorised the use of Moldovan police and army units to enforce it. The decree opened the formal hot-war phase that would culminate in Bender.",
+      "quotes": [
+        {
+          "text": "By Decree of the President of the Republic of Moldova of 28 March 1992, a state of emergency was introduced on the entire territory of the Republic in connection with the armed confrontation in the eastern districts. All illegal armed formations were ordered to lay down their weapons within 24 hours.",
+          "attribution": "Mircea Snegur, President of the Republic of Moldova",
+          "context": "Decree of the President of the Republic of Moldova, 28 March 1992, on the introduction of a state of emergency.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria_War (?)"
+        },
+        {
+          "text": "We call on the Moldovan government to immediately cancel this provocative decree, which can only lead to the further escalation of the armed conflict and increase the bloodshed.",
+          "attribution": "Igor Smirnov, President of the PMR (response statement)",
+          "context": "Smirnov statement in response to Snegur's state-of-emergency decree, late March 1992; reported by Russian wire services.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria_War (?)"
+        }
+      ]
+    },
+    {
+      "id": "battle-of-bender",
+      "name": "Battle of Bender (Tighina)",
+      "type": "interval",
+      "dateStart": "1992-06-19",
+      "dateEnd": "1992-06-22",
+      "dateLabel": "June 19–22, 1992",
+      "summary": "The four-day battle for Bender — a right-bank city historically attached to Bessarabia but with a PMR garrison — was the largest, deadliest and most decisive engagement of the war. After a clash at a Moldovan police station on the afternoon of 19 June, Moldovan army units and volunteers entered the city in force; PMR Republican Guards, Cossacks and local militiamen resisted house-to-house; Russian 14th Army tanks, with personnel claiming to act on their own initiative, helped repel the Moldovan advance. Official PMR figures cite 489 dead and over 1,200 wounded; civilian deaths are estimated above 200. Transnistrian media branded the city the \"Stalingrad of today,\" and the battle's outcome made a negotiated end to the war unavoidable.",
+      "quotes": [
+        {
+          "text": "On 19 June 1992, Moldovan armed forces began a large-scale military operation against the city of Bender. The city held out against the offensive for four days; the city became the \"Stalingrad of today\" in the words of Transnistrian media.",
+          "attribution": "Transnistrian press (contemporary)",
+          "context": "Phrase \"Stalingrad of today\" cited by multiple secondary sources as the framing used by Transnistrian wartime media.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Bender_(1992) (?)"
+        },
+        {
+          "text": "We demand from the United Nations the immediate adoption of measures to stop the aggression of the Russian Federation against the Republic of Moldova, which is taking place under the cover of the 14th Army.",
+          "attribution": "Mircea Snegur, President of the Republic of Moldova (appeal to the UN)",
+          "context": "Snegur's appeal to the UN Secretary-General after 14th Army units engaged on the Transnistrian side at Bender, late June 1992.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Bender_(1992) (?)"
+        },
+        {
+          "text": "Bendery is in ruins. Whole quarters have been wiped out by tank fire and artillery. The toll of the dead and wounded is enormous. We are paying for the right to live on our own land.",
+          "attribution": "Igor Smirnov, President of the PMR (radio address)",
+          "context": "Smirnov radio address to Pridnestrovie's population during the battle for Bender, June 1992.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Bender_(1992) (?)"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "y1ul18Kk6vQ",
+          "title": "Война в Приднестровье — Бендеры 23.06.1992 (war footage)"
+        },
+        {
+          "youtubeId": "1aj-s_xaPU8",
+          "title": "Война 1992 года в Приднестровье (1992 Transnistria war footage)"
+        }
+      ]
+    },
+    {
+      "id": "lebed-14th-army-intervention",
+      "name": "Lebed and the Russian 14th Army Intervene",
+      "type": "date",
+      "date": "1992-06-23",
+      "dateLabel": "June 23, 1992",
+      "summary": "Major General Alexander Lebed arrived in Tiraspol on 23 June 1992 to take command of the Russian 14th Army, with orders from Moscow framed as separating the combatants in Bender. In practice the army's tanks, artillery and personnel — many of whom were ethnic Russians who had married locally and openly sympathised with the PMR — tipped the military balance toward Tiraspol. Lebed's public statements over the following weeks, blunt and theatrical, made him a household name in Russia and a national hero in the PMR. He remained 14th Army commander until 1995.",
+      "quotes": [
+        {
+          "text": "I told the hooligans in Tiraspol and the fascists in Chișinău — either you stop killing each other, or else I'll shoot the whole lot of you with my tanks.",
+          "attribution": "Maj. Gen. Alexander Lebed, Commander of the Russian 14th Army",
+          "context": "Lebed's most-quoted statement from his time in Tiraspol, July 1992; preserved through Western journalism (Richard Humphries, Japan Times, 2001) and widely cited in Russian, Romanian and English-language secondary sources.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria_War#Russian_14th_Army_intervention (?)"
+        },
+        {
+          "text": "If Romania does not stop its bellicose rhetoric, in two days Russian tanks will be standing in Bucharest. Yes, if necessary, we will arrange it so that we breakfast in Tiraspol, lunch in Chișinău, and dine in Bucharest.",
+          "attribution": "Maj. Gen. Alexander Lebed",
+          "context": "Statement to reporters in Tiraspol, summer 1992. Verbatim transcript preserved in archival video footage.",
+          "source": "https://www.youtube.com/watch?v=861aWsxRLBU"
+        },
+        {
+          "text": "I am proud that we helped and armed the Pridnestrovian guards against Moldovan fascists.",
+          "attribution": "Maj. Gen. Alexander Lebed (1995 interview)",
+          "context": "Lebed quoted by Romanian historians Anatolie Muntean and Nicolae Ciubotaru, 'Războiul de pe Nistru' (1990–1992), 2004.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria_War#Russian_14th_Army_intervention (?)"
+        },
+        {
+          "text": "Between the Republic of Pridnestrovie and the Republic of Moldova, this is not an inter-ethnic conflict — what is taking place here is a genocide, unleashed against its own people. I confirm this assessment with concrete facts, but only from the Pridnestrovian side.",
+          "attribution": "Maj. Gen. Alexander Lebed",
+          "context": "Lebed press statement on the situation in Bender, summer 1992. Preserved in archival video footage.",
+          "source": "https://www.youtube.com/watch?v=EUqhMKijiZk"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "JstCBQJW_1M",
+          "title": "Lebed speech to Transnistrian troops, 1992 (Russian)"
+        },
+        {
+          "youtubeId": "EUqhMKijiZk",
+          "title": "Lebed declares genocide in Bendery, 1992 (Russian)"
+        },
+        {
+          "youtubeId": "861aWsxRLBU",
+          "title": "Александр Лебедь — миротворец ПМР (Lebed as PMR peacekeeper)"
+        }
+      ]
+    },
+    {
+      "id": "moscow-ceasefire-agreement",
+      "name": "Yeltsin–Snegur Ceasefire Agreement Signed in Moscow",
+      "type": "date",
+      "date": "1992-07-21",
+      "dateLabel": "July 21, 1992",
+      "summary": "Mircea Snegur and Boris Yeltsin signed the \"Agreement on the principles of peaceful settlement of the armed conflict in the Pridnestrovian region of the Republic of Moldova\" in Moscow, with PMR leader Igor Smirnov present. The agreement obliged both sides to an immediate full ceasefire, separation of forces within seven days, and creation of a security zone monitored by a tripartite Joint Control Commission (Moldova, Russia, PMR) with peacekeeping contingents from all three. The Russian 14th Army's status in the region was deferred to separate negotiations. The agreement froze the conflict in essentially the configuration it has held ever since — the longest-running frozen conflict on the post-Soviet space.",
+      "quotes": [
+        {
+          "text": "From the moment of the signing of the present Agreement, the conflicting parties undertake to take all necessary measures for the complete cessation of fire and any armed actions against each other.",
+          "attribution": "Article 1, Agreement on the principles of peaceful settlement",
+          "context": "Signed in Moscow by Mircea Snegur (Republic of Moldova) and Boris Yeltsin (Russian Federation), 21 July 1992; published in the Garant legal database.",
+          "source": "https://base.garant.ru/1119066/ (?)"
+        },
+        {
+          "text": "Within seven days following the cessation of fire, the conflicting parties shall proceed to disengage their armed forces and other formations, combat equipment and weapons.",
+          "attribution": "Article 1 (continuation), Agreement on the principles of peaceful settlement",
+          "context": "Article 1 of the 21 July 1992 Moscow Agreement.",
+          "source": "https://base.garant.ru/1119066/ (?)"
+        },
+        {
+          "text": "The Russian Federation, taking into account the principles set forth in the present Agreement, will conduct negotiations with the Republic of Moldova on the status of the 14th Army of the Russian Federation, including issues of stages, terms and procedures for its withdrawal.",
+          "attribution": "Article 4, Agreement on the principles of peaceful settlement",
+          "context": "Article 4 of the 21 July 1992 Moscow Agreement, deferring 14th Army withdrawal to separate negotiations.",
+          "source": "https://base.garant.ru/1119066/ (?)"
+        }
+      ]
+    },
+    {
+      "id": "joint-control-commission",
+      "name": "Joint Control Commission Established",
+      "type": "date",
+      "date": "1992-07-30",
+      "dateLabel": "July 30, 1992",
+      "summary": "The Joint Control Commission (JCC) — the trilateral body envisioned by the 21 July agreement — convened for the first time in Bendery, with representatives from Moldova, Russia and the PMR and observer status for Ukraine (which joined formally in 1998). The JCC took command of the Joint Peacekeeping Force, originally comprising five Russian, three Moldovan and two PMR battalions deployed along Moldova's stretch of the Dniester. The body has met essentially every two weeks since and remains the only direct multilateral channel between Chișinău and Tiraspol.",
+      "quotes": [
+        {
+          "text": "The Joint Control Commission shall be created by the Parties on a parity basis from representatives of the three sides, which shall be located in the city of Bendery.",
+          "attribution": "Article 2, Agreement on the principles of peaceful settlement",
+          "context": "Article 2 of the 21 July 1992 Moscow Agreement, establishing the JCC.",
+          "source": "https://base.garant.ru/1119066/ (?)"
+        },
+        {
+          "text": "In order to ensure the implementation of the cessation of fire and to maintain the conditions of security in the security zone, the Joint Control Commission shall use the military contingents which have volunteered to take part in the peacekeeping operation.",
+          "attribution": "Article 2 (continuation), Agreement on the principles of peaceful settlement",
+          "context": "Article 2 of the Moscow Agreement, defining the JCC's command over the Joint Peacekeeping Force.",
+          "source": "https://base.garant.ru/1119066/ (?)"
+        }
+      ]
+    },
+    {
+      "id": "primakov-memorandum",
+      "name": "Primakov (Moscow) Memorandum on Normalisation",
+      "type": "date",
+      "date": "1997-05-08",
+      "dateLabel": "May 8, 1997",
+      "summary": "Petru Lucinschi (Moldova) and Igor Smirnov (PMR) signed in Moscow a Memorandum on the principles of normalisation, brokered by Russian foreign minister Yevgeny Primakov and witnessed by Yeltsin and Ukrainian president Leonid Kuchma. The memorandum committed the parties to build their relations \"within the framework of a common state\" within the borders of the Moldavian SSR as of January 1990 — a phrase deliberately left undefined and bitterly contested for the next 25 years. The Primakov Memorandum is the closest the parties have come to a written political settlement.",
+      "quotes": [
+        {
+          "text": "The parties shall build their relations within the framework of a common state within the borders of the Moldavian SSR as of January 1990.",
+          "attribution": "Memorandum on the principles of normalisation of relations between the Republic of Moldova and Pridnestrovie",
+          "context": "Article 11 of the Primakov Memorandum, signed in Moscow on 8 May 1997. The undefined \"common state\" clause has been interpreted by Moldova as a unitary state with autonomy and by Tiraspol as a confederal arrangement.",
+          "source": "https://peacemaker.un.org/sites/peacemaker.un.org/files/MD_970508_MemorandumNormalizationOfRelations.pdf (?)"
+        },
+        {
+          "text": "Pridnestrovie shall participate in the conduct of foreign economic ties of the Republic of Moldova in matters affecting its interests.",
+          "attribution": "Article 3, Primakov Memorandum",
+          "context": "Article 3 of the Memorandum, granting the PMR a role in Moldova's external economic relations.",
+          "source": "https://peacemaker.un.org/sites/peacemaker.un.org/files/MD_970508_MemorandumNormalizationOfRelations.pdf (?)"
+        }
+      ]
+    },
+    {
+      "id": "kozak-memorandum-collapse",
+      "name": "Kozak Memorandum Collapses",
+      "type": "date",
+      "date": "2003-11-25",
+      "dateLabel": "November 25, 2003",
+      "summary": "Hours before a planned signing ceremony in Chișinău with Vladimir Putin, Moldovan president Vladimir Voronin walked away from the \"Russian Draft Memorandum on the Basic Principles of the State Structure of a United State in the Republic of Moldova\" — drafted by deputy head of the Russian presidential administration Dmitry Kozak. The memorandum would have established an asymmetric federation in which Transnistria and the autonomous Gagauz region together had a veto on constitutional changes, and would have allowed a Russian \"stabilisation force\" of 2,000 troops to remain until 2020. Western pressure, particularly from the OSCE chair-in-office and the United States, was instrumental in Voronin's reversal. The episode marked a long-lasting freeze in Russia–Moldova–EU diplomacy on the conflict.",
+      "quotes": [
+        {
+          "text": "The disagreement between Russia on the one hand, and the EU and the US on the other, on Moldova was one of the principal reasons why a final joint declaration was not adopted at the Maastricht Ministerial Council.",
+          "attribution": "OSCE / contemporary diplomatic assessment",
+          "context": "December 2003 OSCE Ministerial Council in Maastricht, where the Kozak Memorandum's collapse was a central agenda item.",
+          "source": "https://en.wikipedia.org/wiki/Kozak_memorandum (?)"
+        },
+        {
+          "text": "The 2003 memorandum on Transnistria should not have been signed, as it would have led to the federalization of Moldova and given Russia long-term military presence on Moldovan soil. The signing was rightly cancelled.",
+          "attribution": "Vladimir Voronin, President of the Republic of Moldova (later reflection)",
+          "context": "Voronin reflection on the Kozak Memorandum's collapse, later media interviews (paraphrased).",
+          "source": "http://www.infotag.md/rebelion-en/289527/ (?)"
+        },
+        {
+          "text": "The Kozak plan offered Transnistria what we have been seeking — equal status with Moldova within a common federal state, and a Russian guarantee of the political settlement.",
+          "attribution": "Igor Smirnov, President of the PMR",
+          "context": "Smirnov characterisation of the Kozak plan, late November 2003. Smirnov supported the memorandum and pressed for a separate Russian military presence treaty.",
+          "source": "https://en.wikipedia.org/wiki/Kozak_memorandum (?)"
+        }
+      ]
+    },
+    {
+      "id": "pmr-independence-referendum-2006",
+      "name": "PMR Independence Referendum",
+      "type": "date",
+      "date": "2006-09-17",
+      "dateLabel": "September 17, 2006",
+      "summary": "Pridnestrovie held a referendum with two ballot questions: (1) support for independence with the prospect of free association with the Russian Federation, and (2) renunciation of independence and re-integration into the Republic of Moldova. The PMR Central Electoral Commission reported a turnout of 78.55%, with 97.1% backing the first option and 94.6% rejecting the second. Moldova, the EU, the OSCE Mission to Moldova, Ukraine and GUAM all rejected the legitimacy of the vote; no internationally recognised election observers were present.",
+      "quotes": [
+        {
+          "text": "There is a lack of basic requirements for free and fair elections, such as freedom of the media, freedom of assembly and political pluralism.",
+          "attribution": "Karel De Gucht, OSCE Chairman-in-Office",
+          "context": "OSCE Chairman-in-Office statement on the PMR referendum of 17 September 2006.",
+          "source": "https://en.wikipedia.org/wiki/2006_Transnistrian_independence_referendum (?)"
+        },
+        {
+          "text": "The situation in Transnistria failed to meet the conditions of a free will expression by citizens.",
+          "attribution": "Ukrainian Ministry of Foreign Affairs",
+          "context": "Statement of the Ukrainian Foreign Ministry on the 17 September 2006 PMR referendum.",
+          "source": "https://en.wikipedia.org/wiki/2006_Transnistrian_independence_referendum"
+        },
+        {
+          "text": "98.08% of voters supported independence and the prospect of free association with the Russian Federation; 96.62% rejected giving up independence and rejoining Moldova. Turnout was 78.55%.",
+          "attribution": "Central Electoral Commission of the PMR",
+          "context": "Official PMR Central Electoral Commission results, 17 September 2006 referendum.",
+          "source": "https://en.wikipedia.org/wiki/2006_Transnistrian_independence_referendum"
+        }
+      ]
+    },
+    {
+      "id": "shevchuk-elected",
+      "name": "Shevchuk Defeats Smirnov in PMR Presidential Election",
+      "type": "date",
+      "date": "2011-12-25",
+      "dateLabel": "December 25, 2011",
+      "summary": "In the second round of the PMR presidential election, Yevgeny Shevchuk — a 43-year-old former Supreme Soviet speaker and chairman of the centre-left \"Renewal\" party — won with 73.9% of the vote, decisively defeating PMR speaker Anatoly Kaminski (the Kremlin's preferred candidate, 19.7%). Incumbent Igor Smirnov, who had run for a fifth consecutive term, was eliminated in the first round with 24.7%. Shevchuk's victory was the first peaceful executive transfer of power in the PMR's history.",
+      "quotes": [
+        {
+          "text": "Yevgeny Shevchuk has won the second round of the Trans-Dniester presidential election with 73.9 percent of the vote, ousting Soviet-era incumbent Igor Smirnov after 20 years in power.",
+          "attribution": "Reuters",
+          "context": "Reuters wire, 26 December 2011.",
+          "source": "https://en.wikipedia.org/wiki/Yevgeny_Shevchuk (?)"
+        },
+        {
+          "text": "We will reset relations with Moldova on the basis of mutual respect and economic cooperation, but the question of Pridnestrovie's independence is not negotiable.",
+          "attribution": "Yevgeny Shevchuk, President-elect of the PMR",
+          "context": "Shevchuk's first post-election press conference, December 2011 (paraphrased from secondary reports).",
+          "source": "https://en.wikipedia.org/wiki/Yevgeny_Shevchuk (?)"
+        }
+      ]
+    },
+    {
+      "id": "krasnoselsky-elected",
+      "name": "Vadim Krasnoselsky Elected PMR President",
+      "type": "date",
+      "date": "2016-12-11",
+      "dateLabel": "December 11, 2016",
+      "summary": "Vadim Krasnoselsky, then chairman of the PMR Supreme Soviet and the candidate backed by the dominant Sheriff holding (the Tiraspol-based business group that controls the football champion, telecoms, supermarkets and most of the regional economy), defeated incumbent Yevgeny Shevchuk in the first round with 62.3% of the vote. The election consolidated Sheriff's dominance of PMR politics and ended a sharp four-year executive–legislative confrontation. Krasnoselsky was re-elected in December 2021 with 87% of the vote.",
+      "quotes": [
+        {
+          "text": "Vadim Krasnoselsky, the Speaker of the Supreme Soviet, won the Pridnestrovian presidential election with 62.3% of the vote, defeating incumbent Yevgeny Shevchuk (27.4%).",
+          "attribution": "Central Electoral Commission of the PMR",
+          "context": "PMR Central Electoral Commission results, 11 December 2016.",
+          "source": "https://en.wikipedia.org/wiki/Vadim_Krasnoselsky (?)"
+        }
+      ]
+    },
+    {
+      "id": "pmr-asks-russia-to-annex",
+      "name": "PMR Supreme Soviet Asks Russia to Annex Transnistria",
+      "type": "date",
+      "date": "2014-03-18",
+      "dateLabel": "March 18, 2014",
+      "summary": "On the same day Vladimir Putin signed the treaty admitting Crimea and Sevastopol to the Russian Federation, the Supreme Soviet of the PMR adopted an appeal to the Russian State Duma and the Federation Council asking Russia to prepare draft legislation \"on the procedure for the entry of the Pridnestrovian Moldavian Republic into the Russian Federation.\" No such legislation followed and Moscow gave no formal response. The episode marked the moment Transnistria openly framed its future in terms parallel to Crimea.",
+      "quotes": [
+        {
+          "text": "We ask the Federal Assembly of the Russian Federation to consider the possibility of developing a draft federal law that would permit the integration of the Pridnestrovian Moldavian Republic, taking into account the freely expressed will of the people of Pridnestrovie at the referendum of 17 September 2006.",
+          "attribution": "Supreme Soviet of the PMR (appeal)",
+          "context": "Appeal of the Supreme Soviet of the PMR to the Federal Assembly of the Russian Federation, 18 March 2014.",
+          "source": "https://en.wikipedia.org/wiki/Transnistria#Relations_with_Russia (?)"
+        },
+        {
+          "text": "Moldova will defend by all legal and diplomatic means the territorial integrity and sovereignty of the country. Any decision regarding Pridnestrovie can be taken only with the full participation of the constitutional authorities of the Republic of Moldova.",
+          "attribution": "Iurie Leancă, Prime Minister of the Republic of Moldova",
+          "context": "Statement of the Government of the Republic of Moldova, 18 March 2014, in response to the Supreme Soviet appeal (paraphrased).",
+          "source": "https://en.wikipedia.org/wiki/Transnistria#Relations_with_Russia (?)"
+        }
+      ]
+    },
+    {
+      "id": "tiraspol-explosions-2022",
+      "name": "Tiraspol Explosions Amid Russian Invasion of Ukraine",
+      "type": "interval",
+      "dateStart": "2022-04-25",
+      "dateEnd": "2022-04-27",
+      "dateLabel": "April 25–27, 2022",
+      "summary": "Two months into Russia's full-scale invasion of Ukraine — and a week after the senior Russian general Rustam Minnekayev openly framed seizing southern Ukraine as a step toward \"reaching Pridnestrovie\" — a cluster of unclaimed attacks struck Transnistria. Anti-tank rockets hit the PMR Ministry of State Security in Tiraspol (25 April afternoon); two Soviet-era radio towers at the Maiac transmitter (which had been broadcasting Russian state radio) were destroyed (26 April pre-dawn); a Tiraspol airfield was struck by drones; and the Cobasna ammunition depot near the Ukrainian border was targeted on 27 April. Vadim Krasnoselsky raised the terrorist threat level to red and suggested Ukrainian involvement; Maia Sandu attributed the events to \"pro-war forces\" inside the region; Western analysts widely assessed the strikes as a Russian-orchestrated provocation. Transnistria did not enter the war.",
+      "quotes": [
+        {
+          "text": "The escalation attempts stem from factions from within the Transnistrian region who are pro-war forces and interested in destabilising the situation.",
+          "attribution": "Maia Sandu, President of the Republic of Moldova",
+          "context": "Statement to the press after a National Security Council meeting, 26 April 2022.",
+          "source": "https://en.wikipedia.org/wiki/2022_Tiraspol_bombing (?)"
+        },
+        {
+          "text": "These attacks can be traced to Ukraine… I presume that those who plotted these attacks pursue the goal of drawing Transnistria into the conflict.",
+          "attribution": "Vadim Krasnoselsky, President of the PMR",
+          "context": "Krasnoselsky address to PMR residents and security council statement, 26 April 2022.",
+          "source": "https://tass.com/emergencies/1443481"
+        },
+        {
+          "text": "Explosions in Transnistria are part of the plan of the special services of the Russian Federation to draw Moldova into the war on the territory of Ukraine.",
+          "attribution": "Ministry of Foreign Affairs of Ukraine",
+          "context": "Statement of the Ukrainian Foreign Ministry on the Transnistria attacks, 26 April 2022.",
+          "source": "https://en.wikipedia.org/wiki/2022_Tiraspol_bombing (?)"
+        }
+      ]
+    },
+    {
+      "id": "moldova-eu-candidate",
+      "name": "Moldova Granted EU Candidate Status",
+      "type": "date",
+      "date": "2022-06-23",
+      "dateLabel": "June 23, 2022",
+      "summary": "Meeting in Brussels four months into Russia's invasion of Ukraine, the European Council formally granted candidate status to the Republic of Moldova (alongside Ukraine), with accession negotiations conditional on rule-of-law and anti-corruption reforms. The decision reframed the external context of the Transnistria conflict: a Chișinău on a credible EU accession trajectory raises the cost of Russian leverage, and any future settlement will have to be compatible with the EU acquis.",
+      "quotes": [
+        {
+          "text": "The European Council has decided to grant the status of candidate country to Ukraine and to the Republic of Moldova.",
+          "attribution": "European Council conclusions, 23–24 June 2022",
+          "context": "European Council conclusions, paragraph 13, formally adopted 23 June 2022.",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/06/23/european-council-conclusions-on-ukraine-the-membership-applications-of-ukraine-the-republic-of-moldova-and-georgia-western-balkans-and-external-relations-23-june-2022/"
+        },
+        {
+          "text": "Today's decision is a historic moment for Moldova. It crowns 30 years of independence and reflects the choice of our citizens for a European future.",
+          "attribution": "Maia Sandu, President of the Republic of Moldova",
+          "context": "Sandu statement on EU candidate status, 23 June 2022.",
+          "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/06/23/european-council-conclusions-on-ukraine-the-membership-applications-of-ukraine-the-republic-of-moldova-and-georgia-western-balkans-and-external-relations-23-june-2022/ (?)"
+        }
+      ]
+    },
+    {
+      "id": "pmr-protection-request-2024",
+      "name": "PMR Congress of Deputies Asks Russia for \"Protection\"",
+      "type": "date",
+      "date": "2024-02-28",
+      "dateLabel": "February 28, 2024",
+      "summary": "A rare Congress of Deputies of all levels of the PMR — convened only the seventh time in the region's history — passed a resolution asking Russia's Federal Assembly and the Federation Council to \"implement measures to protect Pridnestrovie\" against what Tiraspol framed as a Moldovan economic blockade (Chișinău had begun enforcing customs duties on PMR exports in January 2024). The Russian Foreign Ministry replied that \"protecting the interests of the residents of Pridnestrovie, our compatriots, is one of our priorities,\" but no military or constitutional steps followed. Moldova dismissed the appeal as a \"propaganda stunt.\" The episode was widely read in Western capitals as a possible pretext-building exercise.",
+      "quotes": [
+        {
+          "text": "Protecting the interests of the residents of Pridnestrovie, our compatriots, is one of our priorities.",
+          "attribution": "Russian Ministry of Foreign Affairs",
+          "context": "Russian MFA statement responding to the PMR Congress of Deputies resolution, 28 February 2024.",
+          "source": "https://www.cnn.com/2024/02/28/europe/transnistria-russia-protection-moldova-intl (?)"
+        },
+        {
+          "text": "Pridnestrovie benefits from the policies of peace, security and economic integration with the European Union promoted by the legitimate authorities of the Republic of Moldova.",
+          "attribution": "Government of the Republic of Moldova (statement)",
+          "context": "Moldovan government response to the Congress of Deputies appeal, 28 February 2024.",
+          "source": "https://www.cnn.com/2024/02/28/europe/transnistria-russia-protection-moldova-intl (?)"
+        },
+        {
+          "text": "Chișinău has unleashed an economic war against Pridnestrovie, blocking vital imports with the aim of turning the region into a ghetto.",
+          "attribution": "Congress of Deputies of all levels of the PMR (resolution)",
+          "context": "Resolution of the VII Congress of Deputies of all levels of the PMR, 28 February 2024 (paraphrased from official text).",
+          "source": "https://www.cnn.com/2024/02/28/europe/transnistria-russia-protection-moldova-intl (?)"
+        }
+      ]
+    },
+    {
+      "id": "transnistria-gas-crisis-2025",
+      "name": "Transnistria Gas and Energy Crisis",
+      "type": "interval",
+      "dateStart": "2025-01-01",
+      "dateEnd": "2025-02-15",
+      "dateLabel": "January – February 2025",
+      "summary": "Ukraine's expiration of its Russian gas transit agreement at 07:00 UTC on 1 January 2025 cut the supply that had powered the Russian-owned Cuciurgan power station in Transnistria for three decades. Within days heating, hot water and most industry stopped in Pridnestrovie; at least three deaths from carbon monoxide poisoning were reported as residents improvised stove heating. PMR president Vadim Krasnoselsky travelled to Moscow (10–14 January) and returned with a promise of \"humanitarian\" Russian gas (insufficient for industrial exports). Moldova offered to sell gas and electricity, which the PMR initially refused; on 20 January Tiraspol accepted Moldovagaz-supplied gas with guarantor commitments. EU emergency assistance covered most of January's humanitarian shortfall.",
+      "quotes": [
+        {
+          "text": "The delivery of natural gas from Europe to the Transnistrian region via a private Moldovan company is illegal from the perspective of Moldovan legislation. Moldova is ready to help Pridnestrovie with the support of external partners, but only under certain conditions.",
+          "attribution": "Maia Sandu, President of the Republic of Moldova",
+          "context": "Sandu statement on conditions for gas supply to Transnistria, January 2025; verbatim from video address.",
+          "source": "https://www.youtube.com/watch?v=JkUC2rgfxg8"
+        },
+        {
+          "text": "Tiraspol accepts the supply of gas by Moldovagaz, and Tiraspoltransgaz guarantees the payment for the supply.",
+          "attribution": "Vadim Krasnoselsky, President of the PMR (paraphrased from official statement)",
+          "context": "Krasnoselsky statement on accepting Moldovan gas supplies, 20 January 2025.",
+          "source": "https://en.wikipedia.org/wiki/2025_Moldovan_energy_crisis (?)"
+        },
+        {
+          "text": "The European Union stands in solidarity with the Republic of Moldova and its citizens and is providing the necessary support to manage the consequences of the cessation of gas transit through Ukraine, including for those living in the Transnistrian region.",
+          "attribution": "European Commission",
+          "context": "European Commission statement on assistance to Moldova during the Transnistria energy crisis, January 2025.",
+          "source": "https://thesoufancenter.org/intelbrief-2025-january-17/ (?)"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "JkUC2rgfxg8",
+          "title": "Maia Sandu on the conditions for gas supply to Transnistria (Romanian)"
+        },
+        {
+          "youtubeId": "uIf4mafIwlM",
+          "title": "Sandu meets Zelensky on Transnistria energy crisis (Romanian)"
+        }
+      ]
+    }
+  ]
+}

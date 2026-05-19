@@ -1,0 +1,11 @@
+{
+  "id": "transnistria",
+  "display_name_en": "Transnistria",
+  "display_name_ru": "Приднестровье",
+  "tagline_en": "Documented timeline of the Transnistria war and the frozen conflict that followed, 1989–present.",
+  "tagline_ru": "Документированная хронология Приднестровского конфликта и заморозки, последовавшей за войной, 1989 — настоящее время.",
+  "languages": ["en", "ru"],
+  "date_start": "1989-08-31",
+  "date_end": null,
+  "has_wiki_compare": false
+}

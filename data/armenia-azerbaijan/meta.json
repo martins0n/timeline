@@ -1,0 +1,11 @@
+{
+  "id": "armenia-azerbaijan",
+  "display_name_en": "Armenia–Azerbaijan",
+  "display_name_ru": "Армения–Азербайджан",
+  "tagline_en": "Documented timeline of the Nagorno-Karabakh conflict and its aftermath, 1988–present.",
+  "tagline_ru": "Документированная хронология нагорно-карабахского конфликта и его последствий, 1988 — настоящее время.",
+  "languages": ["en", "ru"],
+  "date_start": "1988-02-20",
+  "date_end": null,
+  "has_wiki_compare": true
+}

@@ -1,0 +1,223 @@
+{
+  "generated": "2026-05-18T21:07:53.525350+00:00",
+  "stats": {
+    "total_urls": 27,
+    "archived": 10,
+    "failed": 17
+  },
+  "sources": [
+    {
+      "url": "http://www.infotag.md/rebelion-en/289527/",
+      "wayback_url": "https://web.archive.org/web/20260518205259/https://www.infotag.md/rebelion-en/289527/",
+      "archived_at": "2026-05-18T20:53:25.955375+00:00",
+      "unverified": true,
+      "milestones": [
+        "kozak-memorandum-collapse"
+      ]
+    },
+    {
+      "url": "https://base.garant.ru/1119066/",
+      "wayback_url": "https://web.archive.org/web/20260518202921/https://base.garant.ru/1119066/",
+      "archived_at": "2026-05-18T20:50:54.417293+00:00",
+      "unverified": true,
+      "milestones": [
+        "moscow-ceasefire-agreement",
+        "joint-control-commission"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dub%C4%83sari",
+      "wayback_url": "http://web.archive.org/web/20260412074401/https://en.wikipedia.org/wiki/Dub%C4%83sari",
+      "archived_at": "2026-05-18T20:44:37.915864+00:00",
+      "unverified": true,
+      "milestones": [
+        "first-dubasari-clash"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Igor_Smirnov_(politician)",
+      "wayback_url": "http://web.archive.org/web/20260512134633/https://en.wikipedia.org/wiki/Igor_Smirnov_(politician)",
+      "archived_at": "2026-05-18T20:44:50.999188+00:00",
+      "unverified": true,
+      "milestones": [
+        "smirnov-elected-pmr-president"
+      ]
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Вооружённый_конфликт_в_Приднестровье",
+      "wayback_url": "http://web.archive.org/web/20260314194845/https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D0%B2_%D0%9F%D1%80%D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%8C%D0%B5",
+      "archived_at": "2026-05-18T20:44:24.230705+00:00",
+      "unverified": true,
+      "milestones": [
+        "first-dubasari-clash"
+      ]
+    },
+    {
+      "url": "https://thesoufancenter.org/intelbrief-2025-january-17/",
+      "wayback_url": "https://web.archive.org/web/20260518210736/https://thesoufancenter.org/intelbrief-2025-january-17/",
+      "archived_at": "2026-05-18T21:07:53.525246+00:00",
+      "unverified": true,
+      "milestones": [
+        "transnistria-gas-crisis-2025"
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/2024/02/28/europe/transnistria-russia-protection-moldova-intl",
+      "wayback_url": "https://web.archive.org/web/20260518210230/https://www.cnn.com/2024/02/28/europe/transnistria-russia-protection-moldova-intl",
+      "archived_at": "2026-05-18T21:02:48.189720+00:00",
+      "unverified": true,
+      "milestones": [
+        "pmr-protection-request-2024"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=861aWsxRLBU",
+      "wayback_url": "https://web.archive.org/web/20260518204934/https://www.youtube.com/watch?v=861aWsxRLBU",
+      "archived_at": "2026-05-18T20:49:41.828782+00:00",
+      "unverified": false,
+      "milestones": [
+        "lebed-14th-army-intervention"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EUqhMKijiZk",
+      "wayback_url": "https://web.archive.org/web/20260518205028/https://www.youtube.com/watch?v=EUqhMKijiZk",
+      "archived_at": "2026-05-18T20:50:32.682065+00:00",
+      "unverified": false,
+      "milestones": [
+        "lebed-14th-army-intervention"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JkUC2rgfxg8",
+      "wayback_url": "https://web.archive.org/web/20260518210447/https://www.youtube.com/watch?v=JkUC2rgfxg8",
+      "archived_at": "2026-05-18T21:04:49.618761+00:00",
+      "unverified": false,
+      "milestones": [
+        "transnistria-gas-crisis-2025"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://en.vspmr.org/news/supreme-council/istoriya-sozdaniya-pridnestrovjya-i-pozdravleniya-ot-druzey-respubliki.html",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "pmssr-declared",
+        "smirnov-elected-pmr-president"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2006_Transnistrian_independence_referendum",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "pmr-independence-referendum-2006"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2022_Tiraspol_bombing",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "tiraspol-explosions-2022"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2025_Moldovan_energy_crisis",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "transnistria-gas-crisis-2025"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bender_(1992)",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "battle-of-bender"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kozak_memorandum",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "kozak-memorandum-collapse"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moldovan_language#Moldovan_in_post-Soviet_Moldova",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "moldovan-language-law"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transnistria#Relations_with_Russia",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "pmr-asks-russia-to-annex"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transnistria_War",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "snegur-state-of-emergency"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transnistria_War#Background",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "moldovan-language-law"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transnistria_War#Russian_14th_Army_intervention",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "lebed-14th-army-intervention"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vadim_Krasnoselsky",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "krasnoselsky-elected"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yevgeny_Shevchuk",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "shevchuk-elected"
+      ]
+    },
+    {
+      "url": "https://peacemaker.un.org/sites/peacemaker.un.org/files/MD_970508_MemorandumNormalizationOfRelations.pdf",
+      "error": "HTTP Error 523: UNKNOWN",
+      "milestones": [
+        "primakov-memorandum"
+      ]
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Приднестровская_Молдавская_ССР",
+      "error": "'ascii' codec can't encode characters in position 40-54: ordinal not in range(128)",
+      "milestones": [
+        "pmssr-declared"
+      ]
+    },
+    {
+      "url": "https://tass.com/emergencies/1443481",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "tiraspol-explosions-2022"
+      ]
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/06/23/european-council-conclusions-on-ukraine-the-membership-applications-of-ukraine-the-republic-of-moldova-and-georgia-western-balkans-and-external-relations-23-june-2022/",
+      "error": "HTTP Error 520: UNKNOWN",
+      "milestones": [
+        "moldova-eu-candidate"
+      ]
+    }
+  ]
+}

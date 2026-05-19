@@ -327,7 +327,8 @@
 
   async function init() {
     try {
-      const resp = await fetch('data/wiki-compare.json');
+      const conflictId = window.CONFLICT_ID || 'armenia-azerbaijan';
+      const resp = await fetch(`/data/${conflictId}/wiki-compare.json`);
       STATE.data = await resp.json();
     } catch (e) {
       console.error('Failed to load wiki-compare.json', e);

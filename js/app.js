@@ -3,17 +3,9 @@
 
   let data = null;
   let milestones = [];
+  let eras = [];
   let currentIndex = 0;
   let isAnimating = false;
-
-  const eras = [
-    { after: 0, label: 'Pre-War' },
-    { after: 11, label: 'First War' },
-    { after: 23, label: 'Frozen Conflict' },
-    { after: 50, label: 'Post-April War' },
-    { after: 55, label: '44-Day War' },
-    { after: 62, label: 'Post-War' }
-  ];
 
   // DOM refs
   const $ = (sel) => document.querySelector(sel);
@@ -31,15 +23,21 @@
   async function init() {
     try {
       const lang = document.documentElement.lang || 'en';
-      const dataFile = lang === 'ru' ? 'data/milestones-ru.json' : 'data/milestones.json';
-      const resp = await fetch(dataFile);
+      const conflictId = window.CONFLICT_ID || 'armenia-azerbaijan';
+      const suffix = lang === 'ru' ? '-ru' : '';
+      const resp = await fetch(`/data/${conflictId}/milestones${suffix}.json`);
       data = await resp.json();
     } catch (e) {
       contentEl.innerHTML = '<p style="color:#e55">Failed to load timeline data.</p>';
       return;
     }
 
-    milestones = data.milestones;
+    milestones = data.milestones || [];
+    eras = (data.meta && data.meta.eras) || [];
+
+    if (!milestones.length) {
+      contentEl.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:40px 24px">No milestones yet.</p>';
+    }
 
     // Header
     titleEl.textContent = data.meta.title;

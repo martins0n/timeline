@@ -3,34 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Все источники хронологии армяно-азербайджанского конфликта: документы ООН, доклады Human Rights Watch, заявления правительств, книги и видеоархивы.">
-  <title>Источники — Армяно-Азербайджанский конфликт: Хронология</title>
-  <link rel="canonical" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html">
-  <link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html">
-  <link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html">
-  <link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html">
+  <meta name="description" content="Все источники, использованные в хронологии Приднестровского конфликта: стенограммы парламентов, заявления ОБСЕ, государственные документы, книги и видеоархивы.">
+  <title>Источники — Хронология Приднестровского конфликта</title>
+  <link rel="canonical" href="https://timeline.martins0n.com/transnistria/sources-ru.html">
+  <link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/sources.html">
+  <link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/sources-ru.html">
+  <link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/sources.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Источники — Армяно-Азербайджанский конфликт: Хронология">
-  <meta property="og:description" content="Все источники хронологии армяно-азербайджанского конфликта: документы ООН, доклады Human Rights Watch, заявления правительств, книги и видеоархивы.">
-  <meta property="og:url" content="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html">
+  <meta property="og:title" content="Источники — Хронология Приднестровского конфликта">
+  <meta property="og:description" content="Все источники, использованные в хронологии Приднестровского конфликта: стенограммы парламентов, заявления ОБСЕ, государственные документы, книги и видеоархивы.">
+  <meta property="og:url" content="https://timeline.martins0n.com/transnistria/sources-ru.html">
   <meta property="og:locale" content="ru_RU">
   <meta property="og:locale:alternate" content="en_US">
-  <meta property="og:site_name" content="Армяно-Азербайджанский конфликт: Хронология">
+  <meta property="og:site_name" content="Timeline">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Источники — Армяно-Азербайджанский конфликт: Хронология">
-  <meta name="twitter:description" content="Все источники хронологии армяно-азербайджанского конфликта: документы ООН, доклады Human Rights Watch, заявления правительств, книги и видеоархивы.">
+  <meta name="twitter:title" content="Источники — Хронология Приднестровского конфликта">
+  <meta name="twitter:description" content="Все источники, использованные в хронологии Приднестровского конфликта: стенограммы парламентов, заявления ОБСЕ, государственные документы, книги и видеоархивы.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕐</text></svg>">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Источники — Армяно-Азербайджанский конфликт: Хронология",
-    "url": "https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html",
-    "description": "Все источники хронологии армяно-азербайджанского конфликта: документы ООН, доклады Human Rights Watch, заявления правительств, книги и видеоархивы.",
+    "name": "Источники — Хронология Приднестровского конфликта",
+    "url": "https://timeline.martins0n.com/transnistria/sources-ru.html",
+    "description": "Все источники, использованные в хронологии Приднестровского конфликта: стенограммы парламентов, заявления ОБСЕ, государственные документы, книги и видеоархивы.",
     "inLanguage": "ru",
     "isPartOf": {
       "@type": "WebSite",
-      "url": "https://armenia-azerbaijan-conflict-timeline.martins0n.com/"
+      "url": "https://timeline.martins0n.com/transnistria/"
     }
   }
   </script>
@@ -185,6 +185,7 @@
       h1 { font-size: 1.1rem; }
     }
   </style>
+  <script>window.CONFLICT_ID = 'transnistria';</script>
 </head>
 <body>
   <div class="container">
@@ -206,7 +207,7 @@
 
   <script>
     (async function() {
-      const resp = await fetch('data/milestones-ru.json');
+      const resp = await fetch('/data/' + (window.CONFLICT_ID || 'armenia-azerbaijan') + '/milestones-ru.json');
       const data = await resp.json();
       const milestones = data.milestones;
       const nameMap = {};
@@ -269,6 +270,17 @@
       // Documents
       const docsEl = document.getElementById('documents');
       const domainOrder = {
+        'parlament.md': 'Парламент Молдовы',
+        'presedinte.md': 'Президент Молдовы',
+        'gov.md': 'Правительство Молдовы',
+        'mfa.gov.md': 'МИД Молдовы',
+        'gospmr.org': 'Правительство ПМР',
+        'mid.gospmr.org': 'МИД ПМР',
+        'president.gospmr.org': 'Президент ПМР',
+        'vspmr.org': 'Верховный Совет ПМР',
+        'novostipmr.com': 'Государственное информагентство ПМР',
+        'osce.org': 'ОБСЕ',
+        'promolex.md': 'Promo-LEX (молдавская правозащитная НКО)',
         'digitallibrary.un.org': 'United Nations Digital Library',
         'press.un.org': 'United Nations Press',
         'ohchr.org': 'UN Office of the High Commissioner for Human Rights',

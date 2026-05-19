@@ -1,60 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Landing / chooser -->
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/"/>
+    <loc>https://timeline.martins0n.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/"/>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/ru.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/"/>
+    <loc>https://timeline.martins0n.com/ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/"/>
     <priority>1.0</priority>
   </url>
+
+  <!-- Armenia–Azerbaijan -->
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/actors.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/actors.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/actors-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/actors.html"/>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors-ru.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/actors.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/actors-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/actors.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/actors-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/actors.html"/>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/sources.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/sources.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/sources-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/sources.html"/>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/sources.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/sources-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/sources.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/sources-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/sources.html"/>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare.html"/>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare-ru.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://armenia-azerbaijan-conflict-timeline.martins0n.com/wiki-compare.html"/>
+    <loc>https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/armenia-azerbaijan/wiki-compare.html"/>
     <priority>0.8</priority>
+  </url>
+
+  <!-- Transnistria -->
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/actors.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/actors.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/actors-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/actors.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/actors-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/actors.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/actors-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/actors.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/sources.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/sources.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/sources-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/sources.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://timeline.martins0n.com/transnistria/sources-ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeline.martins0n.com/transnistria/sources.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://timeline.martins0n.com/transnistria/sources-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeline.martins0n.com/transnistria/sources.html"/>
+    <priority>0.7</priority>
   </url>
 </urlset>

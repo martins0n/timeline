@@ -1,0 +1,16 @@
+# Cloudflare Pages redirects.
+# Source: https://developers.cloudflare.com/pages/configuration/redirects/
+#
+# Migration: armenia-azerbaijan-conflict-timeline.martins0n.com is the old
+# single-conflict domain. All traffic on that host now 301s to the new
+# multi-conflict site at timeline.martins0n.com, under /armenia-azerbaijan/.
+
+# Old root → new AA root
+https://armenia-azerbaijan-conflict-timeline.martins0n.com/  https://timeline.martins0n.com/armenia-azerbaijan/  301!
+
+# Anything under /data/ on the old host hits the new AA data path
+# (preserves anyone who scraped the JSON directly)
+https://armenia-azerbaijan-conflict-timeline.martins0n.com/data/*  https://timeline.martins0n.com/data/armenia-azerbaijan/:splat  301!
+
+# Catch-all for any other path on the old host
+https://armenia-azerbaijan-conflict-timeline.martins0n.com/*  https://timeline.martins0n.com/armenia-azerbaijan/:splat  301!
