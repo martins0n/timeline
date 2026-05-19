@@ -166,7 +166,7 @@
           <p class="quote-text">${escapeHtml(q.text)}</p>
           <div class="quote-attribution">${escapeHtml(q.attribution)}</div>
           ${q.context ? `<div class="quote-context">${escapeHtml(q.context)}</div>` : ''}
-          ${q.source ? (q.source.startsWith('http') ? `<a class="quote-source" href="${q.source}" target="_blank" rel="noopener">Source ↗</a>` : `<span class="quote-source-text">${escapeHtml(q.source)}</span>`) : ''}
+          ${renderSource(q.source)}
         </div>
       `).join('');
       quotesEl.style.display = '';
@@ -279,6 +279,24 @@
     const div = document.createElement('div');
     div.textContent = str;
     return div.innerHTML;
+  }
+
+  // Source strings sometimes end with " (?)" to mark the quote as not
+  // independently verified against the primary source. Split that marker
+  // off the URL/text before rendering so the href stays clean.
+  function renderSource(raw) {
+    if (!raw) return '';
+    const trimmed = String(raw).trim();
+    const unverified = trimmed.endsWith('(?)');
+    const body = unverified ? trimmed.slice(0, -3).trim() : trimmed;
+    const flag = unverified ? ' <span class="quote-source-unverified" title="Source URL provided but quote text not independently verified against the primary source">(?)</span>' : '';
+    if (!body) {
+      return '<span class="quote-source-text">unsourced (?)</span>';
+    }
+    if (body.startsWith('http')) {
+      return `<a class="quote-source" href="${escapeHtml(body)}" target="_blank" rel="noopener">Source ↗</a>${flag}`;
+    }
+    return `<span class="quote-source-text">${escapeHtml(body)}</span>${flag}`;
   }
 
   // === Go ===

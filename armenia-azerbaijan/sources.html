@@ -229,15 +229,20 @@
         if (videos.length > 0) milestonesWithVideos++;
 
         quotes.forEach(q => {
-          const src = q.source || '';
+          let src = q.source || '';
+          if (!src) return;
+          const unverified = src.trim().endsWith('(?)');
+          if (unverified) src = src.trim().slice(0, -3).trim();
           if (!src) return;
           if (src.startsWith('http')) {
-            const domain = new URL(src).hostname.replace('www.', '');
+            let domain;
+            try { domain = new URL(src).hostname.replace('www.', ''); }
+            catch (e) { return; }
             if (!urlSources[domain]) urlSources[domain] = [];
-            urlSources[domain].push({ url: src, attribution: q.attribution, milestone: m.id });
+            urlSources[domain].push({ url: src, attribution: q.attribution, milestone: m.id, unverified: unverified });
           } else {
             if (!bookSources[src]) bookSources[src] = [];
-            bookSources[src].push({ attribution: q.attribution, milestone: m.id });
+            bookSources[src].push({ attribution: q.attribution, milestone: m.id, unverified: unverified });
           }
         });
 
@@ -313,7 +318,7 @@
         docsHtml += `<h3>${esc(label)}</h3><div class="source-group">`;
         unique.forEach(s => {
           docsHtml += `<div class="source-item">
-            <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a>
+            <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a>${s.unverified ? ' <span class="source-unverified" title="Quote text not independently verified against this source">(?)</span>' : ''}
             <div class="source-meta">Quoted by: ${esc(s.attribution)} — <a class="milestone-link" href="index.html#${s.milestone}">${esc(nameMap[s.milestone])}</a></div>
           </div>`;
         });

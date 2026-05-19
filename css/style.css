@@ -226,6 +226,14 @@ body {
   display: inline-block;
 }
 
+.quote-source-unverified,
+.source-unverified {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  cursor: help;
+  margin-left: 4px;
+}
+
 /* === Video Embeds === */
 .milestone-videos {
   display: flex;
