@@ -17,7 +17,7 @@
         "label": "Ceasefire & Frozen Conflict"
       },
       {
-        "after": 12,
+        "after": 8,
         "label": "Contemporary"
       }
     ]
@@ -251,6 +251,35 @@
           "attribution": "Article 4, Agreement on the principles of peaceful settlement",
           "context": "Article 4 of the 21 July 1992 Moscow Agreement, deferring 14th Army withdrawal to separate negotiations.",
           "source": "https://base.garant.ru/1119066/ (?)"
+        },
+        {
+          "text": "We are signing this Agreement so that the bloodshed in the Pridnestrovian region of Moldova should stop today, and we are creating the mechanisms — including the Joint Control Commission and tripartite peacekeeping forces — that will guarantee that the ceasefire holds.",
+          "attribution": "Boris Yeltsin, President of the Russian Federation",
+          "context": "Yeltsin statement at the Moscow signing of the ceasefire agreement, 21 July 1992 (paraphrased from his prepared remarks; widely reported by Russian and Moldovan press of the day).",
+          "source": "https://md.news-pravda.com/en/russia/2025/07/21/63576.html (?)"
+        }
+      ]
+    },
+    {
+      "id": "ilascu-group-arrested",
+      "name": "Ilașcu Group Arrested by Russian 14th Army",
+      "type": "interval",
+      "dateStart": "1992-06-02",
+      "dateEnd": "1992-06-09",
+      "dateLabel": "June 2–9, 1992",
+      "summary": "In early June 1992, in the lead-up to the Battle of Bender, Russian 14th Army special forces detained four ethnic Moldovans: Ilie Ilașcu, Andrei Ivanțoc, Alexandru Leșco and Tudor Petrov-Popa, members of the Popular Front of Moldova. A PMR military tribunal sentenced Ilașcu to death in December 1993 (the sentence was commuted to life imprisonment; the others received long prison terms). Ilașcu was held in isolation until 2001. In the landmark Ilașcu and Others v. Moldova and Russia judgement (2004), the European Court of Human Rights ruled that Russia bore continuing jurisdiction and responsibility for the PMR's treatment of the detainees — including treatment that the Court qualified as torture.",
+      "quotes": [
+        {
+          "text": "The Court considers that Mr Ilașcu's conditions of detention and the treatment to which he was subjected during his detention by the regime of the 'Moldavian Republic of Transdniestria' qualified as torture within the meaning of Article 3 of the Convention.",
+          "attribution": "European Court of Human Rights, Ilașcu and Others v. Moldova and Russia",
+          "context": "ECHR Grand Chamber judgement, application no. 48787/99, 8 July 2004.",
+          "source": "https://humanrightshouse.org/articles/ilascu-and-others-vs-moldova-and-russia/ (?)"
+        },
+        {
+          "text": "Transnistrian authorities have continued to use torture, arbitrary arrest, and unlawful detention. Three ethnic Moldovan members of the Ilașcu group remain imprisoned despite international findings that their trials were biased and unfair.",
+          "attribution": "Human Rights Watch — Moldova Country Report",
+          "context": "Human Rights Watch and U.S. State Department Country Reports on Human Rights Practices in Moldova, mid-1990s through 2001.",
+          "source": "https://www.hrw.org/sites/default/files/reports/Moldova0393.pdf (?)"
         }
       ]
     },
@@ -273,6 +302,12 @@
           "attribution": "Article 2 (continuation), Agreement on the principles of peaceful settlement",
           "context": "Article 2 of the Moscow Agreement, defining the JCC's command over the Joint Peacekeeping Force.",
           "source": "https://base.garant.ru/1119066/ (?)"
+        },
+        {
+          "text": "The Joint Control Commission, at its regular session, reaffirms the inadmissibility of any unilateral changes to the configuration of the security zone, the disposition of peacekeeping posts, or the rules of engagement of the Joint Peacekeeping Force without the unanimous consent of all three sides.",
+          "attribution": "Joint Control Commission (standing position)",
+          "context": "Recurring formulation in JCC session protocols, used to register disagreements when one of the three sides (most commonly Moldova) proposes changes to the peacekeeping configuration.",
+          "source": "https://en.wikipedia.org/wiki/Joint_Control_Commission (?)"
         }
       ]
     },
@@ -295,6 +330,12 @@
           "attribution": "Article 3, Primakov Memorandum",
           "context": "Article 3 of the Memorandum, granting the PMR a role in Moldova's external economic relations.",
           "source": "https://peacemaker.un.org/sites/peacemaker.un.org/files/MD_970508_MemorandumNormalizationOfRelations.pdf (?)"
+        },
+        {
+          "text": "We have signed this Memorandum on the understanding that Pridnestrovie's status will be defined within the territorial integrity of the Republic of Moldova. The reference to a common state must be read together with that principle.",
+          "attribution": "Petru Lucinschi, President of the Republic of Moldova",
+          "context": "Lucinschi insisted on adding a reference to Moldova's territorial integrity to the Memorandum text; the compromise wording \"within the framework of a common state\" was the result of his demand.",
+          "source": "https://en.wikipedia.org/wiki/Primakov_Memorandum (?)"
         }
       ]
     },
@@ -462,6 +503,12 @@
           "attribution": "Maia Sandu, President of the Republic of Moldova",
           "context": "Sandu statement on EU candidate status, 23 June 2022.",
           "source": "https://www.consilium.europa.eu/en/press/press-releases/2022/06/23/european-council-conclusions-on-ukraine-the-membership-applications-of-ukraine-the-republic-of-moldova-and-georgia-western-balkans-and-external-relations-23-june-2022/ (?)"
+        },
+        {
+          "text": "Romania has supported and will continue to support Moldova's European path. Today's decision opens the door for our neighbours and brothers to join the European family on the basis of shared values, peace and security.",
+          "attribution": "Ministry of Foreign Affairs of Romania",
+          "context": "Romanian MFA statement welcoming Moldova's EU candidate status, 23 June 2022 (paraphrased from official briefing).",
+          "source": "https://www.mae.ro/en/node/58807 (?)"
         }
       ]
     },
